@@ -19,13 +19,6 @@ provider:
       Resource: "arn:aws:dynamodb:us-east-1:*:*"
 
 functions:
-  hello:
-    handler: handler.hello
-    events:
-      - http:
-          path: studio-ghibli/hello
-          method: get
-          cors: true
   contents:
     handler: src/functions/short_contents/handler.listFlow
     events:
