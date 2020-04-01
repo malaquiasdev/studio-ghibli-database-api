@@ -26,6 +26,13 @@ functions:
           path: studio-ghibli/hello
           method: get
           cors: true
+  contents:
+    handler: src/functions/short_contents/handler.listFlow
+    events:
+      - http:
+          path: studio-ghibli/contents
+          method: get
+          cors: true
 
 # you can add CloudFormation resource templates here
 #resources:
