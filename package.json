@@ -7,7 +7,11 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "SLS_DEBUG=* && node ./node_modules/.bin/serverless offline",
+    "build-doc": "apidoc -i src/ -o docs",
+    "lint": "eslint --format codeframe src",
+    "test": "jest -u --silent test",
+    "coveralls": "jest --silent --coverage && cat ./coverage/lcov.info | coveralls"
   },
   "repository": {
     "type": "git",
