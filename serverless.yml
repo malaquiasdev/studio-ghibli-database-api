@@ -1,0 +1,43 @@
+service: studio-ghibli-service
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  stage: dev
+  region: us-east-1
+  deploymentBucket: studio-ghibli-service
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - s3:*
+        - cloudwatch:*
+        - dynamodb:*
+      Resource: "arn:aws:dynamodb:us-east-1:*:*"
+
+functions:
+  hello:
+    handler: handler.hello
+    events:
+      - http:
+          path: studio-ghibli/hello
+          method: get
+          cors: true
+
+# you can add CloudFormation resource templates here
+#resources:
+#  Resources:
+#    NewResource:
+#      Type: AWS::S3::Bucket
+#      Properties:
+#        BucketName: my-new-bucket
+#  Outputs:
+#     NewOutput:
+#       Description: "Description for the output"
+#       Value: "Some output value"
+
+package:
+  individually: true
+  include:
+    - src/**
+  exclude:
+    - test/**
