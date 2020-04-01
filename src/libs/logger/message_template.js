@@ -7,4 +7,4 @@ function messageTemplate(winston, options) {
   ${stack}`;
 }
 
-export default messageTemplate;
+module.exports = messageTemplate;

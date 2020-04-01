@@ -17,4 +17,4 @@ function getDateTime() {
   return `${date} ${time}`;
 }
 
-export default getDateTime;
+module.exports = getDateTime;
