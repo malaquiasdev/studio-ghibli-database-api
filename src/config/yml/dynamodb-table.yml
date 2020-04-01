@@ -1,14 +1,14 @@
 Resources:
-    MamaeEuQueroClientsTable:
-      Type: AWS::DynamoDB::Table
-      Properties:
-        TableName: StudioGhibliServiceShortContentsTable
-        AttributeDefinitions:
-          - AttributeName: id
-            AttributeType: S
-        KeySchema:
-          - AttributeName: id
-            KeyType: HASH
-        ProvisionedThroughput:
-          ReadCapacityUnits: 1
-          WriteCapacityUnits: 1
+  StudioGhibliServiceShortContentsTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: StudioGhibliServiceShortContentsTable
+      AttributeDefinitions:
+        - AttributeName: id
+          AttributeType: S
+      KeySchema:
+        - AttributeName: id
+          KeyType: HASH
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
