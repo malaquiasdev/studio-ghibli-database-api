@@ -13,7 +13,7 @@ const getTheBody = require("./get_the_body");
  *  @returns {Object} the response object
  */
 function handlerError(err, requestId) {
-  logger("error", err);
+  logger.error(err);
   const body = getTheBody(err, requestId);
   return toAWS(body, noCache(), body.error.statusCode || body.statusCode);
 }

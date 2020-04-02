@@ -1,4 +1,4 @@
-const findAll = require("../../services/imdb/find_all");
+const findAll = require("./crawl_imdb_search_page/parse_data_to_dynamodb_schema");
 const response = require("../../libs/response");
 
 function createBody(res) {
