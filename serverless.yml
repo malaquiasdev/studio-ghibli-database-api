@@ -28,7 +28,7 @@ functions:
           cors: true
 
 resources:
-  - {file(config/yml/dynamodb-table.yml)}
+  - ${file(src/functions/short_contents/yml/dynamodb-table.yml)}
 
 package:
   individually: true
