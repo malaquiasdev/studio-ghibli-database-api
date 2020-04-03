@@ -25,7 +25,7 @@ functions:
       - schedule: rate(2 minutes)
 
   contents:
-    handler: src/functions/short_contents/handler.crawlImdbSearchPageFlow
+    handler: src/functions/short_contents/handler.listFlow
     events:
       - http:
           path: studio-ghibli/contents
