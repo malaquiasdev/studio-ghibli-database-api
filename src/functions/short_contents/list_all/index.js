@@ -1,11 +1,12 @@
 const response = require("../../../libs/response");
 const ShortContentsModel = require("../model");
+const parseShortContentsModelToContents = require("./parse_short_contents_model_to_contents.js");
 
 const CACHE_TIME_24_HOURS = 86400;
 
 function createBody(res) {
   return {
-    contents: res,
+    contents: parseShortContentsModelToContents(res),
     total: res.length,
   };
 }
