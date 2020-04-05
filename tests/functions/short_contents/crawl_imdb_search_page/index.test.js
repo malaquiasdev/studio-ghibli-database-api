@@ -15,6 +15,12 @@ describe("# Function: crawlImdbSearchPage", () => {
 
     ShortContentsModel = {
       batchPut: jest.fn().mockReturnValue(true),
+      scan: jest.fn().mockImplementation(() => {
+        return {
+          exec: jest.fn().mockReturnValue(true),
+        };
+      }),
+      batchDelete: jest.fn().mockReturnValue(true),
     };
   });
 
