@@ -3,7 +3,7 @@ branches:
   only:
     - master
 node_js:
-  - "10"
+  - "12"
 install:
   - npm install -g serverless
   - npm install
