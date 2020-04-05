@@ -1,16 +1,15 @@
-const getSearchPageData = require("./get_search_page_data");
+const uuid = require("uuid");
 const parseItemImage = require("./parse_item_image");
 const parseItemContent = require("./parse_item_content");
 
-async function findAll() {
-  const $ = await getSearchPageData();
+function parseDataToDynamodbSchema(searchPageData) {
   const shortContent = [];
 
-  $("div.lister-item").each((_, element) => {
-    const itemImage = parseItemImage($, element);
-    const itemContent = parseItemContent($, element);
+  searchPageData("div.lister-item").each((_, element) => {
+    const itemImage = parseItemImage(searchPageData, element);
+    const itemContent = parseItemContent(searchPageData, element);
     const newShortContent = {
-      id: "0",
+      id: uuid.v4(),
       imdbID: itemImage.imdbID,
       posterURL: itemImage.posterURL,
       title: itemContent.title,
@@ -27,4 +26,4 @@ async function findAll() {
   return shortContent;
 }
 
-module.exports = findAll;
+module.exports = parseDataToDynamodbSchema;
