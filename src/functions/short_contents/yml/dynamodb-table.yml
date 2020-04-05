@@ -12,6 +12,3 @@ Resources:
       ProvisionedThroughput:
         ReadCapacityUnits: 1
         WriteCapacityUnits: 1
-      TimeToLiveSpecification:
-        AttributeName: expires
-        Enabled: Boolean
