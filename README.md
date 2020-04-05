@@ -1,10 +1,10 @@
 # STUDIO GHIBLI SERVICE
 
-[![Build Status]]()
+[![Build Status](https://travis-ci.com/malaquiasdev/studio-ghibli-service.svg?branch=master)](https://travis-ci.com/malaquiasdev/studio-ghibli-service)
 [![Coverage Status](https://coveralls.io/repos/github/malaquiasdev/studio-ghibli-service/badge.svg?branch=master)](https://coveralls.io/github/malaquiasdev/studio-ghibli-service?branch=master)
 
 <p align="left">
-  <img width="300" height="auto" src=".github/logo.png"/>
+  <img width="832" height="auto" src=".github/logo.png"/>
 </p>
 
 This is a Serverless Project with Node.js API with a scrapy module to fetch data from: imdb, rottentomatoes and metacritic.
