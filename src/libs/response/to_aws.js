@@ -15,7 +15,7 @@ function toAWS(body, headers, statusCode = 200) {
     "Access-Control-Allow-Origin": "*",
     "Access-Control-Allow-Credentials": true,
     "Access-Control-Allow-Headers":
-      "Content-Type, X-Amz-Date, Authorization, X-Api-Key, X-Amz-Security-Token, X-Amz-User-Agent"
+      "Content-Type, X-Amz-Date, Authorization, X-Api-Key, X-Amz-Security-Token, X-Amz-User-Agent",
   };
   return {
     statusCode,

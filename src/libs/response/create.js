@@ -21,8 +21,8 @@ function create({ body, headers, statusCode = 200, cacheMaxAge = 0 }) {
     statusCode,
     headers: {
       ...headers,
-      ...cache
-    }
+      ...cache,
+    },
   };
 }
 

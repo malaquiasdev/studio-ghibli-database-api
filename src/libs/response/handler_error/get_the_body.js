@@ -38,7 +38,7 @@ function getTheBody(err, requestId) {
     statusCode: getTheStatusCode(err),
     code: getTheCode(err),
     message: getTheMessage(err),
-    requestId
+    requestId,
   });
 }
 

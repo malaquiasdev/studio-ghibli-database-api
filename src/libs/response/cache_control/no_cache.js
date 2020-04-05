@@ -11,7 +11,7 @@ function noCache() {
   return {
     "Cache-Control": "private, max-age=0, no-cache, no-store, must-revalidate",
     Pragma: "no-cache",
-    Expires: "0"
+    Expires: "0",
   };
 }
 
