@@ -1,7 +1,7 @@
 crawl-imdb-short-contents:
   handler: src/functions/short_contents/handler.crawlImdbSearchPageFlow
   events:
-    - schedule: cron(0 0 * * 1)
+    - schedule: rate(1 day)
     - http:
         path: studio-ghibli/contents/crawl
         method: post
