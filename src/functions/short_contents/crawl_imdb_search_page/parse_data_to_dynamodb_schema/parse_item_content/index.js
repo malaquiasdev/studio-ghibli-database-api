@@ -3,7 +3,8 @@ const parsePublishYear = require("./parse_publish_year");
 const parseAgeGroup = require("./parse_age_group");
 const parseDuration = require("./parse_duration");
 const parseGenres = require("./parse_genres");
-const parseImdbRating = require("./parse_rating");
+const parseRatingImdb = require("./parse_rating_imdb");
+const parseRatingMetascore = require("./parse_rating_metascore");
 const parseDescription = require("./parse_description");
 
 function parseItemContent($, element) {
@@ -13,7 +14,8 @@ function parseItemContent($, element) {
     ageGroup: parseAgeGroup($, element),
     duration: parseDuration($, element),
     genres: parseGenres($, element),
-    imdbRating: parseImdbRating($, element),
+    ratingImdb: parseRatingImdb($, element),
+    ratingMetascore: parseRatingMetascore($, element),
     description: parseDescription($, element),
   };
 }

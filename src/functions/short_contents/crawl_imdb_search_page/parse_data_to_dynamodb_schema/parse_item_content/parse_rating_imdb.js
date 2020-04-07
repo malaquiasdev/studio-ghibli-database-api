@@ -1,6 +1,6 @@
 const DEFAULT_RATING_ZERO = 0;
 
-function parseImdbRating($, element) {
+function parseRatingImdb($, element) {
   const rating = $(element)
     .find("div.ratings-bar > div.inline-block")
     .attr("data-value");
@@ -11,4 +11,4 @@ function parseImdbRating($, element) {
   return parseFloat(rating.replace(",", "."));
 }
 
-module.exports = parseImdbRating;
+module.exports = parseRatingImdb;
