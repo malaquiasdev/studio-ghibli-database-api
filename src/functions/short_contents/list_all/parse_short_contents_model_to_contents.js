@@ -5,6 +5,7 @@ function createNewModel(item) {
     publishYear: item.publishYear,
     rating: {
       imdb: item.imdbRating || 0,
+      metascore: item.metascore || 0,
     },
     description: item.description,
     duration: item.duration || null,
