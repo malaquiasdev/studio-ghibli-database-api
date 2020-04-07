@@ -4,8 +4,8 @@ function createNewModel(item) {
     title: item.title,
     publishYear: item.publishYear,
     rating: {
-      imdb: item.imdbRating || 0,
-      metascore: item.metascore || 0,
+      imdb: item.ratingImdb || 0,
+      metascore: item.ratingMetascore || 0,
     },
     description: item.description,
     duration: item.duration || null,
