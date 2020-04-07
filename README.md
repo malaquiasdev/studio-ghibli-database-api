@@ -7,7 +7,9 @@
   <img width="832" height="auto" src=".github/logo.png"/>
 </p>
 
-This is a Serverless Project with Node.js API with a scrapy module to fetch data from: imdb, rottentomatoes and metacritic.
+A simple API for Studio Ghibli movies. This is an unofficial api.
+
+Based on simple REST principles, the endpoints return JSON metadata about the movies with the critical rating from IMDB, rottentomatoes and metacritic.
 
 ## Prerequisites
 
@@ -36,7 +38,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## API Documentation
 
-1. Access the api doc in: `https://malaquiasdev.github.io/studio-ghibli-service/`
+1. Access the api doc in: `https://bit.ly/2JLYcYU`
 
 ## Contributing
 
