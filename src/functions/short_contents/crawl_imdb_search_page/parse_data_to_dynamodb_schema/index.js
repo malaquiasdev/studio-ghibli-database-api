@@ -17,7 +17,8 @@ function parseDataToDynamodbSchema(searchPageData) {
       ageGroup: itemContent.ageGroup,
       duration: itemContent.duration,
       genres: itemContent.genres,
-      imdbRating: itemContent.imdbRating,
+      ratingImdb: itemContent.ratingImdb,
+      ratingMetascore: itemContent.ratingMetascore,
       description: itemContent.description,
     };
     shortContent.push(newShortContent);

@@ -27,7 +27,10 @@ function createShortContentsSchema({ Schema }) {
       genres: {
         type: [String],
       },
-      imdbRating: {
+      ratingImdb: {
+        type: String,
+      },
+      ratingMetascore: {
         type: String,
       },
       description: {
