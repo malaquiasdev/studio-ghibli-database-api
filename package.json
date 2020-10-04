@@ -1,6 +1,6 @@
 {
   "name": "studio-ghibli-service",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a Node.js API with a scrapy module to fetch data from: imdb, rottentomatoes and metacritic",
   "main": "index.js",
   "directories": {
