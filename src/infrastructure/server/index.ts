@@ -4,7 +4,7 @@ import config from "../config";
 function factoryServer(): FastifyInstance {
   let fastify;
 
-  if (config.STAGE === "dev") {
+  if (config.STAGE === "development") {
     fastify = createFastify({
       logger: true,
     });
