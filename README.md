@@ -27,7 +27,7 @@ Before you begin, ensure you have met the following requirements:
 - AWS CloudFormation
 - AWS CloudFront
 - AWS API Gateway
-- AWS Lambda (With Fasfity Plugin)
+- AWS Lambda (With [fastify Plugin](https://www.fastify.io/docs/latest/Serverless/#aws-lambda))
 - AWS DynamoDB
 
 **I strongly recommend you to use docker as an option to run this project.**
