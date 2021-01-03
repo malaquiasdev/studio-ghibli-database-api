@@ -2,13 +2,13 @@
   "name": "studio-ghibli-database-api",
   "version": "1.0.0",
   "description": "A simple API for Studio Ghibli movies. This is an unofficial api.",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "directories": {
     "test": "tests"
   },
   "scripts": {
     "build": "rimraf ./dist && tsc",
-    "dev": "nodemon",
+    "dev": "NODE_ENV=dev nodemon ./src/index.ts",
     "start": "NODE_ENV=production node ./dist/src/index.js",
     "lint": "eslint --ext .ts src",
     "test": "jest -u --silent test",
