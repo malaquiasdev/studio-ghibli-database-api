@@ -1,5 +1,4 @@
-/* eslint-disable max-lines */
-import { gql } from 'apollo-server';
+const { gql } = require('apollo-server');
 
 const typeDefs = gql`
   type Query {
@@ -16,26 +15,20 @@ const typeDefs = gql`
     launch(id: ID!): Launch
     me: User
   }
-
   type Mutation {
     # if false, signup failed -- check errors
     bookTrips(launchIds: [ID]!): TripUpdateResponse!
-
     # if false, cancellation failed -- check errors
     cancelTrip(launchId: ID!): TripUpdateResponse!
-
     login(email: String): User
-
     # for use with the iOS tutorial
     uploadProfileImage(file: Upload!): User
   }
-
   type TripUpdateResponse {
     success: Boolean!
     message: String
     launches: [Launch]
   }
-
   """
   Simple wrapper around our list of launches that contains a cursor to the
   last item in the list. Pass this cursor to the launches query to fetch results
@@ -46,7 +39,6 @@ const typeDefs = gql`
     hasMore: Boolean!
     launches: [Launch]!
   }
-
   type Launch {
     id: ID!
     site: String
@@ -54,13 +46,11 @@ const typeDefs = gql`
     rocket: Rocket
     isBooked: Boolean!
   }
-
   type Rocket {
     id: ID!
     name: String
     type: String
   }
-
   type User {
     id: ID!
     email: String!
@@ -68,16 +58,14 @@ const typeDefs = gql`
     trips: [Launch]!
     token: String
   }
-
   type Mission {
     name: String
     missionPatch(size: PatchSize): String
   }
-
   enum PatchSize {
     SMALL
     LARGE
   }
 `;
 
-export default typeDefs;
+module.exports = typeDefs;
