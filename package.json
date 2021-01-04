@@ -1,60 +1,58 @@
 {
-    "name": "studio-ghibli-database-api",
-    "version": "1.0.0",
-    "description": "A simple API for Studio Ghibli movies. This is an unofficial api.",
-    "main": "src/index.ts",
-    "directories": {
-        "test": "tests"
-    },
-    "scripts": {
-        "prebuild": "rimraf dist",
-        "build": "tsc",
-        "dev": "NODE_ENV=development nodemon ./src/index.ts",
-        "start": "NODE_ENV=production node ./dist/src/index.js",
-        "lint": "eslint --ext .ts src",
-        "test": "jest -u --silent test",
-        "test:coverage": "jest --silent --coverage --logHeapUsage test"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/malaquiasdev/studio-ghibli-service.git"
-    },
-    "author": "Mateus Malaquias <mateusmalaquiasdev@outlook.com>",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/malaquiasdev/studio-ghibli-service/issues"
-    },
-    "homepage": "https://github.com/malaquiasdev/studio-ghibli-service#readme",
-    "dependencies": {
-        "dotenv": "^8.2.0",
-        "dynamoose": "^2.5.0",
-        "fastify": "^3.9.2",
-        "fastify-accepts": "^2.0.1",
-        "fastify-compress": "^3.4.1",
-        "fastify-cors": "^5.1.0",
-        "fastify-helmet": "^5.0.3",
-        "fastify-swagger": "^3.5.0",
-        "request-ip": "^2.1.3",
-        "uuid": "^8.3.2"
-    },
-    "devDependencies": {
-        "@types/accepts": "^1.3.5",
-        "@types/dotenv": "^8.2.0",
-        "@types/jest": "^26.0.19",
-        "@types/node": "^14.14.19",
-        "@types/request-ip": "^0.0.35",
-        "@types/uuid": "^8.3.0",
-        "@typescript-eslint/eslint-plugin": "^4.11.1",
-        "@typescript-eslint/parser": "^4.11.1",
-        "eslint": "^7.17.0",
-        "eslint-config-prettier": "^7.1.0",
-        "eslint-plugin-prettier": "^3.3.0",
-        "jest": "^26.6.3",
-        "nodemon": "^2.0.6",
-        "prettier": "^2.2.1",
-        "rimraf": "^3.0.2",
-        "ts-jest": "^26.4.4",
-        "ts-node": "^9.1.1",
-        "typescript": "^4.1.3"
-    }
+  "name": "studio-ghibli-database-api",
+  "version": "1.0.0",
+  "description": "A simple API for Studio Ghibli movies. This is an unofficial api.",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "tsc",
+    "dev": "NODE_ENV=development nodemon ./src/infrastructure/server/index.ts",
+    "start": "NODE_ENV=production node ./dist/index.js",
+    "lint": "eslint --ext .ts src",
+    "test": "jest -u --silent test",
+    "test:coverage": "jest --silent --coverage --logHeapUsage test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malaquiasdev/studio-ghibli-service.git"
+  },
+  "author": "Mateus Malaquias <mateusmalaquiasdev@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malaquiasdev/studio-ghibli-service/issues"
+  },
+  "homepage": "https://github.com/malaquiasdev/studio-ghibli-service#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.1",
+    "apollo-server-testing": "^2.19.1",
+    "dotenv": "^8.2.0",
+    "dynamoose": "^2.5.0",
+    "graphql": "^15.4.0",
+    "request-ip": "^2.1.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/accepts": "^1.3.5",
+    "@types/dotenv": "^8.2.0",
+    "@types/graphql": "^14.5.0",
+    "@types/jest": "^26.0.19",
+    "@types/node": "^14.14.19",
+    "@types/request-ip": "^0.0.35",
+    "@types/uuid": "^8.3.0",
+    "@typescript-eslint/eslint-plugin": "^4.11.1",
+    "@typescript-eslint/parser": "^4.11.1",
+    "apollo": "^2.32.0",
+    "eslint": "^7.17.0",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-prettier": "^3.3.0",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.6",
+    "prettier": "^2.2.1",
+    "rimraf": "^3.0.2",
+    "ts-jest": "^26.4.4",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
 }

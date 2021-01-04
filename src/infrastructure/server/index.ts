@@ -1,22 +1,12 @@
-import createFastify, { FastifyInstance } from 'fastify';
-import config from '../config';
+import { ApolloServer } from 'apollo-server';
+import typeDefs from './schema';
 
-function factoryServer(): FastifyInstance {
-  let fastify;
+const server = new ApolloServer({ typeDefs });
 
-  if (config.STAGE === 'dev') {
-    fastify = createFastify({
-      logger: true,
-    });
-  } else {
-    fastify = createFastify({
-      logger: {
-        level: 'error',
-      },
-    });
-  }
-
-  return fastify;
-}
-
-export default factoryServer;
+server.listen().then(() => {
+  console.log(`
+    Server is running!
+    Listening on port 4000
+    Explore at https://studio.apollographql.com/dev
+  `);
+}).catch(error => console.log('error', error));
