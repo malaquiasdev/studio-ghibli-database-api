@@ -1,3 +1,5 @@
+require('dotenv/config');
+
 const express = require('express');
 const pino = require('express-pino-logger')();
 const { ApolloServer } = require('apollo-server-express');

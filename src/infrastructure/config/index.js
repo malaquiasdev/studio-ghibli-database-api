@@ -5,5 +5,5 @@ module.exports = {
   PORT: Number(process.env.PORT || 8080),
   STAGE: getStage(),
   DYNAMODB: getDynamoDBConfig(),
-  DEFAULT_LANGUAGE: 'en-us',
+  DEFAULT_LANGUAGE: process.env.DEFAULT_LANGUAGE || 'en-us',
 };
