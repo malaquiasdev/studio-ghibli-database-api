@@ -1,8 +1,6 @@
 const dynamoose = require('dynamoose');
 
-const TABLE_NAME = 'STUDIO-GHIBLI-CONTENTS';
-
-function createDynamodbInstance(tableName = TABLE_NAME, schema) {
+function createDynamodbInstance(tableName, schema) {
   return dynamoose.model(tableName, schema);
 }
 
