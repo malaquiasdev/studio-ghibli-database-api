@@ -1,3 +1,4 @@
+/* eslint-disable max-lines */
 const { gql } = require('apollo-server');
 
 const typeDefs = gql`

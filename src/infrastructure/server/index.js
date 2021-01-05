@@ -1,12 +1,17 @@
-const { ApolloServer } = require('apollo-server');
+const express = require('express');
+const pino = require('express-pino-logger')();
+const { ApolloServer } = require('apollo-server-express');
 const typeDefs = require('./schema');
+const config = require('../config');
+
+const app = express();
+app.use(pino);
 
 const server = new ApolloServer({ typeDefs });
+server.applyMiddleware({ app });
 
-server.listen().then(() => {
-  console.log(`
-    Server is running!
-    Listening on port 4000
-    Explore at https://studio.apollographql.com/dev
-  `);
-});
+app.listen({ port: config.PORT }, () =>
+  pino.logger.info(
+    `🚀 Server ready at http://localhost:${config.PORT}${server.graphqlPath}`,
+  ),
+);

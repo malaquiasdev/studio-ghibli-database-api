@@ -6,14 +6,11 @@ RUN yarn install
 
 FROM base as development
 ENV NODE_ENV=development
-COPY . .
-RUN yarn run prebuild
-RUN yarn run build
+COPY . /usr/src/app
 
 FROM base as production
 ENV NODE_ENV=production
-COPY --from=development /usr/src/app/dist ./dist
-COPY --from=development /usr/src/app/src ./src
+COPY . /usr/src/app
 RUN yarn install --production
 RUN yarn cache clean
 CMD ["yarn", "start:prod"]
