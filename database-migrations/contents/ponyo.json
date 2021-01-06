@@ -1,6 +1,149 @@
 {
-  "adult": false,
   "budget": 41677699,
+  "cast": [
+    {
+      "characterName": "Ponyo",
+      "id": "e8a4e219-a815-47c8-a7c4-026aa7fce078",
+      "name": "Yuria Nara",
+      "order": 1,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Risa",
+      "id": "d7d6a732-cfe0-4013-9e73-ead78696d811",
+      "name": "Tomoko Yamaguchi",
+      "order": 2,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Granmamare",
+      "id": "2e332467-d1b3-439a-a980-b4132afb5cca",
+      "name": "Yuki Amami",
+      "order": 3,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Fujimoto",
+      "id": "eed98dde-9e65-41ca-8868-d80f473410dd",
+      "name": "Jôji Tokoro",
+      "order": 4,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Kôichi",
+      "id": "b231f542-55f4-44be-8b46-bf9d6d5fd4c2",
+      "name": "Kazushige Nagashima",
+      "order": 5,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Sosuke",
+      "id": "6c08c01b-76dd-4c81-a121-2a7d3cecb11a",
+      "name": "Hiroki Doi",
+      "order": 6,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Fujin",
+      "id": "e3b5f5b3-8782-4263-a67b-bd0487573a86",
+      "name": "Rumi Hiiragi",
+      "order": 7,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Yoshie",
+      "id": "20480e1e-17af-470f-b5b3-5e798cb32d77",
+      "name": "Tomoko Naraoka",
+      "order": 8,
+      "role": "Voice"
+    }
+  ],
+  "crew": [
+    {
+      "id": "2eecdc34-22c2-4c6f-94a2-1a3faee27389",
+      "name": "Hayao Miyazaki",
+      "order": 1,
+      "role": "Director"
+    },
+    {
+      "id": "ababd8bd-dcb7-443f-9139-8199e8927e22",
+      "name": "John Lasseter",
+      "order": 2,
+      "role": "Director"
+    },
+    {
+      "id": "ade2a222-7490-46c2-90ce-3c0d7119dab7",
+      "name": "Brad Lewis",
+      "order": 3,
+      "role": "Director"
+    },
+    {
+      "id": "547a77d6-723d-486f-9a01-87e4e1815641",
+      "name": "Peter Sohn",
+      "order": 4,
+      "role": "Director"
+    },
+    {
+      "id": "6c9ba2f3-8168-43f5-94c3-d94a5de66c1d",
+      "name": "Toshio Suzuki",
+      "order": 5,
+      "role": "Producer"
+    },
+    {
+      "id": "baaad19e-6fd5-4010-a593-5fe515c2bbfb",
+      "name": "Kathleen Kennedy",
+      "order": 6,
+      "role": "Producer"
+    },
+    {
+      "id": "d559950d-728b-4fd0-8cdb-96498c2ae6ad",
+      "name": "Frank Marshall",
+      "order": 7,
+      "role": "Producer"
+    },
+    {
+      "id": "25cfb1d3-9170-4982-afbb-7eabfc5f6725",
+      "name": "Steve Alpert",
+      "order": 8,
+      "role": "Producer"
+    },
+    {
+      "id": "ababd8bd-dcb7-443f-9139-8199e8927e22",
+      "name": "John Lasseter",
+      "order": 9,
+      "role": "Executive Producer"
+    },
+    {
+      "id": "2eecdc34-22c2-4c6f-94a2-1a3faee27389",
+      "name": "Hayao Miyazaki",
+      "order": 10,
+      "role": "Executive Producer"
+    },
+    {
+      "id": "4e090616-0cdc-493e-8533-211ae98d7940",
+      "name": "Melissa Mathison",
+      "order": 11,
+      "role": "Screenwriter"
+    },
+    {
+      "id": "2eecdc34-22c2-4c6f-94a2-1a3faee27389",
+      "name": "Hayao Miyazaki",
+      "order": 12,
+      "role": "Screenwriter"
+    },
+    {
+      "id": "df6ec2f9-fd77-47b3-86c5-81edee0347c3",
+      "name": "Natalie Lyon",
+      "order": 13,
+      "role": "Casting"
+    },
+    {
+      "id": "49e94b67-0f8f-4b36-90fe-2bd29807adcd",
+      "name": "Joe Hisaishi",
+      "order": 14,
+      "role": "Original Music"
+    }
+  ],
   "descriptions": [
     {
       "key": "pt-br",
@@ -13,7 +156,7 @@
   ],
   "genres": [
     {
-      "id": 1,
+      "id": "d568e618-25f8-4ed3-8e88-e040069af538",
       "list": [
         {
           "key": "pt-br",
@@ -26,7 +169,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "267a54df-90d7-4a4b-995b-446e9c961404",
       "list": [
         {
           "key": "pt-br",
@@ -45,7 +188,19 @@
     "iso6391": "ja",
     "name": "Japanese"
   },
-  "releaseDate": "2008-07-19",
+  "ratings": [
+    {
+      "association": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "key": "pt-br",
+      "value": "L"
+    },
+    {
+      "association": "Motion Picture Association of America",
+      "key": "en-us",
+      "value": "G"
+    }
+  ],
+  "releaseYear": "2008",
   "revenue": 202404009,
   "runTime": 100,
   "titles": [
