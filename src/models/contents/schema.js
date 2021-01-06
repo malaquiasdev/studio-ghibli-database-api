@@ -58,7 +58,7 @@ const contentsSchema = {
       {
         type: Object,
         schema: {
-          id: Number,
+          id: String,
           list: {
             type: Array,
             schema: [
@@ -88,6 +88,37 @@ const contentsSchema = {
           ratio: String,
           text: Boolean,
           url: String,
+        },
+      },
+    ],
+  },
+  cast: {
+    type: Array,
+    schema: [
+      {
+        type: Object,
+        schema: {
+          characterName: String,
+          id: String,
+          value: String,
+          name: String,
+          order: Number,
+          role: String,
+        },
+      },
+    ],
+  },
+  crew: {
+    type: Array,
+    schema: [
+      {
+        type: Object,
+        schema: {
+          id: String,
+          value: String,
+          name: String,
+          order: Number,
+          role: String,
         },
       },
     ],
