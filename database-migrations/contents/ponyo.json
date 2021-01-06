@@ -190,13 +190,11 @@
   },
   "ratings": [
     {
-      "association": "Departamento de Justiça, Classificação, Títulos e Qualificação",
-      "key": "pt-br",
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
       "value": "L"
     },
     {
-      "association": "Motion Picture Association of America",
-      "key": "en-us",
+      "key": "Motion Picture Association of America",
       "value": "G"
     }
   ],
