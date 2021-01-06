@@ -222,7 +222,7 @@
     "ratio": "2x3",
     "orientation": "vertical",
     "category": "box art",
-    "text": "yes"
+    "text": true
   },
   "images": [
     {
@@ -232,7 +232,7 @@
       "ratio": "4x3",
       "orientation": "horizontal",
       "category": "iconic",
-      "text": "no"
+      "text": false
     },
     {
       "width": "1080",
@@ -241,7 +241,7 @@
       "ratio": "3x4",
       "orientation": "vertical",
       "category": "iconic",
-      "text": "no"
+      "text": false
     },
     {
       "width": "960",
@@ -250,7 +250,7 @@
       "ratio": "2x3",
       "orientation": "vertical",
       "category": "iconic",
-      "text": "no"
+      "text": false
     },
     {
       "width": "1920",
@@ -259,7 +259,7 @@
       "ratio": "16x9",
       "orientation": "horizontal",
       "category": "iconic",
-      "text": "no"
+      "text": false
     },
     {
       "width": "1400",
@@ -268,7 +268,7 @@
       "ratio": "1x1",
       "orientation": "square",
       "category": "iconic",
-      "text": "no"
+      "text": false
     },
     {
       "width": "1440",
@@ -277,7 +277,7 @@
       "ratio": "4x3",
       "orientation": "horizontal",
       "category": "key art",
-      "text": "no"
+      "text": false
     },
     {
       "width": "2000",
@@ -286,7 +286,7 @@
       "ratio": "1x1",
       "orientation": "square",
       "category": "key art",
-      "text": "no"
+      "text": false
     },
     {
       "width": "960",
@@ -295,7 +295,7 @@
       "ratio": "2x3",
       "orientation": "vertical",
       "category": "key art",
-      "text": "no"
+      "text": false
     },
     {
       "width": "3840",
@@ -304,7 +304,7 @@
       "ratio": "16x9",
       "orientation": "horizontal",
       "category": "key art",
-      "text": "no"
+      "text": false
     },
     {
       "width": "1536",
@@ -313,7 +313,7 @@
       "ratio": "3x4",
       "orientation": "vertical",
       "category": "key art",
-      "text": "no"
+      "text": false
     },
     {
       "width": "960",
@@ -322,7 +322,7 @@
       "ratio": "2x3",
       "orientation": "vertical",
       "category": "box art",
-      "text": "yes"
+      "text": true
     },
     {
       "width": "1536",
@@ -331,7 +331,7 @@
       "ratio": "3x4",
       "orientation": "vertical",
       "category": "poster art",
-      "text": "yes"
+      "text": true
     },
     {
       "width": "3840",
@@ -340,7 +340,7 @@
       "ratio": "16x9",
       "orientation": "horizontal",
       "category": "vod art",
-      "text": "yes"
+      "text": true
     },
     {
       "width": "1536",
@@ -349,7 +349,7 @@
       "ratio": "3x4",
       "orientation": "vertical",
       "category": "vod art",
-      "text": "yes"
+      "text": true
     }
   ]
 }
