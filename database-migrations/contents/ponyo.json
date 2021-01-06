@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "budget": 41677699,
+  "descriptions": [
+    {
+      "key": "pt-br",
+      "value": "Sosuke (Hiroki Doi) é um garoto de cinco anos que mora em um penhasco, com vista para o Mar Interior. Um dia, ao brincar na praia, encontra Ponyo (Yuria Nara), uma peixinho dourado cuja cabeça está presa em um pote de geleia. Ele salva a peixinho e a coloca em um balde verde. Trata-se de amor à primeira vista, já que Sosuke promete que irá cuidar dela. Só que Fujimoto (Jôji Tokoro), que um dia foi humano e hoje é feiticeiro no fundo do mar, exige que Ponyo retorne às profundezas do oceano. Para ficar ao lado de Sosuke, Ponyo toma a decisão de tornar-se humana."
+    },
+    {
+      "key": "en-us",
+      "value": "The son of a sailor, 5-year old Sosuke lives a quiet life on an oceanside cliff with his mother Lisa. One fateful day, he finds a beautiful goldfish trapped in a bottle on the beach and upon rescuing her, names her Ponyo. But she is no ordinary goldfish. The daughter of a masterful wizard and a sea goddess, Ponyo uses her father's magic to transform herself into a young girl and quickly falls in love with Sosuke, but the use of such powerful sorcery causes a dangerous imbalance in the world. As the moon steadily draws nearer to the earth and Ponyo's father sends the ocean's mighty waves to find his daughter, the two children embark on an adventure of a lifetime to save the world and fulfill Ponyo's dreams of becoming human."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Animação"
+        },
+        {
+          "key": "en-us",
+          "value": "Animation"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Família"
+        },
+        {
+          "key": "en-us",
+          "value": "Family"
+        }
+      ]
+    }
+  ],
+  "homepage": "",
+  "id": "c59e5b57-e724-413a-8f45-153edca2ce62",
+  "language": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "releaseDate": "2008-07-19",
+  "revenue": 202404009,
+  "runTime": 100,
+  "titles": [
+    {
+      "key": "original",
+      "value": "崖の上のポニョ"
+    },
+    {
+      "key": "pt-br",
+      "value": "Ponyo"
+    },
+    {
+      "key": "en-us",
+      "value": "Ponyo"
+    }
+  ]
+}
