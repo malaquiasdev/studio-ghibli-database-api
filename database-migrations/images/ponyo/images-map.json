@@ -2,15 +2,6 @@
   "id": "267a54df-90d7-4a4b-995b-446e9c961404",
   "ratios": ["2x3", "4x3", "3x4", "2x3", "16x9", "1x1"],
   "categories": ["iconic", "key art", "box art", "poster art", "vod art"],
-  "defaultImage": {
-    "width": "960",
-    "height": "1440",
-    "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/box_art_2_3_w960_h1440.jpg",
-    "ratio": "2x3",
-    "orientation": "vertical",
-    "category": "box art",
-    "text": true
-  },
   "map": [
     {
       "width": "1440",

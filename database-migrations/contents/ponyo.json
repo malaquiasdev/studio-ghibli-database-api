@@ -215,15 +215,6 @@
       "value": "Ponyo"
     }
   ],
-  "defaultImage": {
-    "width": "960",
-    "height": "1440",
-    "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/box_art_2_3_w960_h1440.jpg",
-    "ratio": "2x3",
-    "orientation": "vertical",
-    "category": "box art",
-    "text": true
-  },
   "images": [
     {
       "width": "1440",
