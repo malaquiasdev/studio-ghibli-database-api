@@ -4,8 +4,8 @@
   "categories": ["iconic", "key art", "box art", "poster art", "vod art"],
   "map": [
     {
-      "width": "1440",
-      "height": "1080",
+      "width": 1440,
+      "height": 1080,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/iconic_4_3_w1440_h1080.jpg",
       "ratio": "4x3",
       "orientation": "horizontal",
@@ -13,8 +13,8 @@
       "text": false
     },
     {
-      "width": "1080",
-      "height": "1440",
+      "width": 1080,
+      "height": 1440,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/iconic_3_4_w1080_h1440.jpg",
       "ratio": "3x4",
       "orientation": "vertical",
@@ -22,8 +22,8 @@
       "text": false
     },
     {
-      "width": "960",
-      "height": "1440",
+      "width": 960,
+      "height": 1440,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/iconic_2_3_w960_h1440.jpg",
       "ratio": "2x3",
       "orientation": "vertical",
@@ -31,8 +31,8 @@
       "text": false
     },
     {
-      "width": "1920",
-      "height": "1080",
+      "width": 1920,
+      "height": 1080,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/iconic_16_9_w1920_h1080.jpg",
       "ratio": "16x9",
       "orientation": "horizontal",
@@ -40,8 +40,8 @@
       "text": false
     },
     {
-      "width": "1400",
-      "height": "1400",
+      "width": 1400,
+      "height": 1400,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/iconic_1_1_w1400_h1400.jpg",
       "ratio": "1x1",
       "orientation": "square",
@@ -49,8 +49,8 @@
       "text": false
     },
     {
-      "width": "1440",
-      "height": "1080",
+      "width": 1440,
+      "height": 1080,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/key_art_4_3_w1440_h1080.jpg",
       "ratio": "4x3",
       "orientation": "horizontal",
@@ -58,8 +58,8 @@
       "text": false
     },
     {
-      "width": "2000",
-      "height": "2000",
+      "width": 2000,
+      "height": 2000,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/key_art_1_1_w2000_h2000.jpg",
       "ratio": "1x1",
       "orientation": "square",
@@ -67,8 +67,8 @@
       "text": false
     },
     {
-      "width": "960",
-      "height": "1440",
+      "width": 960,
+      "height": 1440,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/key_art_2_3_w960_h1440.jpg",
       "ratio": "2x3",
       "orientation": "vertical",
@@ -76,8 +76,8 @@
       "text": false
     },
     {
-      "width": "3840",
-      "height": "2160",
+      "width": 3840,
+      "height": 2160,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/key_art_16_9_w3840_h2160.jpg",
       "ratio": "16x9",
       "orientation": "horizontal",
@@ -85,8 +85,8 @@
       "text": false
     },
     {
-      "width": "1536",
-      "height": "2048",
+      "width": 1536,
+      "height": 2048,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/key_art_3_4_w1536_h2048.jpg",
       "ratio": "3x4",
       "orientation": "vertical",
@@ -94,8 +94,8 @@
       "text": false
     },
     {
-      "width": "960",
-      "height": "1440",
+      "width": 960,
+      "height": 1440,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/box_art_2_3_w960_h1440.jpg",
       "ratio": "2x3",
       "orientation": "vertical",
@@ -103,8 +103,8 @@
       "text": true
     },
     {
-      "width": "1536",
-      "height": "2048",
+      "width": 1536,
+      "height": 2048,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/poster_art_3_4_w1536_h2048.jpg",
       "ratio": "3x4",
       "orientation": "vertical",
@@ -112,8 +112,8 @@
       "text": true
     },
     {
-      "width": "3840",
-      "height": "2160",
+      "width": 3840,
+      "height": 2160,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/vod_art_16_9_w3840_h2160.jpg",
       "ratio": "16x9",
       "orientation": "horizontal",
@@ -121,8 +121,8 @@
       "text": true
     },
     {
-      "width": "1536",
-      "height": "2048",
+      "width": 1536,
+      "height": 2048,
       "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/vod_art_3_4_w1536_h2048.jpg",
       "ratio": "3x4",
       "orientation": "vertical",

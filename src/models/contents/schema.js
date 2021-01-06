@@ -20,13 +20,10 @@ const contentsSchema = {
   homepage: {
     type: String,
   },
-  adult: {
-    type: Boolean,
-  },
   budget: {
     type: Number,
   },
-  releaseDate: {
+  releaseYear: {
     type: String,
   },
   revenue: {
@@ -74,6 +71,23 @@ const contentsSchema = {
               },
             ],
           },
+        },
+      },
+    ],
+  },
+  images: {
+    type: Array,
+    schema: [
+      {
+        type: Object,
+        schema: {
+          category: String,
+          height: Number,
+          width: Number,
+          orientation: String,
+          ratio: String,
+          text: Boolean,
+          url: String,
         },
       },
     ],
