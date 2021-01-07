@@ -3,7 +3,7 @@ const { gql } = require('apollo-server');
 
 const typeDefs = gql`
   type Query {
-    contents: [Contents]!
+    contents(language: String): [Contents]!
   }
 
   type Contents {
