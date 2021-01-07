@@ -1,10 +1,22 @@
-const awsServerlessExpress = require('aws-serverless-express');
-const server = require('../server');
+require('dotenv/config');
 
-const awsServerlessServer = awsServerlessExpress.createServer(server);
+const { ApolloServer } = require('apollo-server-lambda');
+const typeDefs = require('../../interfaces/schemas');
+const resolvers = require('../../interfaces/resolvers');
+const dataSources = require('../../models');
 
-function handler(event, context) {
-  return awsServerlessServer.proxy(server, event, context);
-}
+const server = new ApolloServer({
+  playground: {
+    endpoint: '/dev/graphql',
+  },
+  typeDefs,
+  resolvers,
+  dataSources,
+});
 
-module.exports = handler;
+exports.graphqlHandler = server.createHandler({
+  cors: {
+    origin: '*',
+    credentials: true,
+  },
+});

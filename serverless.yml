@@ -1,5 +1,8 @@
-service: studio-ghibli-database-api
+service: studio-ghibli-database-graphql
 frameworkVersion: '2'
+
+plugins:
+  - serverless-offline
 
 provider:
   name: aws
@@ -16,11 +19,16 @@ provider:
         - dynamodb:*
       Resource: "arn:aws:dynamodb:us-east-1:*:*"
 
+
 functions:
   graphql:
-    handler: /src/infrastructure/lambda/index.js
+    handler: src/infrastructure/lambda/index.graphqlHandler
     events:
       - http:
           path: graphql
           method: post
+          cors: true
+      - http:
+          path: graphql
+          method: get
           cors: true
