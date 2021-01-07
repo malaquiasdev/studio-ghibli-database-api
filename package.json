@@ -1,5 +1,5 @@
 {
-  "name": "studio-ghibli-database-api",
+  "name": "studio-ghibli-database-graphql",
   "version": "1.0.0",
   "description": "A simple API for Studio Ghibli movies. This is an unofficial api.",
   "directories": {

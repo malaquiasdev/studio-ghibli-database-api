@@ -25,10 +25,10 @@ functions:
     handler: src/infrastructure/lambda/index.graphqlHandler
     events:
       - http:
-          path: graphql
+          path: ghiblidb/graphql
           method: post
           cors: true
       - http:
-          path: graphql
+          path: ghiblidb/graphql
           method: get
           cors: true

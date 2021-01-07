@@ -7,7 +7,7 @@ const dataSources = require('../../models');
 
 const server = new ApolloServer({
   playground: {
-    endpoint: '/dev/graphql',
+    endpoint: '/dev/ghiblidb/graphql',
   },
   typeDefs,
   resolvers,
