@@ -32,7 +32,7 @@ const contentsSchema = {
   runTime: {
     type: Number,
   },
-  language: {
+  originalLanguage: {
     type: Object,
     schema: {
       iso6391: String,
@@ -119,6 +119,18 @@ const contentsSchema = {
           name: String,
           order: Number,
           role: String,
+        },
+      },
+    ],
+  },
+  ratings: {
+    type: Array,
+    schema: [
+      {
+        type: Object,
+        schema: {
+          key: String,
+          value: String,
         },
       },
     ],

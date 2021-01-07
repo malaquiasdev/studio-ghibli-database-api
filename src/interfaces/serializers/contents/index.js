@@ -1,5 +1,6 @@
 const config = require('../../../infrastructure/config');
 const findTextByLanguage = require('./find-text-by-language');
+const findGenresByLanguage = require('./find-genres-by-language');
 
 function serializerContentsData(
   contentsData = [],
@@ -14,6 +15,13 @@ function serializerContentsData(
       descriptions: findTextByLanguage(content, language, 'descriptions'),
       cast: content.cast,
       crew: content.crew,
+      genres: findGenresByLanguage(content, language),
+      images: content.images,
+      ratings: content.ratings,
+      releaseYear: content.releaseYear,
+      revenue: Number(content.revenue),
+      runTime: Number(content.runTime),
+      originalLanguage: content.originalLanguage,
     };
   });
 }

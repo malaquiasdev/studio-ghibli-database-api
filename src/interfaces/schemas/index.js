@@ -16,10 +16,10 @@ const typeDefs = gql`
     crew: [Crew]
     genres: [String]
     images: [Images]
-    language: [Language]
+    originalLanguage: originalLanguage
     ratings: [Ratings]
     releaseYear: String
-    revenue: String
+    revenue: Int
     runTime: Int
   }
 
@@ -48,7 +48,7 @@ const typeDefs = gql`
     url: String!
   }
 
-  type Language {
+  type originalLanguage {
     iso6391: String!
     name: String!
   }
