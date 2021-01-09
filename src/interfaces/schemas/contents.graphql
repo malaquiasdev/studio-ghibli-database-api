@@ -1,12 +1,4 @@
-/* eslint-disable max-lines */
-const { gql } = require('apollo-server');
-
-const typeDefs = gql`
-  type Query {
-    contents(language: String): [Contents]!
-  }
-
-  type Contents {
+type Contents {
     id: String!
     title: String!
     homepage: String
@@ -57,6 +49,3 @@ const typeDefs = gql`
     key: String!
     value: String!
   }
-`;
-
-module.exports = typeDefs;

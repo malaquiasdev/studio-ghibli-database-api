@@ -8,4 +8,8 @@ async function getAllContentsResolver(_, { language }, { dataSources }) {
   return serializerContentsData(contentsData, language);
 }
 
-module.exports = getAllContentsResolver;
+module.exports = {
+  Query: {
+    contents: getAllContentsResolver,
+  },
+};

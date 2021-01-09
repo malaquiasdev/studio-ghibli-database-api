@@ -2,13 +2,14 @@
   "name": "studio-ghibli-database-graphql",
   "version": "1.0.0",
   "description": "A simple API for Studio Ghibli movies. This is an unofficial api.",
+  "main": "./src/index.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "dev": "NODE_ENV=development nodemon ./src/infrastructure/server/index.js",
+    "dev": "NODE_ENV=development nodemon",
     "dev:sls": "SLS_DEBUG=* && node ./node_modules/.bin/serverless offline",
-    "start": "NODE_ENV=production node ./src/infrastructure/server/index.js",
+    "start": "NODE_ENV=production node",
     "lint": "eslint --ext .ts src",
     "test": "jest -u --silent test",
     "test:coverage": "jest --silent --coverage --logHeapUsage test"
@@ -24,6 +25,8 @@
   },
   "homepage": "https://github.com/malaquiasdev/studio-ghibli-service#readme",
   "dependencies": {
+    "@graphql-tools/load-files": "^6.2.5",
+    "@graphql-tools/merge": "^6.2.6",
     "apollo-server": "^2.19.1",
     "apollo-server-express": "^2.19.1",
     "apollo-server-lambda": "^2.19.1",
