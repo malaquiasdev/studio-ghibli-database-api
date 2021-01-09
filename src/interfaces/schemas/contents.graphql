@@ -1,13 +1,11 @@
 type Contents {
     id: String!
     title: String!
-    homepage: String
     budget: Int
     descriptions: String!
     cast: [Cast]
     crew: [Crew]
     genres: [String]
-    images: [Images]
     originalLanguage: originalLanguage
     ratings: [Ratings]
     releaseYear: String
@@ -17,14 +15,12 @@ type Contents {
 
   type Cast {
     characterName: String!
-    id: String!
     name: String!
     order: String!
     role: String!
   }
 
   type Crew {
-    id: String!
     name: String!
     order: String!
     role: String!
