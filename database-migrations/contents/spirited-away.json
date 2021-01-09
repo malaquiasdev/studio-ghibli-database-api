@@ -10,7 +10,7 @@
   },
   "titles": [
     {
-      "key": "original",
+      "key": "ja",
       "value": "日本語"
     },
     {
@@ -510,6 +510,16 @@
       "name": "Youmi Kimura",
       "role": "Theme Song Performance",
       "order": 27
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG"
     }
   ]
 }

@@ -1,0 +1,417 @@
+{
+  "id": "98a0fd3c-ab3d-45ac-94ab-436f638af927",
+  "budget": 0,
+  "revenue": 0,
+  "releaseYear": "1995",
+  "runTime": 111,
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "耳をすませば"
+    },
+    {
+      "key": "en-us",
+      "value": "Whisper of the Heart"
+    },
+    {
+      "key": "pt-br",
+      "value": "Sussuros do Coração"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "本が大好きな中学生の少女・雫。彼女はある時、図書カードに何度も連ねられた男子の名を見つける。その男子・天沢聖司の名に、淡い恋心を抱く雫。だが実際の天沢は、ぶしつけで粗野なヤツだった・・・。"
+    },
+    {
+      "key": "en-us",
+      "value": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: 'Seiji Amasawa'."
+    },
+    {
+      "key": "pt-br",
+      "value": "A personagem principal é Shizuku, uma estudante que sonha ser uma escritora e decide, durante o verão, ler vinte livros. Mas curiosamente todas as edições que Shizuki pegou na biblioteca já haviam sido lidas por um tal de Seiji Amasawa. Há encontros e desencontros típicos da vida de uma adolescente e a descoberta de um grande amor."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Animação"
+        },
+        {
+          "key": "en-us",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Família"
+        },
+        {
+          "key": "en-us",
+          "value": "Family"
+        },
+        {
+          "key": "ja",
+          "value": "ファミリー"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Drama"
+        },
+        {
+          "key": "en-us",
+          "value": "Drama"
+        },
+        {
+          "key": "ja",
+          "value": "ドラマ"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Shizuku Tsukishima",
+      "name": "Yoko Honna",
+      "order": 0,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Seiji Amasawa",
+      "name": "Issey Takahashi",
+      "order": 1,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Asako Tsukishima",
+      "name": "Shigeru Muroi",
+      "order": 3,
+      "role": "Voice"
+    },
+    {
+      "characterName": "The Baron",
+      "name": "Shigeru Tsuyuguchi",
+      "order": 4,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Shiro Nishi",
+      "name": "Keiju Kobayashi",
+      "order": 5,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Shiho Tsukishima",
+      "name": "Yorie Yamashita",
+      "order": 6,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Yuko Harada",
+      "name": "Maiko Kayama",
+      "order": 7,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Sugimura",
+      "name": "Yoshimi Nakajima",
+      "order": 8,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Kosaka-sensei",
+      "name": "Minami Takayama",
+      "order": 9,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Kinuyo",
+      "name": "Mayumi Iizuka",
+      "order": 10,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Nao",
+      "name": "Mai Chiba",
+      "order": 11,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Satoru Takahashi",
+      "order": 12,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Akiko Sakaguchi",
+      "order": 13,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Hiromi Yasuda",
+      "order": 14,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Tatsuya Okada",
+      "order": 15,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Yoshihiro Imai",
+      "order": 16,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Tall Friend of Mr. Nishi",
+      "name": "Naohisa Inoue",
+      "order": 17,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Baseball Analyst",
+      "name": "Suguru Egawa",
+      "order": 18,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Shiro Kishibe",
+      "order": 19,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Baseball Announcer",
+      "name": "Mitsuaki Ogawa",
+      "order": 20,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Toshio Suzuki",
+      "order": 21,
+      "role": "Voice"
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Screenplay",
+      "order": 0
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Storyboard Artist",
+      "order": 1
+    },
+    {
+      "name": "Rick Dempsey",
+      "role": "Executive Producer",
+      "order": 2
+    },
+    {
+      "name": "Ned Lott",
+      "role": "Producer",
+      "order": 3
+    },
+    {
+      "name": "Ned Lott",
+      "role": "Casting",
+      "order": 4
+    },
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 5
+    },
+    {
+      "name": "Atsushi Okui",
+      "role": "Director of Photography",
+      "order": 6
+    },
+    {
+      "name": "Takeshi Seyama",
+      "role": "Editor",
+      "order": 7
+    },
+    {
+      "name": "Yasuyoshi Tokuma",
+      "role": "Executive Producer",
+      "order": 8
+    },
+    {
+      "name": "Yōji Takeshige",
+      "role": "Background Designer",
+      "order": 9
+    },
+    {
+      "name": "Makiko Futaki",
+      "role": "Key Animation",
+      "order": 10
+    },
+    {
+      "name": "Takeshi Imamura",
+      "role": "Key Animation",
+      "order": 11
+    },
+    {
+      "name": "Kuniyuki Ishii",
+      "role": "Key Animation",
+      "order": 12
+    },
+    {
+      "name": "Masashi Ando",
+      "role": "Animation",
+      "order": 13
+    },
+    {
+      "name": "Masashi Ando",
+      "role": "Key Animation",
+      "order": 14
+    },
+    {
+      "name": "Seiichiro Ujiie",
+      "role": "Line Producer",
+      "order": 15
+    },
+    {
+      "name": "Yuji Nomi",
+      "role": "Original Music Composer",
+      "order": 16
+    },
+    {
+      "name": "Takashi Shoji",
+      "role": "Line Producer",
+      "order": 17
+    },
+    {
+      "name": "Naohisa Inoue",
+      "role": "Background Designer",
+      "order": 18
+    },
+    {
+      "name": "Shuji Inoue",
+      "role": "Sound Mixer",
+      "order": 19
+    },
+    {
+      "name": "Kazuo Oga",
+      "role": "Background Designer",
+      "order": 20
+    },
+    {
+      "name": "Kaoru Tanifuji",
+      "role": "Special Effects",
+      "order": 21
+    },
+    {
+      "name": "Yoshifumi Kondou",
+      "role": "Director",
+      "order": 22
+    },
+    {
+      "name": "Sayaka Hirahara",
+      "role": "Background Designer",
+      "order": 23
+    },
+    {
+      "name": "Satoshi Kuroda",
+      "role": "Art Direction",
+      "order": 24
+    },
+    {
+      "name": "Nizou Yamamoto",
+      "role": "Background Designer",
+      "order": 25
+    },
+    {
+      "name": "Katsu Hisamura",
+      "role": "Background Designer",
+      "order": 26
+    },
+    {
+      "name": "Aoi Hiiragi",
+      "role": "Author",
+      "order": 27
+    },
+    {
+      "name": "Yoshiyuki Momose",
+      "role": "Key Animation",
+      "order": 28
+    },
+    {
+      "name": "Masaaki Endou",
+      "role": "Key Animation",
+      "order": 29
+    },
+    {
+      "name": "Kitarou Kousaka",
+      "role": "Director of Photography",
+      "order": 30
+    },
+    {
+      "name": "Tsutomu Awata",
+      "role": "Key Animation",
+      "order": 31
+    },
+    {
+      "name": "Ryōko Ina",
+      "role": "Background Designer",
+      "order": 32
+    },
+    {
+      "name": "Michiyo Yasuda",
+      "role": "Color Designer",
+      "order": 33
+    },
+    {
+      "name": "Yoshikazu Fukutome",
+      "role": "Background Designer",
+      "order": 34
+    },
+    {
+      "name": "Hajime Takagi",
+      "role": "Assistant Sound Engineer",
+      "order": 35
+    },
+    {
+      "name": "Hiroyuki Inoue",
+      "role": "Key Animation",
+      "order": 36
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "G"
+    }
+  ]
+}
