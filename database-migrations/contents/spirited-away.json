@@ -1,0 +1,515 @@
+{
+  "id": "eb68d6a6-4b79-450b-a15e-9ca8e4b11ed4",
+  "budget": 19000000,
+  "revenue": 274925095,
+  "releaseYear": "2001",
+  "runTime": 125,
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "original",
+      "value": "日本語"
+    },
+    {
+      "key": "en-us",
+      "value": "Spirited Away"
+    },
+    {
+      "key": "pt-br",
+      "value": "A Viagem de Chihiro"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en-us",
+      "value": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family."
+    },
+    {
+      "key": "pt-br",
+      "value": "Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los"
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Animação"
+        },
+        {
+          "key": "en-us",
+          "value": "Animation"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Família"
+        },
+        {
+          "key": "en-us",
+          "value": "Family"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Fantasia"
+        },
+        {
+          "key": "en-us",
+          "value": "Fantasy"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Chihiro Ogino",
+      "name": "Rumi Hiiragi",
+      "order": 0,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Haku",
+      "name": "Miyu Irino",
+      "order": 1,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Yubaba / Zeniba",
+      "name": "Mari Natsuki",
+      "order": 2,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Akio Ogino",
+      "name": "Takashi Naitō",
+      "order": 3,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Yûko Ogino",
+      "name": "Yasuko Sawaguchi",
+      "order": 4,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Aogaeru",
+      "name": "Tatsuya Gashūin",
+      "order": 5,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Bô",
+      "name": "Ryunosuke Kamiki",
+      "order": 6,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Rin",
+      "name": "Yumi Tamai",
+      "order": 7,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Bandai-gaeru",
+      "name": "Yo Oizumi",
+      "order": 8,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Bandai-gaeru",
+      "name": "Yo Oizumi",
+      "order": 8,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Kawa no Kami",
+      "name": "Koba Hayashi",
+      "order": 9,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Chichiyaku",
+      "name": "Tsunehiko Kamijô",
+      "order": 10,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Aniyaku",
+      "name": "Takehiko Ono",
+      "order": 11,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Kamaji",
+      "name": "Bunta Sugawara",
+      "order": 12,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Shigeru Wakita",
+      "order": 13,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Shirō Saitō",
+      "order": 14,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Michiko Yamamoto",
+      "order": 15,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Michiko Yamamoto",
+      "order": 16,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Kaonashi",
+      "name": "Akio Nakamura",
+      "role": "Voice",
+      "order": 17
+    },
+    {
+      "characterName": "",
+      "name": "Shinji Tokumaru",
+      "role": "Voice",
+      "order": 18
+    },
+    {
+      "characterName": "",
+      "name": "Kaori Yamagata",
+      "role": "Voice",
+      "order": 19
+    },
+    {
+      "characterName": "",
+      "name": "Yayoi Kazuki",
+      "role": "Voice",
+      "order": 20
+    },
+    {
+      "characterName": "",
+      "name": "Masahiro Asano",
+      "role": "Voice",
+      "order": 21
+    },
+    {
+      "characterName": "",
+      "name": "Kazutaka Hayashida",
+      "role": "Voice",
+      "order": 22
+    },
+    {
+      "characterName": "",
+      "name": "Ikuko Yamamoto",
+      "role": "Voice",
+      "order": 23
+    },
+    {
+      "characterName": "",
+      "name": "Mina Meguro",
+      "role": "Voice",
+      "order": 24
+    },
+    {
+      "characterName": "",
+      "name": "Tetsurô Ishibashi",
+      "role": "Voice",
+      "order": 25
+    },
+    {
+      "characterName": "",
+      "name": "Katsutomo Shîbara",
+      "role": "Voice",
+      "order": 26
+    },
+    {
+      "characterName": "",
+      "name": "Shinobu Katabuchi",
+      "role": "Voice",
+      "order": 27
+    },
+    {
+      "characterName": "",
+      "name": "Noriko Kitou",
+      "role": "Voice",
+      "order": 28
+    },
+    {
+      "characterName": "",
+      "name": "Naoto Kaji",
+      "role": "Voice",
+      "order": 29
+    },
+    {
+      "characterName": "",
+      "name": "Yoshitaka Sukegawa",
+      "role": "Voice",
+      "order": 30
+    },
+    {
+      "characterName": "",
+      "name": "Aki Tachikawa",
+      "role": "Voice",
+      "order": 31
+    },
+    {
+      "characterName": "",
+      "name": "Noriko Yamaya",
+      "role": "Voice",
+      "order": 32
+    },
+    {
+      "characterName": "",
+      "name": "Katsuhisa Matsuo",
+      "role": "Voice",
+      "order": 33
+    },
+    {
+      "characterName": "",
+      "name": "Masayuki Kizu",
+      "role": "Voice",
+      "order": 34
+    },
+    {
+      "characterName": "",
+      "name": "Yôko Ôno",
+      "role": "Voice",
+      "order": 35
+    },
+    {
+      "characterName": "",
+      "name": "Sachie Azuma",
+      "role": "Voice",
+      "order": 36
+    },
+    {
+      "characterName": "Oshirasama",
+      "name": "Ken Yasuda",
+      "original_name": "Ken Yasuda",
+      "role": "Voice",
+      "order": 37
+    },
+    {
+      "characterName": "",
+      "name": "Shigeyuki Totsugi",
+      "role": "Voice",
+      "order": 38
+    },
+    {
+      "characterName": "",
+      "name": "Mayumi Sako",
+      "role": "Voice",
+      "order": 39
+    },
+    {
+      "characterName": "",
+      "name": "Sonoko Soeda",
+      "role": "Voice",
+      "order": 40
+    },
+    {
+      "characterName": "",
+      "name": "Akiko Tomihira",
+      "role": "Voice",
+      "order": 41
+    },
+    {
+      "characterName": "",
+      "name": "Minako Masuda",
+      "role": "Voice",
+      "order": 42
+    },
+    {
+      "characterName": "",
+      "name": "Orika Ono",
+      "role": "Voice",
+      "order": 43
+    },
+    {
+      "characterName": "",
+      "name": "Rina Yamada",
+      "role": "Voice",
+      "order": 44
+    },
+    {
+      "characterName": "",
+      "name": "Miwa Takachi",
+      "role": "Voice",
+      "order": 45
+    },
+    {
+      "characterName": "",
+      "name": "Hiromi Takeuchi",
+      "role": "Voice",
+      "order": 46
+    },
+    {
+      "characterName": "",
+      "name": "Makiko Oku",
+      "role": "Voice",
+      "order": 47
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Director",
+      "order": 0
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Writer",
+      "order": 1
+    },
+    {
+      "name": "Joe Hisaishi",
+      "role": "Original Music Composer",
+      "order": 2
+    },
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 3
+    },
+    {
+      "name": "Atsushi Okui",
+      "role": "Director of Photography",
+      "order": 4
+    },
+    {
+      "name": "Takeshi Seyama",
+      "role": "Editor",
+      "order": 5
+    },
+    {
+      "name": "Yasuyoshi Tokuma",
+      "role": "Executive Producer",
+      "order": 6
+    },
+    {
+      "name": "Norobu Yoshida",
+      "role": "Production Design",
+      "order": 7
+    },
+    {
+      "name": "Yōji Takeshige",
+      "role": "Art Direction",
+      "order": 8
+    },
+    {
+      "name": "Masashi Ando",
+      "role": "Supervising Animator",
+      "order": 9
+    },
+    {
+      "name": "Toru Noguchi",
+      "role": "Sound Effects",
+      "order": 10
+    },
+    {
+      "name": "Nozomu Takahashi",
+      "role": "Production Manager",
+      "order": 11
+    },
+    {
+      "name": "Shuji Inoue",
+      "role": "Sound Mixer",
+      "order": 12
+    },
+    {
+      "name": "Atsushi Takahashi",
+      "role": "Assistant Director",
+      "order": 13
+    },
+    {
+      "name": "Kazuo Oga",
+      "role": "Background Designer",
+      "order": 14
+    },
+    {
+      "name": "Mikio Mori",
+      "role": "Dolby Consultant",
+      "order": 15
+    },
+    {
+      "name": "Tsutomu Kawahigashi",
+      "role": "Dolby Consultant",
+      "order": 16
+    },
+    {
+      "name": "Nizou Yamamoto",
+      "role": "Background Designer",
+      "order": 17
+    },
+    {
+      "name": "Masayuki Miyaji",
+      "role": "Assistant Director",
+      "order": 18
+    },
+    {
+      "name": "Yoshiyuki Momose",
+      "role": "Key Animation",
+      "order": 19
+    },
+    {
+      "name": "Atsushi Tamura",
+      "role": "Cinematography",
+      "order": 20
+    },
+    {
+      "name": "Thomas Baker",
+      "role": "Visual Effects",
+      "order": 21
+    },
+    {
+      "name": "Michihiro Itou",
+      "role": "Sound Effects",
+      "order": 22
+    },
+    {
+      "name": "Megumi Kagawa",
+      "role": "Supervising Animator",
+      "order": 23
+    },
+    {
+      "name": "Kitarou Kousaka",
+      "role": "Supervising Animator",
+      "order": 24
+    },
+    {
+      "name": "Michiyo Yasuda",
+      "role": "Color Designer",
+      "order": 25
+    },
+    {
+      "name": "Chris DeLaGuardia",
+      "role": "Color Timer",
+      "order": 26
+    },
+    {
+      "name": "Youmi Kimura",
+      "role": "Theme Song Performance",
+      "order": 27
+    }
+  ]
+}
