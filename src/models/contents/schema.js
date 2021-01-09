@@ -58,7 +58,7 @@ const contentsSchema = {
       {
         type: Object,
         schema: {
-          id: String,
+          id: Number,
           list: {
             type: Array,
             schema: [

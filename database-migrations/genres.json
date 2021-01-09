@@ -1,7 +1,7 @@
 {
   "genres": [
     {
-      "id": "d568e618-25f8-4ed3-8e88-e040069af538",
+      "id": 1,
       "list": [
         {
           "key": "pt-br",
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "id": "267a54df-90d7-4a4b-995b-446e9c961404",
+      "id": 2,
       "list": [
         {
           "key": "pt-br",
@@ -23,6 +23,19 @@
         {
           "key": "en-us",
           "value": "Family"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Fantasia"
+        },
+        {
+          "key": "en-us",
+          "value": "Fantasy"
         }
       ]
     }
