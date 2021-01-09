@@ -1,12 +1,13 @@
-service: studio-ghibli-service
+service: studio-ghibli-database-graphql
+frameworkVersion: '2'
 
 plugins:
   - serverless-offline
-  - serverless-dotenv-plugin
 
 provider:
   name: aws
   runtime: nodejs12.x
+  lambdaHashingVersion: 20201221
   stage: dev
   region: us-east-1
   deploymentBucket: studio-ghibli-service
@@ -18,15 +19,16 @@ provider:
         - dynamodb:*
       Resource: "arn:aws:dynamodb:us-east-1:*:*"
 
+
 functions:
-  - ${file(src/functions/short_contents/yml/functions.yml)}
-
-resources:
-  - ${file(src/functions/short_contents/yml/dynamodb-table.yml)}
-
-package:
-  individually: true
-  include:
-    - src/**
-  exclude:
-    - test/**
+  graphql:
+    handler: src/infrastructure/lambda/index.graphqlHandler
+    events:
+      - http:
+          path: ghiblidb/graphql
+          method: post
+          cors: true
+      - http:
+          path: ghiblidb/graphql
+          method: get
+          cors: true

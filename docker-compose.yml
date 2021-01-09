@@ -1,0 +1,36 @@
+version: '3.7'
+
+services:
+    nodejs:
+        image: studio-ghibli-database-api-dev
+        build:
+            context: .
+            target: development
+            dockerfile: Dockerfile
+        restart: unless-stopped
+        environment:
+            - AWS_ACCESS_KEY_ID='DUMMYIDEXAMPLE'
+            - AWS_SECRET_ACCESS_KEY='DUMMYEXAMPLEKEY'
+            - REGION='us-east-1'
+            - DYNAMODB_CONTENTS_TABLE_NAME='STUDIO-GHIBLI-CONTENTS'
+        ports:
+            - '8080:8080'
+        volumes:
+            - .:/usr/src/app
+        depends_on:
+            - dynamodb
+        links:
+            - dynamodb
+        command: yarn dev
+
+    dynamodb:
+        image: amazon/dynamodb-local
+        hostname: dynamodb-local
+        container_name: dynamodb-local
+        ports:
+          - '8000:8000'
+        volumes:
+          - dbdata:/data/db
+
+volumes:
+    dbdata:

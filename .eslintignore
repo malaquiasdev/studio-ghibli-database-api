@@ -1,0 +1,10 @@
+node_modules
+dist
+test
+coverage
+coverage/**
+**/__tests__/**
+**/__mocks__/**
+*.test.js
+*.mocks.json
+*.mocks.js

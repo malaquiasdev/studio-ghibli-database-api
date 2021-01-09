@@ -1,0 +1,30 @@
+{
+  "genres": [
+    {
+      "id": "d568e618-25f8-4ed3-8e88-e040069af538",
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Animação"
+        },
+        {
+          "key": "en-us",
+          "value": "Animation"
+        }
+      ]
+    },
+    {
+      "id": "267a54df-90d7-4a4b-995b-446e9c961404",
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Família"
+        },
+        {
+          "key": "en-us",
+          "value": "Family"
+        }
+      ]
+    }
+  ]
+}

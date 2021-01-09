@@ -1,0 +1,3 @@
+ type Query {
+    contents(language: String): [Contents]!
+  }
