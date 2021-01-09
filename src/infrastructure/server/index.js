@@ -4,14 +4,14 @@ const express = require('express');
 const pino = require('express-pino-logger')();
 const { ApolloServer } = require('apollo-server-express');
 const config = require('../config');
-const buildTypeDefs = require('./load-schemas');
-const buildResolvers = require('./load-resolvers');
+const loadTypeDefs = require('./load-schemas');
+const loadResolvers = require('./load-resolvers');
 const dataSources = require('../../models');
 
 async function createServer() {
   const [typeDefs, resolvers] = await Promise.all([
-    buildTypeDefs(),
-    buildResolvers(),
+    loadTypeDefs(),
+    loadResolvers(),
   ]);
 
   const app = express();
