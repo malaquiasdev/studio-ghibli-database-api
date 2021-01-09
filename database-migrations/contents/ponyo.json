@@ -3,56 +3,48 @@
   "cast": [
     {
       "characterName": "Ponyo",
-      "id": "e8a4e219-a815-47c8-a7c4-026aa7fce078",
       "name": "Yuria Nara",
       "order": 1,
       "role": "Voice"
     },
     {
       "characterName": "Risa",
-      "id": "d7d6a732-cfe0-4013-9e73-ead78696d811",
       "name": "Tomoko Yamaguchi",
       "order": 2,
       "role": "Voice"
     },
     {
       "characterName": "Granmamare",
-      "id": "2e332467-d1b3-439a-a980-b4132afb5cca",
       "name": "Yuki Amami",
       "order": 3,
       "role": "Voice"
     },
     {
       "characterName": "Fujimoto",
-      "id": "eed98dde-9e65-41ca-8868-d80f473410dd",
       "name": "Jôji Tokoro",
       "order": 4,
       "role": "Voice"
     },
     {
       "characterName": "Kôichi",
-      "id": "b231f542-55f4-44be-8b46-bf9d6d5fd4c2",
       "name": "Kazushige Nagashima",
       "order": 5,
       "role": "Voice"
     },
     {
       "characterName": "Sosuke",
-      "id": "6c08c01b-76dd-4c81-a121-2a7d3cecb11a",
       "name": "Hiroki Doi",
       "order": 6,
       "role": "Voice"
     },
     {
       "characterName": "Fujin",
-      "id": "e3b5f5b3-8782-4263-a67b-bd0487573a86",
       "name": "Rumi Hiiragi",
       "order": 7,
       "role": "Voice"
     },
     {
       "characterName": "Yoshie",
-      "id": "20480e1e-17af-470f-b5b3-5e798cb32d77",
       "name": "Tomoko Naraoka",
       "order": 8,
       "role": "Voice"
@@ -60,85 +52,71 @@
   ],
   "crew": [
     {
-      "id": "2eecdc34-22c2-4c6f-94a2-1a3faee27389",
       "name": "Hayao Miyazaki",
       "order": 1,
       "role": "Director"
     },
     {
-      "id": "ababd8bd-dcb7-443f-9139-8199e8927e22",
       "name": "John Lasseter",
       "order": 2,
       "role": "Director"
     },
     {
-      "id": "ade2a222-7490-46c2-90ce-3c0d7119dab7",
       "name": "Brad Lewis",
       "order": 3,
       "role": "Director"
     },
     {
-      "id": "547a77d6-723d-486f-9a01-87e4e1815641",
       "name": "Peter Sohn",
       "order": 4,
       "role": "Director"
     },
     {
-      "id": "6c9ba2f3-8168-43f5-94c3-d94a5de66c1d",
       "name": "Toshio Suzuki",
       "order": 5,
       "role": "Producer"
     },
     {
-      "id": "baaad19e-6fd5-4010-a593-5fe515c2bbfb",
       "name": "Kathleen Kennedy",
       "order": 6,
       "role": "Producer"
     },
     {
-      "id": "d559950d-728b-4fd0-8cdb-96498c2ae6ad",
       "name": "Frank Marshall",
       "order": 7,
       "role": "Producer"
     },
     {
-      "id": "25cfb1d3-9170-4982-afbb-7eabfc5f6725",
       "name": "Steve Alpert",
       "order": 8,
       "role": "Producer"
     },
     {
-      "id": "ababd8bd-dcb7-443f-9139-8199e8927e22",
       "name": "John Lasseter",
       "order": 9,
       "role": "Executive Producer"
     },
     {
-      "id": "2eecdc34-22c2-4c6f-94a2-1a3faee27389",
       "name": "Hayao Miyazaki",
       "order": 10,
       "role": "Executive Producer"
     },
     {
-      "id": "4e090616-0cdc-493e-8533-211ae98d7940",
       "name": "Melissa Mathison",
       "order": 11,
       "role": "Screenwriter"
     },
     {
-      "id": "2eecdc34-22c2-4c6f-94a2-1a3faee27389",
       "name": "Hayao Miyazaki",
       "order": 12,
       "role": "Screenwriter"
     },
     {
-      "id": "df6ec2f9-fd77-47b3-86c5-81edee0347c3",
       "name": "Natalie Lyon",
       "order": 13,
       "role": "Casting"
     },
     {
-      "id": "49e94b67-0f8f-4b36-90fe-2bd29807adcd",
       "name": "Joe Hisaishi",
       "order": 14,
       "role": "Original Music"
@@ -182,7 +160,6 @@
       ]
     }
   ],
-  "homepage": "",
   "id": "c59e5b57-e724-413a-8f45-153edca2ce62",
   "originalLanguage": {
     "iso6391": "ja",
@@ -213,134 +190,6 @@
     {
       "key": "en-us",
       "value": "Ponyo"
-    }
-  ],
-  "images": [
-    {
-      "width": 1440,
-      "height": 1080,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/iconic_4_3_w1440_h1080.jpg",
-      "ratio": "4x3",
-      "orientation": "horizontal",
-      "category": "iconic",
-      "text": false
-    },
-    {
-      "width": 1080,
-      "height": 1440,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/iconic_3_4_w1080_h1440.jpg",
-      "ratio": "3x4",
-      "orientation": "vertical",
-      "category": "iconic",
-      "text": false
-    },
-    {
-      "width": 960,
-      "height": 1440,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/iconic_2_3_w960_h1440.jpg",
-      "ratio": "2x3",
-      "orientation": "vertical",
-      "category": "iconic",
-      "text": false
-    },
-    {
-      "width": 1920,
-      "height": 1080,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/iconic_16_9_w1920_h1080.jpg",
-      "ratio": "16x9",
-      "orientation": "horizontal",
-      "category": "iconic",
-      "text": false
-    },
-    {
-      "width": 1400,
-      "height": 1400,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/iconic_1_1_w1400_h1400.jpg",
-      "ratio": "1x1",
-      "orientation": "square",
-      "category": "iconic",
-      "text": false
-    },
-    {
-      "width": 1440,
-      "height": 1080,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/key_art_4_3_w1440_h1080.jpg",
-      "ratio": "4x3",
-      "orientation": "horizontal",
-      "category": "key art",
-      "text": false
-    },
-    {
-      "width": 2000,
-      "height": 2000,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/key_art_1_1_w2000_h2000.jpg",
-      "ratio": "1x1",
-      "orientation": "square",
-      "category": "key art",
-      "text": false
-    },
-    {
-      "width": 960,
-      "height": 1440,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/key_art_2_3_w960_h1440.jpg",
-      "ratio": "2x3",
-      "orientation": "vertical",
-      "category": "key art",
-      "text": false
-    },
-    {
-      "width": 3840,
-      "height": 2160,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/key_art_16_9_w3840_h2160.jpg",
-      "ratio": "16x9",
-      "orientation": "horizontal",
-      "category": "key art",
-      "text": false
-    },
-    {
-      "width": 1536,
-      "height": 2048,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/key_art_3_4_w1536_h2048.jpg",
-      "ratio": "3x4",
-      "orientation": "vertical",
-      "category": "key art",
-      "text": false
-    },
-    {
-      "width": 960,
-      "height": 1440,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/box_art_2_3_w960_h1440.jpg",
-      "ratio": "2x3",
-      "orientation": "vertical",
-      "category": "box art",
-      "text": true
-    },
-    {
-      "width": 1536,
-      "height": 2048,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/poster_art_3_4_w1536_h2048.jpg",
-      "ratio": "3x4",
-      "orientation": "vertical",
-      "category": "poster art",
-      "text": true
-    },
-    {
-      "width": 3840,
-      "height": 2160,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/vod_art_16_9_w3840_h2160.jpg",
-      "ratio": "16x9",
-      "orientation": "horizontal",
-      "category": "vod art",
-      "text": true
-    },
-    {
-      "width": 1536,
-      "height": 2048,
-      "url": "https://raw.githubusercontent.com/malaquiasdev/studio-ghibli-database-api/graphQL-version/database-migrations/images/ponyo/vod_art_3_4_w1536_h2048.jpg",
-      "ratio": "3x4",
-      "orientation": "vertical",
-      "category": "vod art",
-      "text": true
     }
   ]
 }
