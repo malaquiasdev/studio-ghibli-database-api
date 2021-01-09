@@ -10,6 +10,10 @@
         {
           "key": "en-us",
           "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
         }
       ]
     },
@@ -23,6 +27,10 @@
         {
           "key": "en-us",
           "value": "Family"
+        },
+        {
+          "key": "ja",
+          "value": "ファミリー"
         }
       ]
     },
@@ -36,6 +44,23 @@
         {
           "key": "en-us",
           "value": "Fantasy"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Drama"
+        },
+        {
+          "key": "en-us",
+          "value": "Drama"
+        },
+        {
+          "key": "ja",
+          "value": "ドラマ"
         }
       ]
     }
