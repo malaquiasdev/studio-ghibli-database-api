@@ -44,6 +44,10 @@
         {
           "key": "en-us",
           "value": "Fantasy"
+        },
+        {
+          "key": "ja",
+          "value": "ファンタジー"
         }
       ]
     },
@@ -61,6 +65,23 @@
         {
           "key": "ja",
           "value": "ドラマ"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Aventura"
+        },
+        {
+          "key": "en-us",
+          "value": "Adventure"
+        },
+        {
+          "key": "ja",
+          "value": "アドベンチャー"
         }
       ]
     }
