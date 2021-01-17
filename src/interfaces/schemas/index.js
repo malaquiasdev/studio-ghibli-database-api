@@ -5,6 +5,7 @@ const typeDefs = gql`
   type Query {
     "Get full metadata from all contents (movie, tvshow, tvepisode, documentary, game)"
     contents(language: AllowedLanguage, type: AllowedType): [Contents]!
+      @cacheControl(maxAge: 500)
   }
 
   "A ISO 639-1 value to display translated data for the fields that support it. Default value is en-US"
