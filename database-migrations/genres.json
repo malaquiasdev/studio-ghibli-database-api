@@ -101,6 +101,57 @@
           "value": "コメディ"
         }
       ]
+    },
+    {
+      "id": 7,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Guerra"
+        },
+        {
+          "key": "en-us",
+          "value": "War"
+        },
+        {
+          "key": "ja",
+          "value": "戦争"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "História"
+        },
+        {
+          "key": "en-us",
+          "value": "History"
+        },
+        {
+          "key": "ja",
+          "value": "履歴"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Romance"
+        },
+        {
+          "key": "en-us",
+          "value": "Romance"
+        },
+        {
+          "key": "ja",
+          "value": "ロマンス"
+        }
+      ]
     }
   ]
 }

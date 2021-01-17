@@ -1,0 +1,484 @@
+{
+  "id": "216ba7e5-3b0e-4763-907f-c00719f044b2",
+  "budget": 30000000,
+  "revenue": 117932401,
+  "releaseYear": "2013",
+  "runTime": 126,
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "風立ちぬ"
+    },
+    {
+      "key": "en-us",
+      "value": "The Wind Rises"
+    },
+    {
+      "key": "pt-br",
+      "value": "Vidas ao Vento"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "大正から昭和にかけての日本。戦争や大震災、世界恐慌による不景気により、世間は閉塞感に覆われていた。航空機の設計者である堀越二郎はイタリア人飛行機製作者カプローニを尊敬し、いつか美しい飛行機を作り上げたいという野心を抱いていた。関東大震災のさなか汽車で出会った菜穂子とある日再会。二人は恋に落ちるが、菜穂子が結核にかかってしまう。"
+    },
+    {
+      "key": "en-us",
+      "value": "A lifelong love of flight inspires Japanese aviation engineer Jiro Horikoshi, whose storied career includes the creation of the A-6M World War II fighter plane."
+    },
+    {
+      "key": "pt-br",
+      "value": "No interior do Japão, o jovem Jiro Horikoshi sonha em voar em um avião com formato de pássaro. Realizar esse sonho torna-se a meta de sua vida. Durante sua jornada, ele conhece a encantadora Naoko, por quem se apaixona. Porém, quando ela adoece, o destino dele fica incerto."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Animação"
+        },
+        {
+          "key": "en-us",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Guerra"
+        },
+        {
+          "key": "en-us",
+          "value": "War"
+        },
+        {
+          "key": "ja",
+          "value": "戦争"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "História"
+        },
+        {
+          "key": "en-us",
+          "value": "History"
+        },
+        {
+          "key": "ja",
+          "value": "履歴"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Drama"
+        },
+        {
+          "key": "en-us",
+          "value": "Drama"
+        },
+        {
+          "key": "ja",
+          "value": "ドラマ"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Romance"
+        },
+        {
+          "key": "en-us",
+          "value": "Romance"
+        },
+        {
+          "key": "ja",
+          "value": "ロマンス"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Jirô Horikoshi",
+      "name": "Hideaki Anno",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Naoko Satomi",
+      "name": "Miori Takimoto",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Honjô",
+      "name": "Hidetoshi Nishijima",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Kurokawa",
+      "name": "Masahiko Nishimura",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Castorp",
+      "name": "Stephen Alpert",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Satomi",
+      "name": "Morio Kazama",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Jirô's mother",
+      "name": "Keiko Takeshita",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "Kayo Horikoshi",
+      "name": "Mirai Shida",
+      "role": "Voice",
+      "order": 7
+    },
+    {
+      "characterName": "Hattori",
+      "name": "Jun Kunimura",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "Mrs. Kurokawa",
+      "name": "Shinobu Ōtake",
+      "role": "Voice",
+      "order": 9
+    },
+    {
+      "characterName": "Giovanni Battista Caproni",
+      "name": "Mansai Nomura",
+      "role": "Voice",
+      "order": 10
+    },
+    {
+      "characterName": "Young Jirô",
+      "name": "Kaichi Kaburagi",
+      "role": "Voice",
+      "order": 11
+    },
+    {
+      "characterName": "Young Kayo",
+      "name": "Maki Shinta",
+      "role": "Voice",
+      "order": 12
+    },
+    {
+      "characterName": "Young Nahoko",
+      "name": "Mayu Iino",
+      "role": "Voice",
+      "order": 13
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Screenplay",
+      "order": 0
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Director",
+      "order": 1
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Story",
+      "order": 2
+    },
+    {
+      "name": "Joe Hisaishi",
+      "role": "Original Music Composer",
+      "order": 3
+    },
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 4
+    },
+    {
+      "name": "Atsushi Okui",
+      "role": "Director of Photography",
+      "order": 5
+    },
+    {
+      "name": "Takeshi Seyama",
+      "role": "Editor",
+      "order": 6
+    },
+    {
+      "name": "Yōji Takeshige",
+      "role": "Art Direction",
+      "order": 7
+    },
+    {
+      "name": "Makiko Futaki",
+      "role": "Animation",
+      "order": 8
+    },
+    {
+      "name": "Takeshi Imamura",
+      "role": "Animation",
+      "order": 9
+    },
+    {
+      "name": "Koji Hoshino",
+      "role": "Executive Producer",
+      "order": 10
+    },
+    {
+      "name": "Naoya Fujimaki",
+      "role": "Producer",
+      "order": 11
+    },
+    {
+      "name": "Ryoichi Fukuyama",
+      "role": "Producer",
+      "order": 12
+    },
+    {
+      "name": "Seiji Okuda",
+      "role": "Producer",
+      "order": 13
+    },
+    {
+      "name": "Katsuya Kondo",
+      "role": "Animation",
+      "order": 14
+    },
+    {
+      "name": "Katsuya Kondo",
+      "role": "Art Department Manager",
+      "order": 15
+    },
+    {
+      "name": "Aya Suzuki",
+      "role": "Animation",
+      "order": 16
+    },
+    {
+      "name": "Hiromasa Yonebayashi",
+      "role": "Animation",
+      "order": 17
+    },
+    {
+      "name": "Yoshimi Itazu",
+      "role": "Animation",
+      "order": 18
+    },
+    {
+      "name": "Tatsuo Hori",
+      "role": "Novel",
+      "order": 19
+    },
+    {
+      "name": "Akihiko Yamashita",
+      "role": "Animation",
+      "order": 20
+    },
+    {
+      "name": "Kazuhide Tomonaga",
+      "role": "Animation",
+      "order": 21
+    },
+    {
+      "name": "Hiroyuki Aoyama",
+      "role": "Animation",
+      "order": 22
+    },
+    {
+      "name": "Atsushi Tamura",
+      "role": "Animation",
+      "order": 23
+    },
+    {
+      "name": "Masaaki Endou",
+      "role": "Animation",
+      "order": 24
+    },
+    {
+      "name": "Taichi Furumata",
+      "role": "Animation",
+      "order": 25
+    },
+    {
+      "name": "Shôgo Furuya",
+      "role": "Animation",
+      "order": 26
+    },
+    {
+      "name": "Hideki Hamazu",
+      "role": "Key Animation",
+      "order": 27
+    },
+    {
+      "name": "Shunsuke Hirota",
+      "role": "Animation",
+      "order": 28
+    },
+    {
+      "name": "Takeshi Honda",
+      "role": "Animation",
+      "order": 29
+    },
+    {
+      "name": "Madoya Hoshino",
+      "role": "Animation",
+      "order": 30
+    },
+    {
+      "name": "Fumie Imai",
+      "role": "Animation",
+      "order": 31
+    },
+    {
+      "name": "Megumi Kagawa",
+      "role": "Animation",
+      "order": 32
+    },
+    {
+      "name": "Tsutomu Kurita",
+      "role": "Animation",
+      "order": 33
+    },
+    {
+      "name": "Kitarou Kousaka",
+      "role": "Art Department Manager",
+      "order": 34
+    },
+    {
+      "name": "Hiroko Minowa",
+      "role": "Animation",
+      "order": 35
+    },
+    {
+      "name": "Tomoko Miura",
+      "role": "Animation",
+      "order": 36
+    },
+    {
+      "name": "Akiyo Okuda",
+      "role": "Animation",
+      "order": 37
+    },
+    {
+      "name": "Kazuyoshi Onoda",
+      "role": "Animation",
+      "order": 38
+    },
+    {
+      "name": "Kiyotaka Oshiyama",
+      "role": "Animation",
+      "order": 39
+    },
+    {
+      "name": "Shinji Otsuka",
+      "role": "Animation",
+      "order": 40
+    },
+    {
+      "name": "Sachiko Sugino",
+      "role": "Animation",
+      "order": 41
+    },
+    {
+      "name": "Michiyo Suzuki",
+      "role": "Animation",
+      "order": 42
+    },
+    {
+      "name": "Ken'ichi Yamada",
+      "role": "Animation",
+      "order": 43
+    },
+    {
+      "name": "Hirômi Yamakawa",
+      "role": "Animation",
+      "order": 44
+    },
+    {
+      "name": "Eiji Yamamori",
+      "role": "Animation",
+      "order": 45
+    },
+    {
+      "name": "Masafumi Yokota",
+      "role": "Animation",
+      "order": 46
+    },
+    {
+      "name": "Hideaki Yoshio",
+      "role": "Animation",
+      "order": 47
+    },
+    {
+      "name": "Shinya Ohira",
+      "role": "Animation",
+      "order": 48
+    },
+    {
+      "name": "Atsuko Tanaka",
+      "role": "Animation",
+      "order": 49
+    },
+    {
+      "name": "Michiyo Yasuda",
+      "role": "Color Designer",
+      "order": 50
+    },
+    {
+      "name": "Atsuko Ôtani",
+      "role": "Animation",
+      "order": 51
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "14"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG-13"
+    }
+  ]
+}
