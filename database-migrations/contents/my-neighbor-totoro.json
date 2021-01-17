@@ -1,411 +1,412 @@
 {
-    "id": "143201ea-1513-486c-b4fa-1bed9a115859",
-    "budget": 3700000,
-    "revenue": 45000000,
-    "releaseYear": "1988",
-    "runTime": 86,
-    "originalLanguage": {
-        "iso6391": "ja",
-        "name": "Japanese"
+  "id": "143201ea-1513-486c-b4fa-1bed9a115859",
+  "budget": 3700000,
+  "revenue": 45000000,
+  "releaseYear": "1988",
+  "runTime": 86,
+  "type": "movie",
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "となりのトトロ"
     },
-    "titles": [
+    {
+      "key": "en-us",
+      "value": "My Neighbor Totoro"
+    },
+    {
+      "key": "pt-br",
+      "value": "Meu Amigo Totoro"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "都会からそんなに遠くない田舎町に引っ越してきたサツキとメイ。お化けやしきみたいに古い家には、何かが棲んでいる気配がいっぱい。サツキたちの家の裏にある神社の大木をすみかにしているトトロ。人の住んでいない家をススやホコリだらけにしてしまうススワタリ（まっくろくろすけ）。大きな目と大きな口、そして何本もある足で空間を自由自在に走りまわる巨大なネコバス。サツキとメイは次々に奇妙ないきものと出会い、ステキな冒険に飛び出す。"
+    },
+    {
+      "key": "en-us",
+      "value": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her."
+    },
+    {
+      "key": "pt-br",
+      "value": "Mei é uma jovem que encontra uma pequena passagem em seu quintal, que a leva à um lendário espírito da floresta conhecido como Totoro. Sua mãe está no hospital e seu pai divide o tempo entre dar aulas na faculdade e cuidar de sua mulher doente. Quando Mei tenta visitar a mãe por conta própria, se perde na floresta e só o grande e fofo Totoro pode ajudar a menina a achar o caminho de volta para casa."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
         {
-            "key": "ja",
-            "value": "となりのトトロ"
+          "key": "pt-br",
+          "value": "Animação"
         },
         {
-            "key": "en-us",
-            "value": "My Neighbor Totoro"
+          "key": "en-us",
+          "value": "Animation"
         },
         {
-            "key": "pt-br",
-            "value": "Meu Amigo Totoro"
+          "key": "ja",
+          "value": "アニメーション"
         }
-    ],
-    "descriptions": [
+      ]
+    },
+    {
+      "id": 2,
+      "list": [
         {
-            "key": "ja",
-            "value": "都会からそんなに遠くない田舎町に引っ越してきたサツキとメイ。お化けやしきみたいに古い家には、何かが棲んでいる気配がいっぱい。サツキたちの家の裏にある神社の大木をすみかにしているトトロ。人の住んでいない家をススやホコリだらけにしてしまうススワタリ（まっくろくろすけ）。大きな目と大きな口、そして何本もある足で空間を自由自在に走りまわる巨大なネコバス。サツキとメイは次々に奇妙ないきものと出会い、ステキな冒険に飛び出す。"
+          "key": "pt-br",
+          "value": "Família"
         },
         {
-            "key": "en-us",
-            "value": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her."
+          "key": "en-us",
+          "value": "Family"
         },
         {
-            "key": "pt-br",
-            "value": "Mei é uma jovem que encontra uma pequena passagem em seu quintal, que a leva à um lendário espírito da floresta conhecido como Totoro. Sua mãe está no hospital e seu pai divide o tempo entre dar aulas na faculdade e cuidar de sua mulher doente. Quando Mei tenta visitar a mãe por conta própria, se perde na floresta e só o grande e fofo Totoro pode ajudar a menina a achar o caminho de volta para casa."
+          "key": "ja",
+          "value": "ファミリー"
         }
-    ],
-    "genres": [
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
         {
-            "id": 1,
-            "list": [
-                {
-                    "key": "pt-br",
-                    "value": "Animação"
-                },
-                {
-                    "key": "en-us",
-                    "value": "Animation"
-                },
-                {
-                    "key": "ja",
-                    "value": "アニメーション"
-                }
-            ]
+          "key": "pt-br",
+          "value": "Fantasia"
         },
         {
-            "id": 2,
-            "list": [
-                {
-                    "key": "pt-br",
-                    "value": "Família"
-                },
-                {
-                    "key": "en-us",
-                    "value": "Family"
-                },
-                {
-                    "key": "ja",
-                    "value": "ファミリー"
-                }
-            ]
+          "key": "en-us",
+          "value": "Fantasy"
         },
         {
-            "id": 3,
-            "list": [
-                {
-                    "key": "pt-br",
-                    "value": "Fantasia"
-                },
-                {
-                    "key": "en-us",
-                    "value": "Fantasy"
-                },
-                {
-                    "key": "ja",
-                    "value": "ファンタジー"
-                }
-            ]
+          "key": "ja",
+          "value": "ファンタジー"
         }
-    ],
-    "cast": [
-        {
-            "characterName": "Satsuki",
-            "name": "Noriko Hidaka",
-            "order": 0,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Hitoshi Takagi",
-            "name": "Totoro",
-            "order": 1,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Mei",
-            "name": "Chika Sakamoto",
-            "order": 2,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Tatsuo Kusakabe",
-            "name": "Shigesato Itoi",
-            "order": 3,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Yasuko Kusakabe",
-            "name": "Sumi Shimamoto",
-            "order": 4,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Kanta no obâsan",
-            "name": "Tanie Kitabayashi",
-            "order": 5,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Kanta no otôsan",
-            "name": "Masashi Hirose",
-            "order": 6,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Kanta no okâsan",
-            "name": "Yûko Maruyama",
-            "order": 7,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Kusakari-Otoko",
-            "name": "Shigeru Chiba",
-            "order": 8,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Kanta",
-            "name": "Toshiyuki Amagasa",
-            "order": 9,
-            "role": "Voice"
-        }
-    ],
-    "crew": [
-        {
-            "name": "Tensai Okamura",
-            "role": "Animation",
-            "order": 0
-        },
-        {
-            "name": "Hayao Miyazaki",
-            "role": "Director",
-            "order": 1
-        },
-        {
-            "name": "Hayao Miyazaki",
-            "role": "Writer",
-            "order": 2
-        },
-        {
-            "name": "Rick Dempsey",
-            "role": "Executive Producer",
-            "order": 3
-        },
-        {
-            "name": "Mark Henley",
-            "role": "Director of Photography",
-            "order": 4
-        },
-        {
-            "name": "Ned Lott",
-            "role": "Producer",
-            "order": 5
-        },
-        {
-            "name": "Ned Lott",
-            "role": "Casting",
-            "order": 6
-        },
-        {
-            "name": "Joe Hisaishi",
-            "role": "Original Music Composer",
-            "order": 7
-        },
-        {
-            "name": "Toshio Suzuki",
-            "role": "Producer",
-            "order": 8
-        },
-        {
-            "name": "Takeshi Seyama",
-            "role": "Editor",
-            "order": 9
-        },
-        {
-            "name": "Yasuyoshi Tokuma",
-            "role": "Executive Producer",
-            "order": 10
-        },
-        {
-            "name": "Yōji Takeshige",
-            "role": "Background Designer",
-            "order": 11
-        },
-        {
-            "name": "Makiko Futaki",
-            "role": "Animation",
-            "order": 12
-        },
-        {
-            "name": "Hisao Shirai",
-            "role": "Director of Photography",
-            "order": 13
-        },
-        {
-            "name": "Tooru Hara",
-            "role": "Producer",
-            "order": 14
-        },
-        {
-            "name": "Shinji Kimura",
-            "role": "Background Designer",
-            "order": 15
-        },
-        {
-            "name": "Katsuya Kondo",
-            "role": "Animation",
-            "order": 16
-        },
-        {
-            "name": "Eiko Tanaka",
-            "role": "Line Producer",
-            "order": 17
-        },
-        {
-            "name": "Sunao Katabuchi",
-            "role": "Background Designer",
-            "order": 18
-        },
-        {
-            "name": "Kazuo Oga",
-            "role": "Art Direction",
-            "order": 19
-        },
-        {
-            "name": "Toshio Nozaki",
-            "role": "Background Designer",
-            "order": 20
-        },
-        {
-            "name": "Yoshinori Kanada",
-            "role": "Animation",
-            "order": 21
-        },
-        {
-            "name": "Hidetoshi Kaneko",
-            "role": "Background Designer",
-            "order": 22
-        },
-        {
-            "name": "Masaaki Endou",
-            "role": "Animation",
-            "order": 23
-        },
-        {
-            "name": "Shinji Otsuka",
-            "role": "Animation",
-            "order": 24
-        },
-        {
-            "name": "Hirômi Yamakawa",
-            "role": "Animation",
-            "order": 25
-        },
-        {
-            "name": "Toshio Kawaguchi",
-            "role": "Animation",
-            "order": 26
-        },
-        {
-            "name": "Masako Shinohara",
-            "role": "Animation",
-            "order": 27
-        },
-        {
-            "name": "Hitomi Tateno",
-            "role": "Animation Manager",
-            "order": 28
-        },
-        {
-            "name": "Michiyo Yasuda",
-            "role": "Painter",
-            "order": 29
-        },
-        {
-            "name": "Kiyomi Ôta",
-            "role": "Background Designer",
-            "order": 30
-        },
-        {
-            "name": "Junko Ina",
-            "role": "Background Designer",
-            "order": 31
-        },
-        {
-            "name": "Komasa",
-            "role": "Animation",
-            "order": 32
-        },
-        {
-            "name": "Tsuyoshi Matsumuro",
-            "role": "Background Designer",
-            "order": 33
-        },
-        {
-            "name": "Hajime Matsuoka",
-            "role": "Background Designer",
-            "order": 34
-        },
-        {
-            "name": "Yuko Matsuura",
-            "role": "Background Designer",
-            "order": 35
-        },
-        {
-            "name": "Nobuhiro Otsuka",
-            "role": "Background Designer",
-            "order": 36
-        },
-        {
-            "name": "Yoshiharu Sato",
-            "role": "Animation Supervisor",
-            "order": 37
-        },
-        {
-            "name": "Makoto Shiraishi",
-            "role": "Background Designer",
-            "order": 38
-        },
-        {
-            "name": "Kiyoko Sugawara",
-            "role": "Background Designer",
-            "order": 39
-        },
-        {
-            "name": "Yasuko Tachiki",
-            "role": "Animation Manager",
-            "order": 40
-        },
-        {
-            "name": "Hideko Tagawa",
-            "role": "Animation",
-            "order": 41
-        },
-        {
-            "name": "Keiko Tamura",
-            "role": "Background Designer",
-            "order": 42
-        },
-        {
-            "name": "Makoto Tanaka",
-            "role": "Animation",
-            "order": 43
-        },
-        {
-            "name": "Sadahiko Tanaka",
-            "role": "Background Designer",
-            "order": 44
-        },
-        {
-            "name": "Tsukasa Tannai",
-            "role": "Animation",
-            "order": 45
-        },
-        {
-            "name": "Masaki Yoshizaki",
-            "role": "Background Designer",
-            "order": 46
-        },
-        {
-            "name": "Tetsuya Endō",
-            "role": "Assistant Director",
-            "order": 47
-        },
-        {
-            "name": "Akira Yamakawa",
-            "role": "Background Designer",
-            "order": 48
-        }
-    ],
-    "ratings": [
-        {
-            "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
-            "value": "L"
-        },
-        {
-            "key": "Motion Picture Association of America",
-            "value": "G"
-        }
-    ]
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Satsuki",
+      "name": "Noriko Hidaka",
+      "order": 0,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Hitoshi Takagi",
+      "name": "Totoro",
+      "order": 1,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Mei",
+      "name": "Chika Sakamoto",
+      "order": 2,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Tatsuo Kusakabe",
+      "name": "Shigesato Itoi",
+      "order": 3,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Yasuko Kusakabe",
+      "name": "Sumi Shimamoto",
+      "order": 4,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Kanta no obâsan",
+      "name": "Tanie Kitabayashi",
+      "order": 5,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Kanta no otôsan",
+      "name": "Masashi Hirose",
+      "order": 6,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Kanta no okâsan",
+      "name": "Yûko Maruyama",
+      "order": 7,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Kusakari-Otoko",
+      "name": "Shigeru Chiba",
+      "order": 8,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Kanta",
+      "name": "Toshiyuki Amagasa",
+      "order": 9,
+      "role": "Voice"
+    }
+  ],
+  "crew": [
+    {
+      "name": "Tensai Okamura",
+      "role": "Animation",
+      "order": 0
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Director",
+      "order": 1
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Writer",
+      "order": 2
+    },
+    {
+      "name": "Rick Dempsey",
+      "role": "Executive Producer",
+      "order": 3
+    },
+    {
+      "name": "Mark Henley",
+      "role": "Director of Photography",
+      "order": 4
+    },
+    {
+      "name": "Ned Lott",
+      "role": "Producer",
+      "order": 5
+    },
+    {
+      "name": "Ned Lott",
+      "role": "Casting",
+      "order": 6
+    },
+    {
+      "name": "Joe Hisaishi",
+      "role": "Original Music Composer",
+      "order": 7
+    },
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 8
+    },
+    {
+      "name": "Takeshi Seyama",
+      "role": "Editor",
+      "order": 9
+    },
+    {
+      "name": "Yasuyoshi Tokuma",
+      "role": "Executive Producer",
+      "order": 10
+    },
+    {
+      "name": "Yōji Takeshige",
+      "role": "Background Designer",
+      "order": 11
+    },
+    {
+      "name": "Makiko Futaki",
+      "role": "Animation",
+      "order": 12
+    },
+    {
+      "name": "Hisao Shirai",
+      "role": "Director of Photography",
+      "order": 13
+    },
+    {
+      "name": "Tooru Hara",
+      "role": "Producer",
+      "order": 14
+    },
+    {
+      "name": "Shinji Kimura",
+      "role": "Background Designer",
+      "order": 15
+    },
+    {
+      "name": "Katsuya Kondo",
+      "role": "Animation",
+      "order": 16
+    },
+    {
+      "name": "Eiko Tanaka",
+      "role": "Line Producer",
+      "order": 17
+    },
+    {
+      "name": "Sunao Katabuchi",
+      "role": "Background Designer",
+      "order": 18
+    },
+    {
+      "name": "Kazuo Oga",
+      "role": "Art Direction",
+      "order": 19
+    },
+    {
+      "name": "Toshio Nozaki",
+      "role": "Background Designer",
+      "order": 20
+    },
+    {
+      "name": "Yoshinori Kanada",
+      "role": "Animation",
+      "order": 21
+    },
+    {
+      "name": "Hidetoshi Kaneko",
+      "role": "Background Designer",
+      "order": 22
+    },
+    {
+      "name": "Masaaki Endou",
+      "role": "Animation",
+      "order": 23
+    },
+    {
+      "name": "Shinji Otsuka",
+      "role": "Animation",
+      "order": 24
+    },
+    {
+      "name": "Hirômi Yamakawa",
+      "role": "Animation",
+      "order": 25
+    },
+    {
+      "name": "Toshio Kawaguchi",
+      "role": "Animation",
+      "order": 26
+    },
+    {
+      "name": "Masako Shinohara",
+      "role": "Animation",
+      "order": 27
+    },
+    {
+      "name": "Hitomi Tateno",
+      "role": "Animation Manager",
+      "order": 28
+    },
+    {
+      "name": "Michiyo Yasuda",
+      "role": "Painter",
+      "order": 29
+    },
+    {
+      "name": "Kiyomi Ôta",
+      "role": "Background Designer",
+      "order": 30
+    },
+    {
+      "name": "Junko Ina",
+      "role": "Background Designer",
+      "order": 31
+    },
+    {
+      "name": "Komasa",
+      "role": "Animation",
+      "order": 32
+    },
+    {
+      "name": "Tsuyoshi Matsumuro",
+      "role": "Background Designer",
+      "order": 33
+    },
+    {
+      "name": "Hajime Matsuoka",
+      "role": "Background Designer",
+      "order": 34
+    },
+    {
+      "name": "Yuko Matsuura",
+      "role": "Background Designer",
+      "order": 35
+    },
+    {
+      "name": "Nobuhiro Otsuka",
+      "role": "Background Designer",
+      "order": 36
+    },
+    {
+      "name": "Yoshiharu Sato",
+      "role": "Animation Supervisor",
+      "order": 37
+    },
+    {
+      "name": "Makoto Shiraishi",
+      "role": "Background Designer",
+      "order": 38
+    },
+    {
+      "name": "Kiyoko Sugawara",
+      "role": "Background Designer",
+      "order": 39
+    },
+    {
+      "name": "Yasuko Tachiki",
+      "role": "Animation Manager",
+      "order": 40
+    },
+    {
+      "name": "Hideko Tagawa",
+      "role": "Animation",
+      "order": 41
+    },
+    {
+      "name": "Keiko Tamura",
+      "role": "Background Designer",
+      "order": 42
+    },
+    {
+      "name": "Makoto Tanaka",
+      "role": "Animation",
+      "order": 43
+    },
+    {
+      "name": "Sadahiko Tanaka",
+      "role": "Background Designer",
+      "order": 44
+    },
+    {
+      "name": "Tsukasa Tannai",
+      "role": "Animation",
+      "order": 45
+    },
+    {
+      "name": "Masaki Yoshizaki",
+      "role": "Background Designer",
+      "order": 46
+    },
+    {
+      "name": "Tetsuya Endō",
+      "role": "Assistant Director",
+      "order": 47
+    },
+    {
+      "name": "Akira Yamakawa",
+      "role": "Background Designer",
+      "order": 48
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "G"
+    }
+  ]
 }

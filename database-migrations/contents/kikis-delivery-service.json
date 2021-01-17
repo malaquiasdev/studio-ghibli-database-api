@@ -1,389 +1,390 @@
 {
-    "id": "9b600bda-8d0b-45b9-a592-a29df6deeca5",
-    "budget": 6900000,
-    "revenue": 18172849,
-    "releaseYear": "1989",
-    "runTime": 103,
-    "originalLanguage": {
-        "iso6391": "ja",
-        "name": "Japanese"
+  "id": "9b600bda-8d0b-45b9-a592-a29df6deeca5",
+  "budget": 6900000,
+  "revenue": 18172849,
+  "releaseYear": "1989",
+  "runTime": 103,
+  "type": "movie",
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "魔女の宅急便"
     },
-    "titles": [
+    {
+      "key": "en-us",
+      "value": "Kiki's Delivery Service"
+    },
+    {
+      "key": "pt-br",
+      "value": "O Serviço de Entregas da Kiki"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "13歳の魔女キキは、古い一族の掟に従い、黒猫ジジと修業の旅に出る。そして、海辺の大きな街で修行をすることに。箒で飛ぶ以外に能がないのキキは、空飛ぶ宅急便を始める。しかし、最初の仕事でいきなり荷物を無くしてしまう……。"
+    },
+    {
+      "key": "en-us",
+      "value": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service."
+    },
+    {
+      "key": "pt-br",
+      "value": "Kiki, uma bruxinha, está fazendo 13 anos e, segundo os costumes de seu povo, deve aprender a se virar sozinha. Assim, apenas com sua coragem e sua vassoura voadora, vai para a cidade grande e, para conseguir sobreviver, acaba ajudando em um serviço de entregas."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
         {
-            "key": "ja",
-            "value": "魔女の宅急便"
+          "key": "pt-br",
+          "value": "Animação"
         },
         {
-            "key": "en-us",
-            "value": "Kiki's Delivery Service"
+          "key": "en-us",
+          "value": "Animation"
         },
         {
-            "key": "pt-br",
-            "value": "O Serviço de Entregas da Kiki"
+          "key": "ja",
+          "value": "アニメーション"
         }
-    ],
-    "descriptions": [
+      ]
+    },
+    {
+      "id": 2,
+      "list": [
         {
-            "key": "ja",
-            "value": "13歳の魔女キキは、古い一族の掟に従い、黒猫ジジと修業の旅に出る。そして、海辺の大きな街で修行をすることに。箒で飛ぶ以外に能がないのキキは、空飛ぶ宅急便を始める。しかし、最初の仕事でいきなり荷物を無くしてしまう……。"
+          "key": "pt-br",
+          "value": "Família"
         },
         {
-            "key": "en-us",
-            "value": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service."
+          "key": "en-us",
+          "value": "Family"
         },
         {
-            "key": "pt-br",
-            "value": "Kiki, uma bruxinha, está fazendo 13 anos e, segundo os costumes de seu povo, deve aprender a se virar sozinha. Assim, apenas com sua coragem e sua vassoura voadora, vai para a cidade grande e, para conseguir sobreviver, acaba ajudando em um serviço de entregas."
+          "key": "ja",
+          "value": "ファミリー"
         }
-    ],
-    "genres": [
+      ]
+    },
+    {
+      "id": 4,
+      "list": [
         {
-            "id": 1,
-            "list": [
-                {
-                    "key": "pt-br",
-                    "value": "Animação"
-                },
-                {
-                    "key": "en-us",
-                    "value": "Animation"
-                },
-                {
-                    "key": "ja",
-                    "value": "アニメーション"
-                }
-            ]
+          "key": "pt-br",
+          "value": "Drama"
         },
         {
-            "id": 2,
-            "list": [
-                {
-                    "key": "pt-br",
-                    "value": "Família"
-                },
-                {
-                    "key": "en-us",
-                    "value": "Family"
-                },
-                {
-                    "key": "ja",
-                    "value": "ファミリー"
-                }
-            ]
+          "key": "en-us",
+          "value": "Drama"
         },
         {
-            "id": 4,
-            "list": [
-                {
-                    "key": "pt-br",
-                    "value": "Drama"
-                },
-                {
-                    "key": "en-us",
-                    "value": "Drama"
-                },
-                {
-                    "key": "ja",
-                    "value": "ドラマ"
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "list": [
-                {
-                    "key": "pt-br",
-                    "value": "Aventura"
-                },
-                {
-                    "key": "en-us",
-                    "value": "Adventure"
-                },
-                {
-                    "key": "ja",
-                    "value": "アドベンチャー"
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "list": [
-                {
-                    "key": "pt-br",
-                    "value": "Fantasia"
-                },
-                {
-                    "key": "en-us",
-                    "value": "Fantasy"
-                },
-                {
-                    "key": "ja",
-                    "value": "ファンタジー"
-                }
-            ]
+          "key": "ja",
+          "value": "ドラマ"
         }
-    ],
-    "cast": [
+      ]
+    },
+    {
+      "id": 5,
+      "list": [
         {
-            "characterName": "Kiki / Ursula",
-            "name": "Minami Takayama",
-            "order": 0,
-            "role": "Voice"
+          "key": "pt-br",
+          "value": "Aventura"
         },
         {
-            "characterName": "Jiji",
-            "name": "Rei Sakuma",
-            "order": 1,
-            "role": "Voice"
+          "key": "en-us",
+          "value": "Adventure"
         },
         {
-            "characterName": "Tombo",
-            "name": "Kappei Yamaguchi",
-            "order": 2,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Osono",
-            "name": "Keiko Toda",
-            "order": 3,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Kokiri – Kiki's Mother",
-            "name": "Mieko Nobusawa",
-            "order": 4,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Okino – Kiki's Father",
-            "name": "Kôichi Miura",
-            "order": 5,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Rô-fujin",
-            "name": "Haruko Kato",
-            "order": 6,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Barsa",
-            "name": "Hiroko Seki",
-            "order": 7,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Ketto",
-            "name": "Yuriko Fuchizaki",
-            "order": 8,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Bakery Worker / Policeman",
-            "name": "Kouichi Yamadera",
-            "order": 9,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Maki",
-            "name": "Kikuko Inoue",
-            "order": 10,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Young Sempai Witch",
-            "name": "Yuuko Kobayashi",
-            "order": 11,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Ketto's Mother",
-            "name": "Mika Doi",
-            "order": 12,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Ketto's Father",
-            "name": "Takaya Hashi",
-            "order": 13,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Baby",
-            "name": "Chika Sakamoto",
-            "order": 14,
-            "role": "Voice"
-        },
-        {
-            "characterName": "Toshiko Asai",
-            "name": "Toshiko Asai",
-            "order": 15,
-            "role": "Voice"
-        },
-        {
-            "characterName": "",
-            "name": "Hiroko Maruyama",
-            "order": 16,
-            "role": "Voice"
-        },
-        {
-            "characterName": "",
-            "name": "Shinpachi Tsuji",
-            "order": 17,
-            "role": "Voice"
-        },
-        {
-            "characterName": "",
-            "name": "Yûko Maruyama",
-            "order": 18,
-            "role": "Voice"
-        },
-        {
-            "characterName": "",
-            "name": "Masa Saitō",
-            "order": 19,
-            "role": "Voice"
-        },
-        {
-            "characterName": "",
-            "name": "Yûko Tsuga",
-            "order": 20,
-            "role": "Voice"
-        },
-        {
-            "characterName": "",
-            "name": "Tomomichi Nishimura",
-            "order": 21,
-            "role": "Voice"
-        },
-        {
-            "characterName": "",
-            "name": "Akio Otsuka",
-            "order": 22,
-            "role": "Voice"
-        },
-        {
-            "characterName": "",
-            "name": "Yoshiko Kamei",
-            "order": 23,
-            "role": "Voice"
+          "key": "ja",
+          "value": "アドベンチャー"
         }
-    ],
-    "crew": [
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
         {
-            "name": "Hayao Miyazaki",
-            "role": "Screenplay",
-            "order": 0
+          "key": "pt-br",
+          "value": "Fantasia"
         },
         {
-            "name": "Hayao Miyazaki",
-            "role": "Director",
-            "order": 1
+          "key": "en-us",
+          "value": "Fantasy"
         },
         {
-            "name": "Hayao Miyazaki",
-            "role": "Producer",
-            "order": 2
-        },
-        {
-            "name": "Joe Hisaishi",
-            "role": "Original Music Composer",
-            "order": 3
-        },
-        {
-            "name": "Toshio Suzuki",
-            "role": "Producer",
-            "order": 4
-        },
-        {
-            "name": "Takeshi Seyama",
-            "role": "Editor",
-            "order": 5
-        },
-        {
-            "name": "Yasuyoshi Tokuma",
-            "role": "Executive Producer",
-            "order": 6
-        },
-        {
-            "name": "Eiko Tanaka",
-            "role": "Producer",
-            "order": 7
-        },
-        {
-            "name": "Eiko Kadono",
-            "role": "Novel",
-            "order": 8
-        },
-        {
-            "name": "Sunao Katabuchi",
-            "role": "Assistant Director",
-            "order": 9
-        },
-        {
-            "name": "Kazuo Oga",
-            "role": "Background Designer",
-            "order": 10
-        },
-        {
-            "name": "Morihisa Takagi",
-            "role": "Executive Producer",
-            "order": 11
-        },
-        {
-            "name": "Mikihiko Tsuzuki",
-            "role": "Executive Producer",
-            "order": 12
-        },
-        {
-            "name": "Shigeo Sugimura",
-            "role": "Cinematography",
-            "order": 13
-        },
-        {
-            "name": "Hinoshi Ono",
-            "role": "Production Design",
-            "order": 14
-        },
-        {
-            "name": "Hiroshi Ōno",
-            "role": "Art Direction",
-            "order": 16
-        },
-        {
-            "name": "Kaoru Tanifuji",
-            "role": "Special Effects",
-            "order": 17
-        },
-        {
-            "name": "Yoshifumi Kondou",
-            "role": "Animation Supervisor",
-            "order": 18
-        },
-        {
-            "name": "Shinji Otsuka",
-            "role": "Supervising Animator",
-            "order": 19
-        },
-        {
-            "name": "Michiyo Yasuda",
-            "role": "Color Designer",
-            "order": 20
-        },
-        {
-            "name": "Kazutoshi Sato",
-            "role": "Sound Effects",
-            "order": 21
+          "key": "ja",
+          "value": "ファンタジー"
         }
-    ],
-    "ratings": [
-        {
-            "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
-            "value": "L"
-        },
-        {
-            "key": "Motion Picture Association of America",
-            "value": "G"
-        }
-    ]
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Kiki / Ursula",
+      "name": "Minami Takayama",
+      "order": 0,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Jiji",
+      "name": "Rei Sakuma",
+      "order": 1,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Tombo",
+      "name": "Kappei Yamaguchi",
+      "order": 2,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Osono",
+      "name": "Keiko Toda",
+      "order": 3,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Kokiri – Kiki's Mother",
+      "name": "Mieko Nobusawa",
+      "order": 4,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Okino – Kiki's Father",
+      "name": "Kôichi Miura",
+      "order": 5,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Rô-fujin",
+      "name": "Haruko Kato",
+      "order": 6,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Barsa",
+      "name": "Hiroko Seki",
+      "order": 7,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Ketto",
+      "name": "Yuriko Fuchizaki",
+      "order": 8,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Bakery Worker / Policeman",
+      "name": "Kouichi Yamadera",
+      "order": 9,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Maki",
+      "name": "Kikuko Inoue",
+      "order": 10,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Young Sempai Witch",
+      "name": "Yuuko Kobayashi",
+      "order": 11,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Ketto's Mother",
+      "name": "Mika Doi",
+      "order": 12,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Ketto's Father",
+      "name": "Takaya Hashi",
+      "order": 13,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Baby",
+      "name": "Chika Sakamoto",
+      "order": 14,
+      "role": "Voice"
+    },
+    {
+      "characterName": "Toshiko Asai",
+      "name": "Toshiko Asai",
+      "order": 15,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Hiroko Maruyama",
+      "order": 16,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Shinpachi Tsuji",
+      "order": 17,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Yûko Maruyama",
+      "order": 18,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Masa Saitō",
+      "order": 19,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Yûko Tsuga",
+      "order": 20,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Tomomichi Nishimura",
+      "order": 21,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Akio Otsuka",
+      "order": 22,
+      "role": "Voice"
+    },
+    {
+      "characterName": "",
+      "name": "Yoshiko Kamei",
+      "order": 23,
+      "role": "Voice"
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Screenplay",
+      "order": 0
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Director",
+      "order": 1
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Producer",
+      "order": 2
+    },
+    {
+      "name": "Joe Hisaishi",
+      "role": "Original Music Composer",
+      "order": 3
+    },
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 4
+    },
+    {
+      "name": "Takeshi Seyama",
+      "role": "Editor",
+      "order": 5
+    },
+    {
+      "name": "Yasuyoshi Tokuma",
+      "role": "Executive Producer",
+      "order": 6
+    },
+    {
+      "name": "Eiko Tanaka",
+      "role": "Producer",
+      "order": 7
+    },
+    {
+      "name": "Eiko Kadono",
+      "role": "Novel",
+      "order": 8
+    },
+    {
+      "name": "Sunao Katabuchi",
+      "role": "Assistant Director",
+      "order": 9
+    },
+    {
+      "name": "Kazuo Oga",
+      "role": "Background Designer",
+      "order": 10
+    },
+    {
+      "name": "Morihisa Takagi",
+      "role": "Executive Producer",
+      "order": 11
+    },
+    {
+      "name": "Mikihiko Tsuzuki",
+      "role": "Executive Producer",
+      "order": 12
+    },
+    {
+      "name": "Shigeo Sugimura",
+      "role": "Cinematography",
+      "order": 13
+    },
+    {
+      "name": "Hinoshi Ono",
+      "role": "Production Design",
+      "order": 14
+    },
+    {
+      "name": "Hiroshi Ōno",
+      "role": "Art Direction",
+      "order": 16
+    },
+    {
+      "name": "Kaoru Tanifuji",
+      "role": "Special Effects",
+      "order": 17
+    },
+    {
+      "name": "Yoshifumi Kondou",
+      "role": "Animation Supervisor",
+      "order": 18
+    },
+    {
+      "name": "Shinji Otsuka",
+      "role": "Supervising Animator",
+      "order": 19
+    },
+    {
+      "name": "Michiyo Yasuda",
+      "role": "Color Designer",
+      "order": 20
+    },
+    {
+      "name": "Kazutoshi Sato",
+      "role": "Sound Effects",
+      "order": 21
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "G"
+    }
+  ]
 }
