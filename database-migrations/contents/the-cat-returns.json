@@ -1,0 +1,819 @@
+{
+  "id": "8b8f7054-eca1-426e-8c51-61ad0f4b1c89",
+  "budget": 0,
+  "revenue": 522911,
+  "releaseYear": "2002",
+  "runTime": 75,
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "猫の恩返し"
+    },
+    {
+      "key": "en-us",
+      "value": "The Cat Returns"
+    },
+    {
+      "key": "pt-br",
+      "value": "O Reino dos Gatos"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "女子高生のハルは、車にひかれそうになっていた猫の国の王子ルーンを助けたことから、その恩返しとして猫の国に招待される。気楽な猫の世界にすっかり魅了され、「このまま猫になるのもいいかも」と思ったハルは、ルーンの妃候補にされ、猫の姿に変化させられてしまう。このままでは人間の世界に戻れないとあわてたハルは、猫の男爵バロンの助けを借り、元の姿に戻るため奮闘する。"
+    },
+    {
+      "key": "en-us",
+      "value": "Haru, a schoolgirl bored by her ordinary routine, saves the life of an unusual cat and suddenly her world is transformed beyond anything she ever imagined. The Cat King rewards her good deed with a flurry of presents, including a very shocking proposal of marriage to his son! Haru embarks on an unexpected journey to the Kingdom of Cats where her eyes are opened to a whole other world."
+    },
+    {
+      "key": "pt-br",
+      "value": "Essa é a história de Haru, uma garota muito preguiçosa e que todos os dias chega atrasada na escola. Um belo dia, voltando para casa, salva um misterioso gato de ser atropelado. Na mesma noite a menina recebe a visita do Rei dos Gatos, que a convida para conhecer seu reino, um lugar mágico, diferente de tudo, onde os bichos falam e se comportam como gente."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Animação"
+        },
+        {
+          "key": "en-us",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Aventura"
+        },
+        {
+          "key": "en-us",
+          "value": "Adventure"
+        },
+        {
+          "key": "ja",
+          "value": "アドベンチャー"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Fantasia"
+        },
+        {
+          "key": "en-us",
+          "value": "Fantasy"
+        },
+        {
+          "key": "ja",
+          "value": "ファンタジー"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Drama"
+        },
+        {
+          "key": "en-us",
+          "value": "Drama"
+        },
+        {
+          "key": "ja",
+          "value": "ドラマ"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Família"
+        },
+        {
+          "key": "en-us",
+          "value": "Family"
+        },
+        {
+          "key": "ja",
+          "value": "ファミリー"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Haru Yoshioka",
+      "name": "Chizuru Ikewaki",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Baron Humbert von Gikkingen",
+      "name": "Yoshihiko Hakamada",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Yuki",
+      "name": "Aki Maeda",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Lune",
+      "name": "Takayuki Yamada",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Hiromi",
+      "name": "Hitomi Satô",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Natori",
+      "name": "Kenta Satoi",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Natoru",
+      "name": "Mari Hamada",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "Muta",
+      "name": "Tetsu Watanabe",
+      "role": "Voice",
+      "order": 7
+    },
+    {
+      "characterName": "Toto",
+      "name": "Yousuke Saito",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "Haru's Mother",
+      "name": "Kumiko Okae",
+      "role": "Voice",
+      "order": 9
+    },
+    {
+      "characterName": "Cat King",
+      "name": "Tetsurō Tamba",
+      "role": "Voice",
+      "order": 10
+    },
+    {
+      "characterName": "Additional voice",
+      "name": "Yo Oizumi",
+      "role": "Voice",
+      "order": 11
+    },
+    {
+      "characterName": "Additional voice",
+      "name": "Yoko Honna",
+      "role": "Voice",
+      "order": 12
+    },
+    {
+      "characterName": "Additional voices",
+      "name": "Ken Yasuda",
+      "role": "Voice",
+      "order": 13
+    },
+    {
+      "characterName": "Natoru (English version, voice)",
+      "name": "Andy Richter",
+      "role": "Voice",
+      "order": 14
+    },
+    {
+      "characterName": "The Cat King (English version, voice)",
+      "name": "Tim Curry",
+      "role": "Voice",
+      "order": 15
+    },
+    {
+      "characterName": "Hiromi (English version, voice)",
+      "name": "Kristen Bell",
+      "role": "Voice",
+      "order": 16
+    },
+    {
+      "characterName": "Haru (English version, voice)",
+      "name": "Anne Hathaway",
+      "role": "Voice",
+      "order": 17
+    },
+    {
+      "characterName": "Yuki (English version, voice)",
+      "name": "Judy Greer",
+      "role": "Voice",
+      "order": 18
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Production Coordinator",
+      "order": 0
+    },
+    {
+      "name": "Rick Dempsey",
+      "role": "Executive Producer",
+      "order": 1
+    },
+    {
+      "name": "Ned Lott",
+      "role": "Producer",
+      "order": 2
+    },
+    {
+      "name": "Ned Lott",
+      "role": "Casting",
+      "order": 3
+    },
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 4
+    },
+    {
+      "name": "Doc Kane",
+      "role": "ADR Mixer",
+      "order": 5
+    },
+    {
+      "name": "Tomohiko Ishii",
+      "role": "Associate Producer",
+      "order": 6
+    },
+    {
+      "name": "Koji Hoshino",
+      "role": "Executive Producer",
+      "order": 7
+    },
+    {
+      "name": "Naoya Fujimaki",
+      "role": "Production Manager",
+      "order": 8
+    },
+    {
+      "name": "Seiji Okuda",
+      "role": "Production Manager",
+      "order": 9
+    },
+    {
+      "name": "Toru Noguchi",
+      "role": "Sound Effects Editor",
+      "order": 10
+    },
+    {
+      "name": "Hiroyuki Morita",
+      "role": "Director",
+      "order": 11
+    },
+    {
+      "name": "Aoi Hîragi",
+      "role": "Author",
+      "order": 12
+    },
+    {
+      "name": "Reiko Yoshida",
+      "role": "Screenplay",
+      "order": 13
+    },
+    {
+      "name": "Hironori Aihara",
+      "role": "Executive Producer",
+      "order": 14
+    },
+    {
+      "name": "Takeyoshi Matsushita",
+      "role": "Executive Producer",
+      "order": 15
+    },
+    {
+      "name": "Nozomu Takahashi",
+      "role": "Producer",
+      "order": 16
+    },
+    {
+      "name": "Hideyuki Takai",
+      "role": "Executive Producer",
+      "order": 17
+    },
+    {
+      "name": "Seiichiro Ujiie",
+      "role": "Executive Producer",
+      "order": 18
+    },
+    {
+      "name": "Yuji Nomi",
+      "role": "Original Music Composer",
+      "order": 19
+    },
+    {
+      "name": "Naoya Tanaka",
+      "role": "Art Direction",
+      "order": 20
+    },
+    {
+      "name": "Shuji Inoue",
+      "role": "Foley Mixer",
+      "order": 21
+    },
+    {
+      "name": "Terri Douglas",
+      "role": "ADR Voice Casting",
+      "order": 22
+    },
+    {
+      "name": "Tetsuya Nishio",
+      "role": "Key Animation",
+      "order": 23
+    },
+    {
+      "name": "Hiroaki Hirabayashi",
+      "role": "Color Timer",
+      "order": 24
+    },
+    {
+      "name": "Tooru Fukushi",
+      "role": "Camera Operator",
+      "order": 25
+    },
+    {
+      "name": "Yuichi Tanaka",
+      "role": "Key Animation",
+      "order": 26
+    },
+    {
+      "name": "Kazuhide Tomonaga",
+      "role": "Key Animation",
+      "order": 27
+    },
+    {
+      "name": "Hiroyuki Aoyama",
+      "role": "Key Animation",
+      "order": 28
+    },
+    {
+      "name": "Teiichi Takiguchi",
+      "role": "Key Animation",
+      "order": 29
+    },
+    {
+      "name": "Megumi Uchida",
+      "role": "Editor",
+      "order": 30
+    },
+    {
+      "name": "Tom E. Dahl",
+      "role": "Sound Re-Recording Mixer",
+      "order": 31
+    },
+    {
+      "name": "Shinji Otsuka",
+      "role": "Key Animation",
+      "order": 32
+    },
+    {
+      "name": "Michiyo Suzuki",
+      "role": "Key Animation",
+      "order": 33
+    },
+    {
+      "name": "Hirômi Yamakawa",
+      "role": "Key Animation",
+      "order": 34
+    },
+    {
+      "name": "Masafumi Yokota",
+      "role": "Key Animation",
+      "order": 35
+    },
+    {
+      "name": "Mariko Matsuo",
+      "role": "Key Animation",
+      "order": 36
+    },
+    {
+      "name": "Michio Mihara",
+      "role": "Key Animation",
+      "order": 37
+    },
+    {
+      "name": "Katsutoshi Nakamura",
+      "role": "Key Animation",
+      "order": 38
+    },
+    {
+      "name": "Atsuko Ôtani",
+      "role": "Key Animation",
+      "order": 39
+    },
+    {
+      "name": "Yoshiharu Sato",
+      "role": "Key Animation",
+      "order": 40
+    },
+    {
+      "name": "Tadashi Hiramatsu",
+      "role": "Animation",
+      "order": 41
+    },
+    {
+      "name": "Yosuke Toba",
+      "role": "Production Assistant",
+      "order": 42
+    },
+    {
+      "name": "Nagisa Miyazaki",
+      "role": "Key Animation",
+      "order": 43
+    },
+    {
+      "name": "Satoko Morikawa",
+      "role": "Character Designer",
+      "order": 44
+    },
+    {
+      "name": "Keiko Nakaji",
+      "role": "Key Animation",
+      "order": 45
+    },
+    {
+      "name": "Motohiro Hatanaka",
+      "role": "Casting Coordinator",
+      "order": 46
+    },
+    {
+      "name": "Nobuko Shiraki",
+      "role": "Public Relations",
+      "order": 47
+    },
+    {
+      "name": "Minoru Ōhashi",
+      "role": "Key Animation",
+      "order": 48
+    },
+    {
+      "name": "Chris DeLaGuardia",
+      "role": "Color Timer",
+      "order": 49
+    },
+    {
+      "name": "Kenichi Yamaguchi",
+      "role": "Key Animation",
+      "order": 50
+    },
+    {
+      "name": "Kazutaka Ozaki",
+      "role": "Supervising Animator",
+      "order": 51
+    },
+    {
+      "name": "Katsufumi Sato",
+      "role": "Camera Operator",
+      "order": 52
+    },
+    {
+      "name": "Masahiro Koyama",
+      "role": "Key Animation",
+      "order": 53
+    },
+    {
+      "name": "Akihiko Okase",
+      "role": "Foley Artist",
+      "order": 54
+    },
+    {
+      "name": "Osamu Mikasa",
+      "role": "Color Designer",
+      "order": 55
+    },
+    {
+      "name": "Nobuyuki Takeuchi",
+      "role": "Key Animation",
+      "order": 56
+    },
+    {
+      "name": "Mutsumi Takemiya",
+      "role": "Assistant Editor",
+      "order": 57
+    },
+    {
+      "name": "Shigeo Akahori",
+      "role": "Key Animation",
+      "order": 58
+    },
+    {
+      "name": "Masahiro Kurio",
+      "role": "Key Animation",
+      "order": 59
+    },
+    {
+      "name": "Toshiharu Sugie",
+      "role": "Key Animation",
+      "order": 60
+    },
+    {
+      "name": "Ei Inoue",
+      "role": "Supervising Animator",
+      "order": 61
+    },
+    {
+      "name": "Masaya Kitada",
+      "role": "Foley Artist",
+      "order": 62
+    },
+    {
+      "name": "Toshiyuki Komaru",
+      "role": "Key Animation",
+      "order": 63
+    },
+    {
+      "name": "Ryosuke Kiyokawa",
+      "role": "Production Assistant",
+      "order": 64
+    },
+    {
+      "name": "Ayumi Sato",
+      "role": "Casting Coordinator",
+      "order": 65
+    },
+    {
+      "name": "Naomi Yasu",
+      "role": "Casting Coordinator",
+      "order": 66
+    },
+    {
+      "name": "Akio Ichimura",
+      "role": "Production Supervisor",
+      "order": 67
+    },
+    {
+      "name": "Eiko Fujitsu",
+      "role": "Production Supervisor",
+      "order": 68
+    },
+    {
+      "name": "Hisayo Itou",
+      "role": "Production Supervisor",
+      "order": 69
+    },
+    {
+      "name": "Tamami Yamamoto",
+      "role": "Production Supervisor",
+      "order": 70
+    },
+    {
+      "name": "Junichi Nishioka",
+      "role": "Public Relations",
+      "order": 71
+    },
+    {
+      "name": "Yumiko Ukai",
+      "role": "Public Relations",
+      "order": 72
+    },
+    {
+      "name": "Yukio Hokari",
+      "role": "Foley Artist",
+      "order": 73
+    },
+    {
+      "name": "Shinichiro Yamada",
+      "role": "Key Animation",
+      "order": 74
+    },
+    {
+      "name": "Akihiko Ono",
+      "role": "Sound Recordist",
+      "order": 75
+    },
+    {
+      "name": "Ayako Hata",
+      "role": "Key Animation",
+      "order": 76
+    },
+    {
+      "name": "Emiko Shimura",
+      "role": "Key Animation",
+      "order": 77
+    },
+    {
+      "name": "Kôjirô Tsuruoka",
+      "role": "Assistant Director",
+      "order": 78
+    },
+    {
+      "name": "Yoshinobu Michihata",
+      "role": "Key Animation",
+      "order": 79
+    },
+    {
+      "name": "Shinobu Môri",
+      "role": "Key Animation",
+      "order": 80
+    },
+    {
+      "name": "Atsushi Sekiguchi",
+      "role": "Key Animation",
+      "order": 81
+    },
+    {
+      "name": "Hisao Yokobori",
+      "role": "Key Animation",
+      "order": 82
+    },
+    {
+      "name": "Keiko Shimizu",
+      "role": "Key Animation",
+      "order": 83
+    },
+    {
+      "name": "Kentaro Takahashi",
+      "role": "Director of Photography",
+      "order": 84
+    },
+    {
+      "name": "Miwa Sasaki",
+      "role": "Key Animation",
+      "order": 85
+    },
+    {
+      "name": "Toshio Miyakawa",
+      "role": "Executive Producer",
+      "order": 86
+    },
+    {
+      "name": "Chiyoshi Tanaka",
+      "role": "Producer",
+      "order": 87
+    },
+    {
+      "name": "Kayoko Morozumi",
+      "role": "Foley Recordist",
+      "order": 88
+    },
+    {
+      "name": "Makoto Sumiya",
+      "role": "Sound Re-Recording Mixer",
+      "order": 89
+    },
+    {
+      "name": "Yuji Tan",
+      "role": "Foley Artist",
+      "order": 90
+    },
+    {
+      "name": "Toyohiko Sakaibara",
+      "role": "Special Effects",
+      "order": 91
+    },
+    {
+      "name": "Toshiyuki Fukushima",
+      "role": "Camera Operator",
+      "order": 92
+    },
+    {
+      "name": "Takeo Gotou",
+      "role": "Camera Operator",
+      "order": 93
+    },
+    {
+      "name": "Hironobu Horikoshi",
+      "role": "Camera Operator",
+      "order": 94
+    },
+    {
+      "name": "Masashi Toriyama",
+      "role": "Camera Operator",
+      "order": 95
+    },
+    {
+      "name": "Ken Baba",
+      "role": "Key Animation",
+      "order": 96
+    },
+    {
+      "name": "Shigeru Kimijima",
+      "role": "Key Animation",
+      "order": 97
+    },
+    {
+      "name": "Sawako Miyamato",
+      "role": "Key Animation",
+      "order": 98
+    },
+    {
+      "name": "Tadashi Okumura",
+      "role": "Key Animation",
+      "order": 99
+    },
+    {
+      "name": "Mineko Ueda",
+      "role": "Key Animation",
+      "order": 100
+    },
+    {
+      "name": "Kazumi Inaki",
+      "role": "Music Producer",
+      "order": 101
+    },
+    {
+      "name": "Takamune Negishi",
+      "role": "Music Arranger",
+      "order": 102
+    },
+    {
+      "name": "Takuo Yamamoto",
+      "role": "Music Arranger",
+      "order": 103
+    },
+    {
+      "name": "Shokichi Arai",
+      "role": "Public Relations",
+      "order": 104
+    },
+    {
+      "name": "Tomoki Horaguchi",
+      "role": "Production Supervisor",
+      "order": 105
+    },
+    {
+      "name": "Taishi Ishida",
+      "role": "Production Supervisor",
+      "order": 106
+    },
+    {
+      "name": "Atsushi Kamimura",
+      "role": "Production Assistant",
+      "order": 107
+    },
+    {
+      "name": "Shogo Komagata",
+      "role": "Production Supervisor",
+      "order": 108
+    },
+    {
+      "name": "Yuichiro Mochizuki",
+      "role": "Production Assistant",
+      "order": 109
+    },
+    {
+      "name": "Sueko Sawanuma",
+      "role": "Production Supervisor",
+      "order": 110
+    },
+    {
+      "name": "Mitsu Watanabe",
+      "role": "Production Supervisor",
+      "order": 111
+    },
+    {
+      "name": "Keiyo Yasuda",
+      "role": "Production Supervisor",
+      "order": 112
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "G"
+    }
+  ]
+}
