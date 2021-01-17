@@ -1,0 +1,629 @@
+{
+  "id": "447ceda9-d442-47c6-b666-d5c6735a387c",
+  "budget": 0,
+  "revenue": 34949567,
+  "releaseYear": "2014",
+  "runTime": 104,
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "思い出のマーニー"
+    },
+    {
+      "key": "en-us",
+      "value": "When Marnie Was There"
+    },
+    {
+      "key": "pt-br",
+      "value": "As Memórias de Marnie"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "心を閉ざした少女杏奈は、ぜんそくの療養を目的に親戚が生活している海沿いの村にやって来た。そんなある日、彼女の前に誰もいない屋敷の青い窓に閉じ込められた、きれいなブロンドの少女マーニーが姿を見せる。その出会い以来、杏奈の身の回りでは立て続けに奇妙な出来事が起きるようになるが、それは二人だけの秘密だった。"
+    },
+    {
+      "key": "en-us",
+      "value": "Upon being sent to live with relatives in the countryside due to an illness, an emotionally distant adolescent girl becomes obsessed with an abandoned mansion and infatuated with a girl who lives there - a girl who may or may not be real."
+    },
+    {
+      "key": "pt-br",
+      "value": "Anna é uma menina de 12 anos, filha de pais adotivos, sempre muito solitária e não exatamente feliz. Um belo dia, em um castelo numa ilha isolada, ela conhece Marnie. A menina loira de vestido branco se torna a grande e única amiga de Anna, mas ela descobrirá que Marnie não é exatamente quem parece ser."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Animação"
+        },
+        {
+          "key": "en-us",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Drama"
+        },
+        {
+          "key": "en-us",
+          "value": "Drama"
+        },
+        {
+          "key": "ja",
+          "value": "ドラマ"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Anna Sasaki",
+      "name": "Sara Takatsuki",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Marnie",
+      "name": "Kasumi Arimura",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Yoriko Sasaki",
+      "name": "Nanako Matsushima",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Kiyomasa Oiwa",
+      "name": "Susumu Terajima",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Setsu Oiwa",
+      "name": "Toshie Negishi",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Elderly Lady",
+      "name": "Ryôko Moriyama",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Nanny",
+      "name": "Kazuko Yoshiyuki",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "Hisako",
+      "name": "Hitomi Kuroki",
+      "role": "Voice",
+      "order": 7
+    },
+    {
+      "characterName": "Art Teacher",
+      "name": "Hiroyuki Morisaki",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "Neighborhood Association Officer",
+      "name": "Takuma Otoo",
+      "role": "Voice",
+      "order": 9
+    },
+    {
+      "characterName": "Sayaka",
+      "name": "Hana Sugisaki",
+      "role": "Voice",
+      "order": 10
+    },
+    {
+      "characterName": "Elderly Lady 2",
+      "name": "Bari Suzuki",
+      "role": "Voice",
+      "order": 11
+    },
+    {
+      "characterName": "Marnie's Father",
+      "name": "Shigeyuki Totsugi",
+      "role": "Voice",
+      "order": 12
+    },
+    {
+      "characterName": "Toichi",
+      "name": "Ken Yasuda",
+      "role": "Voice",
+      "order": 13
+    },
+    {
+      "characterName": "Dr. Yamashita",
+      "name": "Yo Oizumi",
+      "role": "Voice",
+      "order": 14
+    }
+  ],
+  "crew": [
+    {
+      "name": "Toshio Suzuki",
+      "role": "Executive Producer",
+      "order": 0
+    },
+    {
+      "name": "Atsushi Okui",
+      "role": "Director of Photography",
+      "order": 1
+    },
+    {
+      "name": "Yōji Takeshige",
+      "role": "Background Designer",
+      "order": 2
+    },
+    {
+      "name": "Makiko Futaki",
+      "role": "Key Animation",
+      "order": 3
+    },
+    {
+      "name": "Takeshi Imamura",
+      "role": "Animation Director",
+      "order": 4
+    },
+    {
+      "name": "Keiko Niwa",
+      "role": "Screenplay",
+      "order": 5
+    },
+    {
+      "name": "Yohei Taneda",
+      "role": "Production Design",
+      "order": 6
+    },
+    {
+      "name": "Yohei Taneda",
+      "role": "Art Direction",
+      "order": 7
+    },
+    {
+      "name": "Yohei Taneda",
+      "role": "Production Designer",
+      "order": 8
+    },
+    {
+      "name": "Hiroyuki Okiura",
+      "role": "Key Animation",
+      "order": 9
+    },
+    {
+      "name": "Noboru Yoshida",
+      "role": "Art Designer",
+      "order": 10
+    },
+    {
+      "name": "Masashi Ando",
+      "role": "Screenplay",
+      "order": 11
+    },
+    {
+      "name": "Masashi Ando",
+      "role": "Animation Director",
+      "order": 12
+    },
+    {
+      "name": "Masashi Ando",
+      "role": "Character Designer",
+      "order": 13
+    },
+    {
+      "name": "Koji Hoshino",
+      "role": "Producer",
+      "order": 14
+    },
+    {
+      "name": "Naoya Fujimaki",
+      "role": "Co-Producer",
+      "order": 15
+    },
+    {
+      "name": "Ryoichi Fukuyama",
+      "role": "Co-Producer",
+      "order": 16
+    },
+    {
+      "name": "Seiji Okuda",
+      "role": "Co-Producer",
+      "order": 17
+    },
+    {
+      "name": "Katsuya Kondo",
+      "role": "Key Animation",
+      "order": 18
+    },
+    {
+      "name": "Tatsuya Kushida",
+      "role": "Background Designer",
+      "order": 19
+    },
+    {
+      "name": "Shinsuke Nonaka",
+      "role": "Production Manager",
+      "order": 20
+    },
+    {
+      "name": "Koji Kasamatsu",
+      "role": "Sound Director",
+      "order": 21
+    },
+    {
+      "name": "Hiromasa Yonebayashi",
+      "role": "Screenplay",
+      "order": 22
+    },
+    {
+      "name": "Hiromasa Yonebayashi",
+      "role": "Director",
+      "order": 23
+    },
+    {
+      "name": "Kazuo Oga",
+      "role": "Background Designer",
+      "order": 24
+    },
+    {
+      "name": "Takatsugu Muramatsu",
+      "role": "Music",
+      "order": 25
+    },
+    {
+      "name": "Sayaka Hirahara",
+      "role": "Background Designer",
+      "order": 26
+    },
+    {
+      "name": "Shiho Sato",
+      "role": "Background Designer",
+      "order": 27
+    },
+    {
+      "name": "Akihiko Yamashita",
+      "role": "Animation Director",
+      "order": 28
+    },
+    {
+      "name": "Joan G. Robinson",
+      "role": "Novel",
+      "order": 29
+    },
+    {
+      "name": "Rie Matsuhara",
+      "role": "Editor",
+      "order": 30
+    },
+    {
+      "name": "Kōsuke Hayashi",
+      "role": "Background Designer",
+      "order": 31
+    },
+    {
+      "name": "Yoshiaki Nishimura",
+      "role": "Producer",
+      "order": 32
+    },
+    {
+      "name": "Shôgo Furuya",
+      "role": "Key Animation",
+      "order": 33
+    },
+    {
+      "name": "Hideki Hamazu",
+      "role": "Key Animation",
+      "order": 34
+    },
+    {
+      "name": "Shunsuke Hirota",
+      "role": "Key Animation",
+      "order": 35
+    },
+    {
+      "name": "Takeshi Honda",
+      "role": "Key Animation",
+      "order": 36
+    },
+    {
+      "name": "Megumi Kagawa",
+      "role": "Key Animation",
+      "order": 37
+    },
+    {
+      "name": "Kitarou Kousaka",
+      "role": "Key Animation",
+      "order": 38
+    },
+    {
+      "name": "Akiyo Okuda",
+      "role": "Key Animation",
+      "order": 39
+    },
+    {
+      "name": "Kazuyoshi Onoda",
+      "role": "Key Animation",
+      "order": 40
+    },
+    {
+      "name": "Shinji Otsuka",
+      "role": "Key Animation",
+      "order": 41
+    },
+    {
+      "name": "Michiyo Suzuki",
+      "role": "Key Animation",
+      "order": 42
+    },
+    {
+      "name": "Ken'ichi Yamada",
+      "role": "Key Animation",
+      "order": 43
+    },
+    {
+      "name": "Hirômi Yamakawa",
+      "role": "Key Animation",
+      "order": 44
+    },
+    {
+      "name": "Eiji Yamamori",
+      "role": "Key Animation",
+      "order": 45
+    },
+    {
+      "name": "Masafumi Yokota",
+      "role": "Key Animation",
+      "order": 46
+    },
+    {
+      "name": "Atsuko Tanaka",
+      "role": "Key Animation",
+      "order": 47
+    },
+    {
+      "name": "Tsutomu Awata",
+      "role": "Key Animation",
+      "order": 48
+    },
+    {
+      "name": "Ryōko Ina",
+      "role": "Background Designer",
+      "order": 49
+    },
+    {
+      "name": "Naomi Kasugai",
+      "role": "Background Designer",
+      "order": 50
+    },
+    {
+      "name": "Ken'ichi Konishi",
+      "role": "Key Animation",
+      "order": 51
+    },
+    {
+      "name": "Katsutoshi Nakamura",
+      "role": "Key Animation",
+      "order": 52
+    },
+    {
+      "name": "Atsuko Ôtani",
+      "role": "Key Animation",
+      "order": 53
+    },
+    {
+      "name": "Takaaki Yamashita",
+      "role": "Key Animation",
+      "order": 54
+    },
+    {
+      "name": "Youichi Watanabe",
+      "role": "Background Designer",
+      "order": 55
+    },
+    {
+      "name": "Eriko Kimura",
+      "role": "Sound Director",
+      "order": 56
+    },
+    {
+      "name": "Yohei Takamatsu",
+      "role": "Art Designer",
+      "order": 57
+    },
+    {
+      "name": "Ei Inoue",
+      "role": "Key Animation",
+      "order": 58
+    },
+    {
+      "name": "Kiyoshi Samejima",
+      "role": "Background Designer",
+      "order": 59
+    },
+    {
+      "name": "Moe Usami",
+      "role": "Key Animation",
+      "order": 60
+    },
+    {
+      "name": "Ayae Kanbe",
+      "role": "Background Designer",
+      "order": 61
+    },
+    {
+      "name": "Kikuyo Yano",
+      "role": "Background Designer",
+      "order": 62
+    },
+    {
+      "name": "Satoko Nakamura",
+      "role": "Background Designer",
+      "order": 63
+    },
+    {
+      "name": "Takashi Omori",
+      "role": "Art Designer",
+      "order": 64
+    },
+    {
+      "name": "Tomotaka Kubo",
+      "role": "Background Designer",
+      "order": 65
+    },
+    {
+      "name": "Yuka Nitta",
+      "role": "Background Designer",
+      "order": 66
+    },
+    {
+      "name": "Shinji Hashimoto",
+      "role": "Key Animation",
+      "order": 67
+    },
+    {
+      "name": "Takayuki Hamada",
+      "role": "Key Animation",
+      "order": 68
+    },
+    {
+      "name": "Seiko Yoshioka",
+      "role": "Background Designer",
+      "order": 69
+    },
+    {
+      "name": "Priscilla Ahn",
+      "role": "Songs",
+      "order": 70
+    },
+    {
+      "name": "Priscilla Ahn",
+      "role": "Theme Song Performance",
+      "order": 71
+    },
+    {
+      "name": "Kyohei Ito",
+      "role": "Production Manager",
+      "order": 72
+    },
+    {
+      "name": "Jun'ichi Taniguchi",
+      "role": "Background Designer",
+      "order": 73
+    },
+    {
+      "name": "Youichi Nishikawa",
+      "role": "Art Designer",
+      "order": 74
+    },
+    {
+      "name": "Ayako Hata",
+      "role": "Key Animation",
+      "order": 75
+    },
+    {
+      "name": "Akira Honma",
+      "role": "Key Animation",
+      "order": 76
+    },
+    {
+      "name": "Yumi ishii",
+      "role": "Background Designer",
+      "order": 77
+    },
+    {
+      "name": "Atsushi Tamura",
+      "role": "Key Animation",
+      "order": 78
+    },
+    {
+      "name": "Ryosuke Tsuchiya",
+      "role": "Key Animation",
+      "order": 79
+    },
+    {
+      "name": "Naoya Wada",
+      "role": "Key Animation",
+      "order": 80
+    },
+    {
+      "name": "Naoko Kawahara",
+      "role": "Key Animation",
+      "order": 81
+    },
+    {
+      "name": "Shinji Suetomi",
+      "role": "Key Animation",
+      "order": 82
+    },
+    {
+      "name": "Masami Hosokawa",
+      "role": "Producer",
+      "order": 83
+    },
+    {
+      "name": "Tamaki Kojo",
+      "role": "Line Producer",
+      "order": 84
+    },
+    {
+      "name": "Tomoko Nakayama",
+      "role": "Producer",
+      "order": 85
+    },
+    {
+      "name": "Ayumu Egawa",
+      "role": "Background Designer",
+      "order": 86
+    },
+    {
+      "name": "Misa Koyasu",
+      "role": "Key Animation",
+      "order": 87
+    },
+    {
+      "name": "Ryûji Hayashi",
+      "role": "Casting",
+      "order": 88
+    },
+    {
+      "name": "Takuro Okada",
+      "role": "Casting",
+      "order": 89
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "10"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG"
+    }
+  ]
+}
