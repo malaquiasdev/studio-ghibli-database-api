@@ -1,4 +1,4 @@
-function findTextByLanguage(content, language = 'en-us', propertie = 'titles') {
+function findTextByLanguage(content, language, propertie = 'titles') {
   const result = content[propertie].find((text) => {
     return text.key.toLowerCase() === language;
   });

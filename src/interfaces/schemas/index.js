@@ -3,8 +3,31 @@ const { gql } = require('apollo-server');
 
 const typeDefs = gql`
   type Query {
-    contents(language: String): [Contents]!
+    "Get full metadata from all contents (movie, tvshow, tvepisode, documentary, game)"
+    contents(language: AllowedLanguage, type: AllowedType): [Contents]!
   }
+
+  "A ISO 639-1 value to display translated data for the fields that support it. Default value is en-US"
+  enum AllowedLanguage {
+    "Japanese"
+    JA
+    "Portuguese (Brazil)"
+    PT_BR
+    "English (United States)"
+    EN_US
+  }
+
+  enum AllowedType {
+    "movie"
+    MOVIE
+    "tv show"
+    TV_SHOW
+    "documentary"
+    DOCUMENTARY
+    "game"
+    GAME
+  }
+
   type Contents {
     id: String!
     title: String!

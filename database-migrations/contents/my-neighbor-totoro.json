@@ -15,11 +15,11 @@
       "value": "となりのトトロ"
     },
     {
-      "key": "en-us",
+      "key": "en-US",
       "value": "My Neighbor Totoro"
     },
     {
-      "key": "pt-br",
+      "key": "pt-BR",
       "value": "Meu Amigo Totoro"
     }
   ],
@@ -29,11 +29,11 @@
       "value": "都会からそんなに遠くない田舎町に引っ越してきたサツキとメイ。お化けやしきみたいに古い家には、何かが棲んでいる気配がいっぱい。サツキたちの家の裏にある神社の大木をすみかにしているトトロ。人の住んでいない家をススやホコリだらけにしてしまうススワタリ（まっくろくろすけ）。大きな目と大きな口、そして何本もある足で空間を自由自在に走りまわる巨大なネコバス。サツキとメイは次々に奇妙ないきものと出会い、ステキな冒険に飛び出す。"
     },
     {
-      "key": "en-us",
+      "key": "en-US",
       "value": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her."
     },
     {
-      "key": "pt-br",
+      "key": "pt-BR",
       "value": "Mei é uma jovem que encontra uma pequena passagem em seu quintal, que a leva à um lendário espírito da floresta conhecido como Totoro. Sua mãe está no hospital e seu pai divide o tempo entre dar aulas na faculdade e cuidar de sua mulher doente. Quando Mei tenta visitar a mãe por conta própria, se perde na floresta e só o grande e fofo Totoro pode ajudar a menina a achar o caminho de volta para casa."
     }
   ],
@@ -42,11 +42,11 @@
       "id": 1,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Animação"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Animation"
         },
         {
@@ -59,11 +59,11 @@
       "id": 2,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Família"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Family"
         },
         {
@@ -76,11 +76,11 @@
       "id": 3,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Fantasia"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Fantasy"
         },
         {

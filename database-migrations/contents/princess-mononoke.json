@@ -15,11 +15,11 @@
       "value": "もののけ姫"
     },
     {
-      "key": "en-us",
+      "key": "en-US",
       "value": "Princess Mononoke"
     },
     {
-      "key": "pt-br",
+      "key": "pt-BR",
       "value": "Princesa Mononoke"
     }
   ],
@@ -29,11 +29,11 @@
       "value": "山里に住む若者アシタカは、怒りと憎しみにより“タタリ神”と化した猪神から呪いをかけられてしまう。呪いを解く術を求めて旅に出るアシタカはやがて、西方の地で“タタラ”の村にたどり着く。エボシ御前が率いるその村では、鉄を造り続けていたが、同時にそれは神々の住む森を破壊することでもあった。そして、そんなタタラ達に戦いを挑むサンの存在をアシタカは知る。人の子でありながら山犬に育てられた彼女は“もののけ姫”と呼ばれていた。"
     },
     {
-      "key": "en-us",
+      "key": "en-US",
       "value": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict."
     },
     {
-      "key": "pt-br",
+      "key": "pt-BR",
       "value": "Um príncipe infectado por uma doença sabe que irá morrer, a menos que encontre a cura. Sendo a sua última esperança, segue para o leste e, durante o caminho, encontra animais da floresta lutando contra a sua exploração, liderados pela princesa Mononoke."
     }
   ],
@@ -42,11 +42,11 @@
       "id": 1,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Animação"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Animation"
         },
         {
@@ -59,11 +59,11 @@
       "id": 5,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Aventura"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Adventure"
         },
         {
@@ -76,11 +76,11 @@
       "id": 3,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Fantasia"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Fantasy"
         },
         {

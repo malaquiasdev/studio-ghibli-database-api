@@ -15,11 +15,11 @@
       "value": "魔女の宅急便"
     },
     {
-      "key": "en-us",
+      "key": "en-US",
       "value": "Kiki's Delivery Service"
     },
     {
-      "key": "pt-br",
+      "key": "pt-BR",
       "value": "O Serviço de Entregas da Kiki"
     }
   ],
@@ -29,11 +29,11 @@
       "value": "13歳の魔女キキは、古い一族の掟に従い、黒猫ジジと修業の旅に出る。そして、海辺の大きな街で修行をすることに。箒で飛ぶ以外に能がないのキキは、空飛ぶ宅急便を始める。しかし、最初の仕事でいきなり荷物を無くしてしまう……。"
     },
     {
-      "key": "en-us",
+      "key": "en-US",
       "value": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service."
     },
     {
-      "key": "pt-br",
+      "key": "pt-BR",
       "value": "Kiki, uma bruxinha, está fazendo 13 anos e, segundo os costumes de seu povo, deve aprender a se virar sozinha. Assim, apenas com sua coragem e sua vassoura voadora, vai para a cidade grande e, para conseguir sobreviver, acaba ajudando em um serviço de entregas."
     }
   ],
@@ -42,11 +42,11 @@
       "id": 1,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Animação"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Animation"
         },
         {
@@ -59,11 +59,11 @@
       "id": 2,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Família"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Family"
         },
         {
@@ -76,11 +76,11 @@
       "id": 4,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Drama"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Drama"
         },
         {
@@ -93,11 +93,11 @@
       "id": 5,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Aventura"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Adventure"
         },
         {
@@ -110,11 +110,11 @@
       "id": 3,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Fantasia"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Fantasy"
         },
         {

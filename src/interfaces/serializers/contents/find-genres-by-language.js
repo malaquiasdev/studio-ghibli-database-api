@@ -1,4 +1,4 @@
-function findGenresByLanguage(content, language = 'en-us') {
+function findGenresByLanguage(content, language) {
   return content.genres.reduce((acc, genre) => {
     const response = genre.list
       .filter((object) => {

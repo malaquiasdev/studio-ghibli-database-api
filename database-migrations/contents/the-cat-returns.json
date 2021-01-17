@@ -15,11 +15,11 @@
       "value": "猫の恩返し"
     },
     {
-      "key": "en-us",
+      "key": "en-US",
       "value": "The Cat Returns"
     },
     {
-      "key": "pt-br",
+      "key": "pt-BR",
       "value": "O Reino dos Gatos"
     }
   ],
@@ -29,11 +29,11 @@
       "value": "女子高生のハルは、車にひかれそうになっていた猫の国の王子ルーンを助けたことから、その恩返しとして猫の国に招待される。気楽な猫の世界にすっかり魅了され、「このまま猫になるのもいいかも」と思ったハルは、ルーンの妃候補にされ、猫の姿に変化させられてしまう。このままでは人間の世界に戻れないとあわてたハルは、猫の男爵バロンの助けを借り、元の姿に戻るため奮闘する。"
     },
     {
-      "key": "en-us",
+      "key": "en-US",
       "value": "Haru, a schoolgirl bored by her ordinary routine, saves the life of an unusual cat and suddenly her world is transformed beyond anything she ever imagined. The Cat King rewards her good deed with a flurry of presents, including a very shocking proposal of marriage to his son! Haru embarks on an unexpected journey to the Kingdom of Cats where her eyes are opened to a whole other world."
     },
     {
-      "key": "pt-br",
+      "key": "pt-BR",
       "value": "Essa é a história de Haru, uma garota muito preguiçosa e que todos os dias chega atrasada na escola. Um belo dia, voltando para casa, salva um misterioso gato de ser atropelado. Na mesma noite a menina recebe a visita do Rei dos Gatos, que a convida para conhecer seu reino, um lugar mágico, diferente de tudo, onde os bichos falam e se comportam como gente."
     }
   ],
@@ -42,11 +42,11 @@
       "id": 1,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Animação"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Animation"
         },
         {
@@ -59,11 +59,11 @@
       "id": 5,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Aventura"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Adventure"
         },
         {
@@ -76,11 +76,11 @@
       "id": 3,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Fantasia"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Fantasy"
         },
         {
@@ -93,11 +93,11 @@
       "id": 4,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Drama"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Drama"
         },
         {
@@ -110,11 +110,11 @@
       "id": 2,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Família"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Family"
         },
         {

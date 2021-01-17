@@ -15,11 +15,11 @@
       "value": "耳をすませば"
     },
     {
-      "key": "en-us",
+      "key": "en-US",
       "value": "Whisper of the Heart"
     },
     {
-      "key": "pt-br",
+      "key": "pt-BR",
       "value": "Sussuros do Coração"
     }
   ],
@@ -29,11 +29,11 @@
       "value": "本が大好きな中学生の少女・雫。彼女はある時、図書カードに何度も連ねられた男子の名を見つける。その男子・天沢聖司の名に、淡い恋心を抱く雫。だが実際の天沢は、ぶしつけで粗野なヤツだった・・・。"
     },
     {
-      "key": "en-us",
+      "key": "en-US",
       "value": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: 'Seiji Amasawa'."
     },
     {
-      "key": "pt-br",
+      "key": "pt-BR",
       "value": "A personagem principal é Shizuku, uma estudante que sonha ser uma escritora e decide, durante o verão, ler vinte livros. Mas curiosamente todas as edições que Shizuki pegou na biblioteca já haviam sido lidas por um tal de Seiji Amasawa. Há encontros e desencontros típicos da vida de uma adolescente e a descoberta de um grande amor."
     }
   ],
@@ -42,11 +42,11 @@
       "id": 1,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Animação"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Animation"
         },
         {
@@ -59,11 +59,11 @@
       "id": 2,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Família"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Family"
         },
         {
@@ -76,11 +76,11 @@
       "id": 4,
       "list": [
         {
-          "key": "pt-br",
+          "key": "pt-BR",
           "value": "Drama"
         },
         {
-          "key": "en-us",
+          "key": "en-US",
           "value": "Drama"
         },
         {

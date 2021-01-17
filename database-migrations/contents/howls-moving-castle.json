@@ -15,21 +15,21 @@
             "value": "ハウルの動く城"
         },
         {
-            "key": "en-us",
+            "key": "en-US",
             "value": "Howl's Moving Castle"
         },
         {
-            "key": "pt-br",
+            "key": "pt-BR",
             "value": "O Castelo Animado"
         }
     ],
     "descriptions": [
         {
-            "key": "en-us",
+            "key": "en-US",
             "value": "When Sophie, a shy young woman, is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle."
         },
         {
-            "key": "pt-br",
+            "key": "pt-BR",
             "value": "Sofia é uma jovem de 18 anos que trabalha na chapelaria de seu pai. Em uma de suas raras idas à cidade, ela conhece Hauru, um mágico bastante sedutor, mas de caráter duvidoso. Ao confundir a relação existente entre eles, uma feiticeira lança sobre Sofia uma maldição que faz com que ela tenha 90 anos. Desesperada, Sofia foge e termina por encontrar o Castelo Animado de Hauru. Escondendo sua identidade, ela consegue ser contratada para realizar serviços domésticos no local, se envolvendo com os demais moradores do castelo."
         }
     ],
@@ -38,11 +38,11 @@
             "id": 3,
             "list": [
                 {
-                    "key": "pt-br",
+                    "key": "pt-BR",
                     "value": "Fantasia"
                 },
                 {
-                    "key": "en-us",
+                    "key": "en-US",
                     "value": "Fantasy"
                 },
                 {
@@ -55,11 +55,11 @@
             "id": 1,
             "list": [
                 {
-                    "key": "pt-br",
+                    "key": "pt-BR",
                     "value": "Animação"
                 },
                 {
-                    "key": "en-us",
+                    "key": "en-US",
                     "value": "Animation"
                 },
                 {
@@ -72,11 +72,11 @@
             "id": 5,
             "list": [
                 {
-                    "key": "pt-br",
+                    "key": "pt-BR",
                     "value": "Aventura"
                 },
                 {
-                    "key": "en-us",
+                    "key": "en-US",
                     "value": "Adventure"
                 },
                 {
