@@ -1,0 +1,544 @@
+{
+  "id": "aaf994e4-735b-4ab9-b982-79cf4197ee7e",
+  "budget": 26500000,
+  "revenue": 159414369,
+  "releaseYear": "1997",
+  "runTime": 134,
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "もののけ姫"
+    },
+    {
+      "key": "en-us",
+      "value": "Princess Mononoke"
+    },
+    {
+      "key": "pt-br",
+      "value": "Princesa Mononoke"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "山里に住む若者アシタカは、怒りと憎しみにより“タタリ神”と化した猪神から呪いをかけられてしまう。呪いを解く術を求めて旅に出るアシタカはやがて、西方の地で“タタラ”の村にたどり着く。エボシ御前が率いるその村では、鉄を造り続けていたが、同時にそれは神々の住む森を破壊することでもあった。そして、そんなタタラ達に戦いを挑むサンの存在をアシタカは知る。人の子でありながら山犬に育てられた彼女は“もののけ姫”と呼ばれていた。"
+    },
+    {
+      "key": "en-us",
+      "value": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict."
+    },
+    {
+      "key": "pt-br",
+      "value": "Um príncipe infectado por uma doença sabe que irá morrer, a menos que encontre a cura. Sendo a sua última esperança, segue para o leste e, durante o caminho, encontra animais da floresta lutando contra a sua exploração, liderados pela princesa Mononoke."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Animação"
+        },
+        {
+          "key": "en-us",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Aventura"
+        },
+        {
+          "key": "en-us",
+          "value": "Adventure"
+        },
+        {
+          "key": "ja",
+          "value": "アドベンチャー"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Fantasia"
+        },
+        {
+          "key": "en-us",
+          "value": "Fantasy"
+        },
+        {
+          "key": "ja",
+          "value": "ファンタジー"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Ashitaka",
+      "name": "Yōji Matsuda",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "San",
+      "name": "Yuriko Ishida",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Eboshi-gozen",
+      "name": "Yūko Tanaka",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Jiko-bô",
+      "name": "Kaoru Kobayashi",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Kouroku",
+      "name": "Masahiko Nishimura",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Gonza",
+      "name": "Tsunehiko Kamijô",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Toki",
+      "name": "Sumi Shimamoto",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "Yama-inu",
+      "name": "Tetsu Watanabe",
+      "role": "Voice",
+      "order": 7
+    },
+    {
+      "characterName": "Tatari-gami",
+      "name": "Mitsuru Satô",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "Usi-kai",
+      "name": "Akira Nagoya",
+      "role": "Voice",
+      "order": 9
+    },
+    {
+      "characterName": "Moro-no-kimi",
+      "name": "Akihiro Miwa",
+      "role": "Voice",
+      "order": 10
+    },
+    {
+      "characterName": "Hii-sama",
+      "name": "Mitsuko Mori",
+      "role": "Voice",
+      "order": 11
+    },
+    {
+      "characterName": "Okkoto-nusi",
+      "name": "Hisaya Morishige",
+      "role": "Voice",
+      "order": 12
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Screenplay",
+      "order": 0
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Director",
+      "order": 1
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Editor",
+      "order": 2
+    },
+    {
+      "name": "Joe Hisaishi",
+      "role": "Original Music Composer",
+      "order": 3
+    },
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 4
+    },
+    {
+      "name": "Atsushi Okui",
+      "role": "Director of Photography",
+      "order": 5
+    },
+    {
+      "name": "Atsushi Okui",
+      "role": "Camera Supervisor",
+      "order": 6
+    },
+    {
+      "name": "Takeshi Seyama",
+      "role": "Editor",
+      "order": 7
+    },
+    {
+      "name": "Yasuyoshi Tokuma",
+      "role": "Executive Producer",
+      "order": 8
+    },
+    {
+      "name": "Yōji Takeshige",
+      "role": "Art Direction",
+      "order": 9
+    },
+    {
+      "name": "Makiko Futaki",
+      "role": "Animation",
+      "order": 10
+    },
+    {
+      "name": "Takeshi Imamura",
+      "role": "Animation",
+      "order": 11
+    },
+    {
+      "name": "Noboru Yoshida",
+      "role": "Background Designer",
+      "order": 12
+    },
+    {
+      "name": "Masashi Ando",
+      "role": "Animation Supervisor",
+      "order": 13
+    },
+    {
+      "name": "Seiji Okuda",
+      "role": "Executive Producer",
+      "order": 14
+    },
+    {
+      "name": "Katsuya Kondo",
+      "role": "Animation",
+      "order": 15
+    },
+    {
+      "name": "Seiichiro Ujiie",
+      "role": "Executive Producer",
+      "order": 16
+    },
+    {
+      "name": "Naoya Tanaka",
+      "role": "Art Direction",
+      "order": 17
+    },
+    {
+      "name": "Seiki Tamura",
+      "role": "Animation",
+      "order": 18
+    },
+    {
+      "name": "Kazuo Oga",
+      "role": "Art Direction",
+      "order": 19
+    },
+    {
+      "name": "Yoshifumi Kondou",
+      "role": "Animation Supervisor",
+      "order": 20
+    },
+    {
+      "name": "Junichi Taniguchi",
+      "role": "Animation",
+      "order": 21
+    },
+    {
+      "name": "Sayaka Hirahara",
+      "role": "Background Designer",
+      "order": 22
+    },
+    {
+      "name": "Satoshi Kuroda",
+      "role": "Art Direction",
+      "order": 23
+    },
+    {
+      "name": "Nizou Yamamoto",
+      "role": "Art Direction",
+      "order": 24
+    },
+    {
+      "name": "Yoshinori Kanada",
+      "role": "Animation",
+      "order": 25
+    },
+    {
+      "name": "Yutaka Narita",
+      "role": "Executive Producer",
+      "order": 26
+    },
+    {
+      "name": "Todd Olsson",
+      "role": "Thanks",
+      "order": 27
+    },
+    {
+      "name": "Ikuo Kuwana",
+      "role": "Key Animation",
+      "order": 28
+    },
+    {
+      "name": "Masaru Matsuse",
+      "role": "Animation",
+      "order": 29
+    },
+    {
+      "name": "Michihiro Itou",
+      "role": "Sound Effects Editor",
+      "order": 30
+    },
+    {
+      "name": "Masaaki Endou",
+      "role": "Animation",
+      "order": 31
+    },
+    {
+      "name": "Megumi Kagawa",
+      "role": "Animation",
+      "order": 32
+    },
+    {
+      "name": "Kitarou Kousaka",
+      "role": "Animation Supervisor",
+      "order": 33
+    },
+    {
+      "name": "Hiroko Minowa",
+      "role": "Animation",
+      "order": 34
+    },
+    {
+      "name": "Kazuyoshi Onoda",
+      "role": "Animation Manager",
+      "order": 35
+    },
+    {
+      "name": "Shinji Otsuka",
+      "role": "Animation",
+      "order": 36
+    },
+    {
+      "name": "Sachiko Sugino",
+      "role": "Animation",
+      "order": 37
+    },
+    {
+      "name": "Ken'ichi Yamada",
+      "role": "Animation",
+      "order": 38
+    },
+    {
+      "name": "Eiji Yamamori",
+      "role": "Animation",
+      "order": 39
+    },
+    {
+      "name": "Hideaki Yoshio",
+      "role": "Animation",
+      "order": 40
+    },
+    {
+      "name": "Atsuko Tanaka",
+      "role": "Animation",
+      "order": 41
+    },
+    {
+      "name": "Sadayuki Arai",
+      "role": "Background Designer",
+      "order": 42
+    },
+    {
+      "name": "Tsutomu Awata",
+      "role": "Animation",
+      "order": 43
+    },
+    {
+      "name": "Ryōko Ina",
+      "role": "Background Designer",
+      "order": 44
+    },
+    {
+      "name": "Naomi Kasugai",
+      "role": "Background Designer",
+      "order": 45
+    },
+    {
+      "name": "Toshio Kawaguchi",
+      "role": "Animation",
+      "order": 46
+    },
+    {
+      "name": "Ken'ichi Konishi",
+      "role": "Animation",
+      "order": 47
+    },
+    {
+      "name": "Mariko Matsuo",
+      "role": "Animation",
+      "order": 48
+    },
+    {
+      "name": "Michio Mihara",
+      "role": "Animation",
+      "order": 49
+    },
+    {
+      "name": "Noriko Moritomo",
+      "role": "Animation",
+      "order": 50
+    },
+    {
+      "name": "Kyôko Naganawa",
+      "role": "Background Designer",
+      "order": 51
+    },
+    {
+      "name": "Rie Nakagome",
+      "role": "Animation Manager",
+      "order": 52
+    },
+    {
+      "name": "Katsutoshi Nakamura",
+      "role": "Animation Manager",
+      "order": 53
+    },
+    {
+      "name": "Takehiro Noda",
+      "role": "Animation",
+      "order": 54
+    },
+    {
+      "name": "Masako Osada",
+      "role": "Background Designer",
+      "order": 55
+    },
+    {
+      "name": "Hisae Saitô",
+      "role": "Background Designer",
+      "order": 56
+    },
+    {
+      "name": "Masaya Saitō",
+      "role": "Animation Manager",
+      "order": 57
+    },
+    {
+      "name": "Hiroaki Sasaki",
+      "role": "Background Designer",
+      "order": 58
+    },
+    {
+      "name": "Shinsaku Sasaki",
+      "role": "Animation",
+      "order": 59
+    },
+    {
+      "name": "Hiroshi Shimizu",
+      "role": "Animation",
+      "order": 60
+    },
+    {
+      "name": "Masako Shinohara",
+      "role": "Animation",
+      "order": 61
+    },
+    {
+      "name": "Hitomi Tateno",
+      "role": "Animation",
+      "order": 62
+    },
+    {
+      "name": "Keiko Tomizawa",
+      "role": "Animation",
+      "order": 63
+    },
+    {
+      "name": "Michiyo Yasuda",
+      "role": "Color Designer",
+      "order": 64
+    },
+    {
+      "name": "Kenichi Yoshida",
+      "role": "Animation",
+      "order": 65
+    },
+    {
+      "name": "Kiyomi Ôta",
+      "role": "Background Designer",
+      "order": 66
+    },
+    {
+      "name": "Atsuko Ôtani",
+      "role": "Animation",
+      "order": 67
+    },
+    {
+      "name": "Nobutaka Hirooka",
+      "role": "Sound Recordist",
+      "order": 68
+    },
+    {
+      "name": "Tsutomu Asakura",
+      "role": "Sound Assistant",
+      "order": 69
+    },
+    {
+      "name": "Masahiro Fukuhara",
+      "role": "Sound Assistant",
+      "order": 70
+    },
+    {
+      "name": "Kazuhiko Ikai",
+      "role": "Sound Effects",
+      "order": 71
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "14"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG-13"
+    }
+  ]
+}
