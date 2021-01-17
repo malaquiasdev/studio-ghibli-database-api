@@ -1,0 +1,405 @@
+{
+  "id": "3ae4d6d0-fd7f-43c5-b15a-667d09d50354",
+  "budget": 0,
+  "revenue": 0,
+  "releaseYear": "1992",
+  "runTime": 94,
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "紅の豚"
+    },
+    {
+      "key": "en-us",
+      "value": "Porco Rosso"
+    },
+    {
+      "key": "pt-br",
+      "value": "Porco Rosso: O Último Herói Romântico"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "飛行艇を操る空賊が横行していた、第一次大戦後のイタリアはアドリア海。賞金稼ぎの飛行艇乗りであるポルコ・ロッソは、空賊たちには天敵の存在。自分の顔を魔法で豚に変えてしまったポルコを何とかやっつけたいと一計を案じた空賊たちは、アメリカからスゴ腕の飛行艇乗りを呼び寄せ、彼に一騎打ちを迫る。"
+    },
+    {
+      "key": "en-us",
+      "value": "In Italy in the 1930s, sky pirates in biplanes terrorize wealthy cruise ships as they sail the Adriatic Sea. The only pilot brave enough to stop the scourge is the mysterious Porco Rosso, a former World War I flying ace who was somehow turned into a pig during the war. As he prepares to battle the pirate crew's American ace, Porco Rosso enlists the help of spunky girl mechanic Fio Piccolo and his longtime friend Madame Gina."
+    },
+    {
+      "key": "pt-br",
+      "value": "Na Itália, durante o período entre as duas guerras, com um fundo de recessão económica e de ascensão do fascismo, perdido numa ilha deserta no mar Adriático, um ex-piloto emérito da Força Aérea Italiana, se vê transformado em um porco e converte-se em caçador de recompensas. Ele se chama \"Porco Rosso\". A bordo de seu hidroavião vermelho, ele tem muitas aventuras: de caça aos piratas do ar que fizeram um hábito de roubar os turistas que visitam a região, o resgate de passageiros tomados como reféns, duelos aéreos, \"corridas\" de hidroavião, subterfúgios para semear a polícia secreta italiana ... a vida do piloto é agitada e cheia de aventuras."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Animação"
+        },
+        {
+          "key": "en-us",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Aventura"
+        },
+        {
+          "key": "en-us",
+          "value": "Adventure"
+        },
+        {
+          "key": "ja",
+          "value": "アドベンチャー"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Comédia"
+        },
+        {
+          "key": "en-us",
+          "value": "Comedy"
+        },
+        {
+          "key": "ja",
+          "value": "コメディ"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Kurenai no Buta",
+      "name": "Shûichirô Moriyama",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Jina-sama",
+      "name": "Tokiko Katô",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Pikkoro-oyaji",
+      "name": "Sanshi Katsura",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Manmayuto no shachô",
+      "name": "Tsunehiko Kamijô",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Fio Pikkoro",
+      "name": "Akemi Okamura",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Donarudo Kâchisu",
+      "name": "Akio Otsuka",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Bâ-chan",
+      "name": "Hiroko Seki",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "Mamma Aiuto Gang",
+      "name": "Reizō Nomoto",
+      "role": "Voice",
+      "order": 7
+    },
+    {
+      "characterName": "Mamma Aiuto Gang",
+      "name": "Osamu Saka",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "Mamma Aiuto Gang",
+      "name": "Yu Shimaka",
+      "role": "Voice",
+      "order": 9
+    },
+    {
+      "characterName": "",
+      "name": "Mahito Tsujimura",
+      "role": "Voice",
+      "order": 10
+    },
+    {
+      "characterName": "",
+      "name": "Minoru Yada",
+      "role": "Voice",
+      "order": 11
+    },
+    {
+      "characterName": "",
+      "name": "Yoko Soumi",
+      "role": "Voice",
+      "order": 12
+    },
+    {
+      "characterName": "Mamma Aiuto Gang (English version, voice)",
+      "name": "Kevin Michael Richardson",
+      "role": "Voice",
+      "order": 13
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Screenplay",
+      "order": 0
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Director",
+      "order": 1
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Editor",
+      "order": 2
+    },
+    {
+      "name": "Rick Dempsey",
+      "role": "Producer",
+      "order": 3
+    },
+    {
+      "name": "Mark Henley",
+      "role": "Director of Photography",
+      "order": 4
+    },
+    {
+      "name": "Ned Lott",
+      "role": "Producer",
+      "order": 5
+    },
+    {
+      "name": "Joe Hisaishi",
+      "role": "Original Music Composer",
+      "order": 6
+    },
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 7
+    },
+    {
+      "name": "Atsushi Okui",
+      "role": "Director of Photography",
+      "order": 8
+    },
+    {
+      "name": "Takeshi Seyama",
+      "role": "Editor",
+      "order": 9
+    },
+    {
+      "name": "Yasuyoshi Tokuma",
+      "role": "Executive Producer",
+      "order": 10
+    },
+    {
+      "name": "Yōji Takeshige",
+      "role": "Background Designer",
+      "order": 11
+    },
+    {
+      "name": "Masashi Ando",
+      "role": "Animation",
+      "order": 12
+    },
+    {
+      "name": "Yoshio Sasaki",
+      "role": "Executive Producer",
+      "order": 13
+    },
+    {
+      "name": "Sokai Tokuma",
+      "role": "Executive Producer",
+      "order": 14
+    },
+    {
+      "name": "Matsuo Toshimitsu",
+      "role": "Executive Producer",
+      "order": 15
+    },
+    {
+      "name": "Nozomu Takahashi",
+      "role": "Production Manager",
+      "order": 16
+    },
+    {
+      "name": "Naoya Tanaka",
+      "role": "Background Designer",
+      "order": 17
+    },
+    {
+      "name": "Kazuo Oga",
+      "role": "Background Designer",
+      "order": 18
+    },
+    {
+      "name": "Kaoru Tanifuji",
+      "role": "Special Effects",
+      "order": 19
+    },
+    {
+      "name": "Yoshifumi Kondou",
+      "role": "Key Animation",
+      "order": 20
+    },
+    {
+      "name": "Satoshi Kuroda",
+      "role": "Background Designer",
+      "order": 21
+    },
+    {
+      "name": "Katsu Hisamura",
+      "role": "Production Design",
+      "order": 22
+    },
+    {
+      "name": "Yoshiyuki Momose",
+      "role": "Key Animation",
+      "order": 23
+    },
+    {
+      "name": "Tomoko Okada",
+      "role": "Music Producer",
+      "order": 24
+    },
+    {
+      "name": "Shinya Ohira",
+      "role": "Animation",
+      "order": 25
+    },
+    {
+      "name": "Kyôko Naganawa",
+      "role": "Background Designer",
+      "order": 26
+    },
+    {
+      "name": "Michiyo Yasuda",
+      "role": "Color Designer",
+      "order": 27
+    },
+    {
+      "name": "Kiyomi Ôta",
+      "role": "Background Designer",
+      "order": 28
+    },
+    {
+      "name": "Shin'ichi Matsumi",
+      "role": "Second Unit Director",
+      "order": 29
+    },
+    {
+      "name": "Hiroshi Adachi",
+      "role": "Assistant Editor",
+      "order": 30
+    },
+    {
+      "name": "Yoshihiro Oikawa",
+      "role": "Music Producer",
+      "order": 31
+    },
+    {
+      "name": "Setsuko Tamai",
+      "role": "Special Effects",
+      "order": 32
+    },
+    {
+      "name": "Tomoji Hashizume",
+      "role": "Special Effects",
+      "order": 33
+    },
+    {
+      "name": "Akira Yamakawa",
+      "role": "Background Designer",
+      "order": 34
+    },
+    {
+      "name": "Naomi Sakimoto",
+      "role": "Background Designer",
+      "order": 35
+    },
+    {
+      "name": "Hajime Takagi",
+      "role": "Sound Mix Technician",
+      "order": 36
+    },
+    {
+      "name": "Makoto Sumiya",
+      "role": "Sound Mixer",
+      "order": 37
+    },
+    {
+      "name": "Naoko Asari",
+      "role": "Recording Supervision",
+      "order": 38
+    },
+    {
+      "name": "Kazutoshi Sato",
+      "role": "Sound Effects Editor",
+      "order": 39
+    },
+    {
+      "name": "Hironori Ono",
+      "role": "Sound Effects",
+      "order": 40
+    },
+    {
+      "name": "Hiroshi Kawanishi",
+      "role": "Second Unit Director",
+      "order": 41
+    },
+    {
+      "name": "Masahito Yamamoto",
+      "role": "Second Unit Director",
+      "order": 42
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG"
+    }
+  ]
+}

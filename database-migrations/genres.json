@@ -84,6 +84,23 @@
           "value": "アドベンチャー"
         }
       ]
+    },
+    {
+      "id": 6,
+      "list": [
+        {
+          "key": "pt-br",
+          "value": "Comédia"
+        },
+        {
+          "key": "en-us",
+          "value": "Comedy"
+        },
+        {
+          "key": "ja",
+          "value": "コメディ"
+        }
+      ]
     }
   ]
 }
