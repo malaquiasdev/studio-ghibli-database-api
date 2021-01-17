@@ -1,4 +1,4 @@
-# STUDIO GHIBLI SERVICE
+# GHIBLIDB
 
 [![Build Status](https://travis-ci.com/malaquiasdev/studio-ghibli-service.svg?branch=master)](https://travis-ci.com/malaquiasdev/studio-ghibli-service)
 [![Coverage Status](https://coveralls.io/repos/github/malaquiasdev/studio-ghibli-service/badge.svg?branch=master)](https://coveralls.io/github/malaquiasdev/studio-ghibli-service?branch=master)
@@ -7,9 +7,22 @@
   <img width="832" height="auto" src=".github/logo.png"/>
 </p>
 
-A simple API for Studio Ghibli movies. This is an unofficial api.
+**GhibliDB** is a GraphQL-compliant API that expoose a huge metadata catalog of  movies, tvshow, tvepisode, documentary and people from Studio Ghibli Company. You can try it and make any free for non-commercial project.
 
-Based on simple REST principles, the endpoints return JSON metadata about the movies with the critical rating from IMDB, rottentomatoes and metacritic.
+This is an unofficial api. We are made by fan for fan.
+
+To know more about us please go to our [Wiki page](https://github.com/malaquiasdev/studio-ghibli-database-graphql/wiki/01.Introduction
+).
+
+## API Terms of Use
+
+1. Free for non-commercial use.
+2. You can make use of the API to as data service.
+3. ‘Hoarding’ or mass collection of data from this API is strictly prohibited.
+
+## API Legal Notice
+
+We do not claim ownership of any of the images or data in the API. We comply with the Digital Millennium Copyright Act (DMCA) and expeditiously remove infringing content when properly notified. Any data and/or images you upload you expressly grant us a license to use. You are prohibited from using the images and/or data in connection with libelous, defamatory, obscene, pornographic, abusive or otherwise offensive content.
 
 ## Prerequisites
 
@@ -27,7 +40,6 @@ Before you begin, ensure you have met the following requirements:
 - AWS CloudFormation
 - AWS CloudFront
 - AWS API Gateway
-- AWS Lambda (With [fastify Plugin](https://www.fastify.io/docs/latest/Serverless/#aws-lambda))
 - AWS DynamoDB
 
 **I strongly recommend you to use docker as an option to run this project.**
@@ -77,4 +89,4 @@ If you want to contact me you can reach me at <mateusmalaquiasdev@outlook.com>.
 
 ## License
 
-This project uses the following license: [MIT](https://github.com/malaquiasdev/studio-ghibli-service/blob/master/LICENSE).
+This project uses the following license: [MIT](https://github.com/malaquiasdev/studio-ghibli-database-graphql/blob/master/LICENSE).
