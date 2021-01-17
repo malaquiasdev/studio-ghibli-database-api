@@ -3,6 +3,25 @@ frameworkVersion: '2'
 
 plugins:
   - serverless-offline
+  - serverless-dotenv-plugin
+
+package:
+  individually: true
+  include:
+    - src/
+    - node_modules
+  exclude:
+    - .editorconfig
+    - .eslintignore
+    - .eslintrc.js
+    - .gitignore
+    - prettier.config.js
+    - jest.config.js
+    - README.md
+    - LICENSE
+    - src/**/__tests__/**
+    - database-migrations/**
+
 
 provider:
   name: aws
@@ -18,7 +37,6 @@ provider:
         - cloudwatch:*
         - dynamodb:*
       Resource: "arn:aws:dynamodb:us-east-1:*:*"
-
 
 functions:
   graphql:
