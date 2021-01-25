@@ -5,6 +5,7 @@
   "releaseYear": "1997",
   "runTime": 134,
   "type": "movie",
+  "languageKeys": ["ja", "en-US", "pt-BR"],
   "originalLanguage": {
     "iso6391": "ja",
     "name": "Japanese"

@@ -4,20 +4,18 @@ const contentsSchema = {
     type: String,
     required: true,
   },
-  titles: {
-    type: Array,
+  contentId: {
+    type: String,
     required: true,
-    schema: [
-      {
-        type: Object,
-        schema: {
-          key: String,
-          value: String,
-        },
-      },
-    ],
   },
-  homepage: {
+  type: {
+    type: String,
+    required: true,
+  },
+  title: {
+    type: String,
+  },
+  description: {
     type: String,
   },
   budget: {
@@ -32,6 +30,10 @@ const contentsSchema = {
   runTime: {
     type: Number,
   },
+  language: {
+    type: String,
+    required: true,
+  },
   originalLanguage: {
     type: Object,
     schema: {
@@ -39,56 +41,11 @@ const contentsSchema = {
       name: String,
     },
   },
-  descriptions: {
-    type: Array,
-    required: true,
-    schema: [
-      {
-        type: Object,
-        schema: {
-          key: String,
-          value: String,
-        },
-      },
-    ],
-  },
   genres: {
     type: Array,
     schema: [
       {
-        type: Object,
-        schema: {
-          id: Number,
-          list: {
-            type: Array,
-            schema: [
-              {
-                type: Object,
-                schema: {
-                  key: String,
-                  value: String,
-                },
-              },
-            ],
-          },
-        },
-      },
-    ],
-  },
-  images: {
-    type: Array,
-    schema: [
-      {
-        type: Object,
-        schema: {
-          category: String,
-          height: Number,
-          width: Number,
-          orientation: String,
-          ratio: String,
-          text: Boolean,
-          url: String,
-        },
+        type: String,
       },
     ],
   },
@@ -99,8 +56,6 @@ const contentsSchema = {
         type: Object,
         schema: {
           characterName: String,
-          id: String,
-          value: String,
           name: String,
           order: Number,
           role: String,
@@ -114,8 +69,6 @@ const contentsSchema = {
       {
         type: Object,
         schema: {
-          id: String,
-          value: String,
           name: String,
           order: Number,
           role: String,

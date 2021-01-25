@@ -1,6 +1,7 @@
 {
   "budget": 41677699,
   "type": "movie",
+  "languageKeys": ["ja", "en-US", "pt-BR"],
   "cast": [
     {
       "characterName": "Ponyo",

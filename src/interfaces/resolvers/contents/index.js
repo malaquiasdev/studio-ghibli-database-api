@@ -15,8 +15,8 @@ async function getAllContentsResolver(
 module.exports = {
   AllowedLanguage: {
     JA: 'ja',
-    PT_BR: 'pt-br',
-    EN_US: 'en-us',
+    PT_BR: 'pt-BR',
+    EN_US: 'en-US',
   },
   AllowedType: {
     MOVIE: 'movie',
