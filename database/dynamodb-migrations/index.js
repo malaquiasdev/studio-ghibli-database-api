@@ -1,3 +1,5 @@
+/* eslint-disable no-restricted-syntax */
+/* eslint-disable no-await-in-loop */
 require('dotenv').config();
 const logger = require('pino')();
 const ContentsModel = require('../../src/models/contents');
@@ -10,9 +12,10 @@ async function executeContentsMigrations() {
     logger.info(`Start - the executeContentsMigrations function`);
     const rawContents = await loadContents();
     const contents = separateContentByLanguage(rawContents);
-    const promises = contents.map((content) => ContentsModel.create(content));
     await deleteOldestData(ContentsModel);
-    await Promise.all(promises);
+    for (const content of contents) {
+      await ContentsModel.create(content);
+    }
     logger.info(`End - the executeContentsMigrations function`);
   } catch (error) {
     logger.error(`Got an error trying to save contents: ${error.message}`);
