@@ -1,15 +1,16 @@
-const getAllContents = require('../../../use-cases/get-all-contents');
-const serializerContentsData = require('../../serializers/contents');
+const findAllContents = require('../../../use-cases/find-all-contents');
 
-async function getAllContentsResolver(
+async function findAllContentsResolver(
   _,
-  { language = 'en-us' },
+  { language = 'en-US' },
   { dataSources },
 ) {
-  const contentsData = await getAllContents({
-    ContentsModel: dataSources.ContentsModel,
-  });
-  return serializerContentsData(contentsData, language);
+  return findAllContents(
+    { language },
+    {
+      ContentsModel: dataSources.ContentsModel,
+    },
+  );
 }
 
 module.exports = {
@@ -25,6 +26,6 @@ module.exports = {
     GAME: 'game',
   },
   Query: {
-    contents: getAllContentsResolver,
+    findAllContents: findAllContentsResolver,
   },
 };

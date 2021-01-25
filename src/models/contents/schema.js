@@ -3,14 +3,21 @@ const contentsSchema = {
   id: {
     type: String,
     required: true,
+    hashKey: true,
   },
   contentId: {
     type: String,
     required: true,
+    index: {
+      name: 'contentId-index',
+    },
   },
   type: {
     type: String,
     required: true,
+    index: {
+      name: 'type-index',
+    },
   },
   title: {
     type: String,
@@ -33,6 +40,9 @@ const contentsSchema = {
   language: {
     type: String,
     required: true,
+    index: {
+      name: 'languageIndex',
+    },
   },
   originalLanguage: {
     type: Object,
