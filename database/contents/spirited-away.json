@@ -5,6 +5,7 @@
   "releaseYear": "2001",
   "runTime": 125,
   "type": "movie",
+  "languageKeys": ["ja", "en-US", "pt-BR"],
   "originalLanguage": {
     "iso6391": "ja",
     "name": "Japanese"

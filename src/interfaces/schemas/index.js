@@ -4,7 +4,7 @@ const { gql } = require('apollo-server');
 const typeDefs = gql`
   type Query {
     "Get full metadata from all contents (movie, tvshow, tvepisode, documentary, game)"
-    contents(language: AllowedLanguage, type: AllowedType): [Contents]!
+    findAllContents(language: AllowedLanguage, type: AllowedType): [Contents]!
       @cacheControl(maxAge: 500)
   }
 
@@ -33,7 +33,7 @@ const typeDefs = gql`
     id: String!
     title: String!
     budget: Int
-    descriptions: String!
+    description: String!
     cast: [Cast]
     crew: [Crew]
     genres: [String]

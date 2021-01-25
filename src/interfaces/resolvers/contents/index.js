@@ -1,22 +1,23 @@
-const getAllContents = require('../../../use-cases/get-all-contents');
-const serializerContentsData = require('../../serializers/contents');
+const findAllContents = require('../../../use-cases/find-all-contents');
 
-async function getAllContentsResolver(
+async function findAllContentsResolver(
   _,
-  { language = 'en-us' },
+  { language = 'en-US' },
   { dataSources },
 ) {
-  const contentsData = await getAllContents({
-    ContentsModel: dataSources.ContentsModel,
-  });
-  return serializerContentsData(contentsData, language);
+  return findAllContents(
+    { language },
+    {
+      ContentsModel: dataSources.ContentsModel,
+    },
+  );
 }
 
 module.exports = {
   AllowedLanguage: {
     JA: 'ja',
-    PT_BR: 'pt-br',
-    EN_US: 'en-us',
+    PT_BR: 'pt-BR',
+    EN_US: 'en-US',
   },
   AllowedType: {
     MOVIE: 'movie',
@@ -25,6 +26,6 @@ module.exports = {
     GAME: 'game',
   },
   Query: {
-    contents: getAllContentsResolver,
+    findAllContents: findAllContentsResolver,
   },
 };
