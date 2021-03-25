@@ -33,8 +33,6 @@ Before you begin, ensure you have met the following requirements:
 - You have access to [DynamoDB](https://aws.amazon.com/pt/dynamodb/)
 - You have installed the [Node.js](https://nodejs.org/en/)
 - You have installed the [Yarn](https://yarnpkg.com/getting-started/install)
-- Or you can use a [Docker Container Platform](https://www.docker.com)
-
 ## AWS services that we use
 
 - AWS CloudFormation
@@ -42,22 +40,10 @@ Before you begin, ensure you have met the following requirements:
 - AWS API Gateway
 - AWS DynamoDB
 
-**I strongly recommend you to use docker as an option to run this project.**
-
 ## Installing
-1. Clone this repository. `$ git clone https://github.com/malaquiasdev/studio-ghibli-database-api.git`
-2. Go to the project folder. `$ cd studio-ghibli-database-api`
+1. Clone this repository. `$ git clone https://github.com/malaquiasdev/studio-ghibli-database-graphql.git`
+2. Go to the project folder. `$ cd studio-ghibli-database-graphql`
 3. Copy the **.env.example** file and create an **.env** file with your AWS Credentials.
-
-## Running the app with DOCKER to development
-
-```bash
-# build
-$ docker-compose build
-
-# watch mode
-$ docker-compose up
-```
 
 ## Execute with yarn
 1. Install the dependencies. `$ yarn install`
