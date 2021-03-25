@@ -22,7 +22,6 @@ package:
     - src/**/__tests__/**
     - database-migrations/**
 
-
 provider:
   name: aws
   runtime: nodejs12.x
@@ -36,11 +35,11 @@ provider:
         - s3:*
         - cloudwatch:*
         - dynamodb:*
-      Resource: "arn:aws:dynamodb:us-east-1:*:*"
+      Resource: 'arn:aws:dynamodb:us-east-1:*:*'
 
 functions:
   graphql:
-    handler: src/infrastructure/lambda/index.graphqlHandler
+    handler: src/functions/graphql/handler.graphqlHandler
     events:
       - http:
           path: ghiblidb/graphql

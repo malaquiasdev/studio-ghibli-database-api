@@ -1,9 +1,9 @@
-require('dotenv/config');
-
 const { ApolloServer } = require('apollo-server-lambda');
-const typeDefs = require('../../interfaces/schemas');
-const resolvers = require('../../interfaces/resolvers/contents');
-const dataSources = require('../../models');
+const typeDefs = require('./schemas');
+const resolvers = require('./resolvers');
+//const dataSources require( '../../models');
+
+require('dotenv/config');
 
 const server = new ApolloServer({
   playground: {
@@ -11,7 +11,7 @@ const server = new ApolloServer({
   },
   typeDefs,
   resolvers,
-  dataSources,
+  //dataSources,
 });
 
 exports.graphqlHandler = server.createHandler({

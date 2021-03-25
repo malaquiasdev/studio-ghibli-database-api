@@ -1,19 +1,20 @@
-const findAllContents = require('../../../use-cases/find-all-contents');
+//const findAllContents = require('../../use-cases/find-all-contents');
 
 async function findAllContentsResolver(
   _,
   { language = 'en-US' },
   { dataSources },
 ) {
-  return findAllContents(
+  /*return findAllContents(
     { language },
     {
       ContentsModel: dataSources.ContentsModel,
     },
-  );
+  );*/
+  return { x: 'y' };
 }
 
-module.exports = {
+const resolser = {
   AllowedLanguage: {
     JA: 'ja',
     PT_BR: 'pt-BR',
@@ -29,3 +30,5 @@ module.exports = {
     findAllContents: findAllContentsResolver,
   },
 };
+
+module.exports = resolser;

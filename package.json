@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "SLS_DEBUG=* && node ./node_modules/.bin/serverless offline",
     "lint": "eslint --ext .ts src",
-    "test": "jest -u --silent test",
+    "test": "jest -u test",
     "test:coverage": "jest --silent --coverage --logHeapUsage test"
   },
   "repository": {
