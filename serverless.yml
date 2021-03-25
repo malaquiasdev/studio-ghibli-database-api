@@ -7,9 +7,6 @@ plugins:
 
 package:
   individually: true
-  include:
-    - src/
-    - node_modules
   exclude:
     - .editorconfig
     - .eslintignore
@@ -20,7 +17,8 @@ package:
     - README.md
     - LICENSE
     - src/**/__tests__/**
-    - database-migrations/**
+    - database/**
+    - build/**
 
 provider:
   name: aws
