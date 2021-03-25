@@ -3,7 +3,6 @@ async function findAllContentsResolver(
   { language = 'en-US' },
   { dataSources },
 ) {
-  console.log('findContentsByLanguage', dataSources);
   return dataSources.findContentsByLanguage('STUDIO-GHIBLI-CONTENTS', language);
 }
 
