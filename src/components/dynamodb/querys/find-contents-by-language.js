@@ -3,7 +3,7 @@ const convertRecordsToObject = require('../utils/convert-records-to-object');
 
 const dynamoDB = new AWS.DynamoDB();
 
-async function findRegionByUF(tableName, language) {
+async function findContentsByLanguage(tableName, language) {
   const statement = `SELECT * FROM "${tableName}" WHERE "language" = '${language}'`;
   const { Items } = await dynamoDB
     .executeStatement({ Statement: statement })
@@ -11,4 +11,4 @@ async function findRegionByUF(tableName, language) {
   return convertRecordsToObject(Items);
 }
 
-export { findRegionByUF as default };
+module.exports = findContentsByLanguage;

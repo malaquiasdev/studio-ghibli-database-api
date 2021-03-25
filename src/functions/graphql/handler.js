@@ -1,7 +1,7 @@
 const { ApolloServer } = require('apollo-server-lambda');
 const typeDefs = require('./schemas');
 const resolvers = require('./resolvers');
-//const dataSources require( '../../models');
+const findContentsByLanguage = require('../../components/dynamodb/querys/find-contents-by-language');
 
 require('dotenv/config');
 
@@ -11,7 +11,11 @@ const server = new ApolloServer({
   },
   typeDefs,
   resolvers,
-  //dataSources,
+  dataSources: () => {
+    return {
+      findContentsByLanguage,
+    };
+  },
 });
 
 exports.graphqlHandler = server.createHandler({

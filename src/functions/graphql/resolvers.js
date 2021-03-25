@@ -1,17 +1,10 @@
-//const findAllContents = require('../../use-cases/find-all-contents');
-
 async function findAllContentsResolver(
   _,
   { language = 'en-US' },
   { dataSources },
 ) {
-  /*return findAllContents(
-    { language },
-    {
-      ContentsModel: dataSources.ContentsModel,
-    },
-  );*/
-  return { x: 'y' };
+  console.log('findContentsByLanguage', dataSources);
+  return dataSources.findContentsByLanguage('STUDIO-GHIBLI-CONTENTS', language);
 }
 
 const resolser = {
