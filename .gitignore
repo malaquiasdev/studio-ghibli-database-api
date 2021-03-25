@@ -112,3 +112,6 @@ jspm_packages
 
 # MAC OS
 .DS_Store
+
+# Coverage
+build

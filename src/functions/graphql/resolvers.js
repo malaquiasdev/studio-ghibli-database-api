@@ -1,19 +1,12 @@
-const findAllContents = require('../../../use-cases/find-all-contents');
-
 async function findAllContentsResolver(
   _,
   { language = 'en-US' },
   { dataSources },
 ) {
-  return findAllContents(
-    { language },
-    {
-      ContentsModel: dataSources.ContentsModel,
-    },
-  );
+  return dataSources.findContentsByLanguage('STUDIO-GHIBLI-CONTENTS', language);
 }
 
-module.exports = {
+const resolser = {
   AllowedLanguage: {
     JA: 'ja',
     PT_BR: 'pt-BR',
@@ -29,3 +22,5 @@ module.exports = {
     findAllContents: findAllContentsResolver,
   },
 };
+
+module.exports = resolser;

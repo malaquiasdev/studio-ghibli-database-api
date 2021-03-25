@@ -1,5 +1,5 @@
 /* eslint-disable max-lines */
-const { gql } = require('apollo-server');
+const { gql } = require('apollo-server-lambda');
 
 const typeDefs = gql`
   type Query {

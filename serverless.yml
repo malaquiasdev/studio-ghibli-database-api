@@ -7,9 +7,6 @@ plugins:
 
 package:
   individually: true
-  include:
-    - src/
-    - node_modules
   exclude:
     - .editorconfig
     - .eslintignore
@@ -20,8 +17,8 @@ package:
     - README.md
     - LICENSE
     - src/**/__tests__/**
-    - database-migrations/**
-
+    - database/**
+    - build/**
 
 provider:
   name: aws
@@ -36,11 +33,11 @@ provider:
         - s3:*
         - cloudwatch:*
         - dynamodb:*
-      Resource: "arn:aws:dynamodb:us-east-1:*:*"
+      Resource: 'arn:aws:dynamodb:us-east-1:*:*'
 
 functions:
   graphql:
-    handler: src/infrastructure/lambda/index.graphqlHandler
+    handler: src/functions/graphql/handler.graphqlHandler
     events:
       - http:
           path: ghiblidb/graphql
