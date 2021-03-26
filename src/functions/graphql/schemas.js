@@ -3,7 +3,7 @@ const { gql } = require('apollo-server-lambda');
 
 const typeDefs = gql`
   type Query {
-    "Get full metadata from all contents (movie, tvshow, tvepisode, documentary, game)"
+    "Get full metadata from all the movies"
     movies(language: AllowedLanguage): [Movie]! @cacheControl(maxAge: 500)
   }
 
