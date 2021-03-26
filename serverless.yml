@@ -33,7 +33,10 @@ provider:
   runtime: nodejs12.x
   stage: ${opt:stage, 'dev'}
   region: us-east-1
-  deploymentBucket: ghiblidb-graphql
+  lambdaHashingVersion: 20201221
+  apiGateway:
+    shouldStartNameWithService: true
+  deploymentBucket: ghiblidb-graphql-${self:custom.stage}
   iamRoleStatements:
     - Effect: Allow
       Action:
@@ -45,4 +48,4 @@ provider:
     moviesTableName: ${self:custom.moviesTableName}
 
 functions:
-  - ${file(src/functions/graphql)}
+  - ${file(src/functions/graphql/function.yml)}
