@@ -49,3 +49,4 @@ provider:
 
 functions:
   - ${file(src/functions/graphql/function.yml)}
+  - ${file(src/functions/dynamodb-migrations/function.yml)}

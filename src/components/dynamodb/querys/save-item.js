@@ -17,4 +17,4 @@ async function dynamoDBSaveItem(tableName, data) {
   }
 }
 
-export { dynamoDBSaveItem as default };
+module.exports = dynamoDBSaveItem;

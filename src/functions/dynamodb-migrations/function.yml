@@ -1,0 +1,2 @@
+ghiblidb-execute-contents-migrations:
+  handler: src/functions/dynamodb-migrations/handler.executeContentsMigrations
