@@ -1,10 +1,4 @@
-async function findAllContentsResolver(
-  _,
-  { language = 'en-US' },
-  { dataSources },
-) {
-  return dataSources.findContentsByLanguage('STUDIO-GHIBLI-CONTENTS', language);
-}
+const findMoviesQuery = require('./find-movies-query');
 
 const resolser = {
   AllowedLanguage: {
@@ -19,7 +13,7 @@ const resolser = {
     GAME: 'game',
   },
   Query: {
-    findAllContents: findAllContentsResolver,
+    movies: findMoviesQuery,
   },
 };
 

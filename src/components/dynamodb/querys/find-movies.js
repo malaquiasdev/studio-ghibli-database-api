@@ -3,7 +3,7 @@ const convertRecordsToObject = require('../utils/convert-records-to-object');
 
 const dynamoDB = new AWS.DynamoDB();
 
-async function findContentsByLanguage(tableName, language) {
+async function findMovies({ tableName, language }) {
   const statement = `SELECT * FROM "${tableName}" WHERE "language" = '${language}'`;
   const { Items } = await dynamoDB
     .executeStatement({ Statement: statement })
@@ -11,4 +11,4 @@ async function findContentsByLanguage(tableName, language) {
   return convertRecordsToObject(Items);
 }
 
-module.exports = findContentsByLanguage;
+module.exports = findMovies;

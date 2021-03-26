@@ -1,7 +1,8 @@
 const { ApolloServer } = require('apollo-server-lambda');
+const config = require('./config');
 const typeDefs = require('./schemas');
 const resolvers = require('./resolvers');
-const findContentsByLanguage = require('../../components/dynamodb/querys/find-contents-by-language');
+const findMovies = require('../../components/dynamodb/querys/find-movies');
 
 require('dotenv/config');
 
@@ -13,7 +14,8 @@ const server = new ApolloServer({
   resolvers,
   dataSources: () => {
     return {
-      findContentsByLanguage,
+      config,
+      findMovies,
     };
   },
 });

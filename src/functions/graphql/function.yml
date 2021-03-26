@@ -1,0 +1,11 @@
+graphql:
+  handler: src/functions/graphql/handler.graphqlHandler
+  events:
+    - http:
+        path: ghiblidb/graphql
+        method: post
+        cors: true
+    - http:
+        path: ghiblidb/graphql
+        method: get
+        cors: true

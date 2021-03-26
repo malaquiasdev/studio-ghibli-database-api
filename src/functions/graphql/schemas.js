@@ -4,8 +4,7 @@ const { gql } = require('apollo-server-lambda');
 const typeDefs = gql`
   type Query {
     "Get full metadata from all contents (movie, tvshow, tvepisode, documentary, game)"
-    findAllContents(language: AllowedLanguage, type: AllowedType): [Contents]!
-      @cacheControl(maxAge: 500)
+    movies(language: AllowedLanguage): [Movie]! @cacheControl(maxAge: 500)
   }
 
   "A ISO 639-1 value to display translated data for the fields that support it. Default value is en-US"
@@ -29,7 +28,7 @@ const typeDefs = gql`
     GAME
   }
 
-  type Contents {
+  type Movie {
     id: String!
     title: String!
     budget: Int
@@ -38,7 +37,7 @@ const typeDefs = gql`
     crew: [Crew]
     genres: [String]
     originalLanguage: originalLanguage
-    ratings: [Ratings]
+    ratings: [Rating]
     releaseYear: String
     revenue: Int
     runTime: Int
@@ -57,7 +56,7 @@ const typeDefs = gql`
     role: String!
   }
 
-  type Images {
+  type Image {
     category: String!
     height: Int!
     width: String!
@@ -72,7 +71,7 @@ const typeDefs = gql`
     name: String!
   }
 
-  type Ratings {
+  type Rating {
     key: String!
     value: String!
   }
