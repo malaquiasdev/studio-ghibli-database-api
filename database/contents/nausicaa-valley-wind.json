@@ -1,0 +1,106 @@
+{
+  "id": "8e41bb68-6f8f-49fe-9626-0e9df38f9e7a",
+  "budget": 1000000,
+  "revenue": 3301446,
+  "releaseYear": "1984",
+  "runTime": 117,
+  "type": "movie",
+  "languageKeys": ["ja", "en-US", "pt-BR"],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "風の谷のナウシカ"
+    },
+    {
+      "key": "en-US",
+      "value": "Nausicaä of the Valley of the Wind"
+    },
+    {
+      "key": "pt-BR",
+      "value": "O Castelo Animado"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "高度な産業文明を破壊させた「火の七日間」呼ばれる大戦争から1000年。人類は、巨大な虫や、毒の森・腐海に脅かされながら生きていた。辺境の小国「風の谷」の族長の娘、ナウシカは、人間同士の争いに巻き込まれていく。"
+    },
+    {
+      "key": "en-US",
+      "value": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth."
+    },
+    {
+      "key": "pt-BR",
+      "value": "Após os Sete Dias de Fogo, uma guerra que destruiu a civilização humana e a maior parte do ecossistema da Terra, surge uma floresta que exala gases venenosos. Apenas insetos e um ser conhecido como Ohmu vivem por lá. Nausicaä, filha do rei do Vale do Vento, tem o estranho poder de conseguir sentir o que a floresta sente e se vê obrigada a sair em uma jornada para tentar evitar outra guerra devastadora."
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Aventura"
+        },
+        {
+          "key": "en-US",
+          "value": "Adventure"
+        },
+        {
+          "key": "ja",
+          "value": "アドベンチャー"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Fantasia"
+        },
+        {
+          "key": "en-US",
+          "value": "Fantasy"
+        },
+        {
+          "key": "ja",
+          "value": "ファンタジー"
+        }
+      ]
+    }
+  ],
+  "cast": [],
+  "crew": [],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG"
+    }
+  ]
+}
