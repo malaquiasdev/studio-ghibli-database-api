@@ -1,0 +1,618 @@
+{
+  "id": "f7fe24b3-578f-40bc-8dbb-b9ee301afdc6",
+  "budget": 0,
+  "revenue": 0,
+  "releaseYear": "1986",
+  "runTime": 125,
+  "type": "movie",
+  "languageKeys": ["ja", "en-US", "pt-BR"],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "天空の城ラピュタ"
+    },
+    {
+      "key": "en-US",
+      "value": "Castle in the Sky"
+    },
+    {
+      "key": "pt-BR",
+      "value": "O Castelo no Céu"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "鉱山町で、見習い機械工として働く少年パズーは、ある日、空から降ってきた不思議な少女シータと出会う。2人は、シータの身に着けていた不思議な「飛行石」を狙う様々な陰謀に巻き込まれていく。"
+    },
+    {
+      "key": "en-US",
+      "value": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle."
+    },
+    {
+      "key": "pt-BR",
+      "value": "Pazu, um aprendiz de engenheiro, conhece uma jovem garota dona de um colar brilhante, Sheeta, e descobrem que ambos estão procurando pelo legendário castelo flutuante. Assim começa uma aventura com piratas gananciosos dos céus, agentes secretos e obstáculos que tentam esconder a verdade e resgatar o misterioso colar."
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Aventura"
+        },
+        {
+          "key": "en-US",
+          "value": "Adventure"
+        },
+        {
+          "key": "ja",
+          "value": "アドベンチャー"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Fantasia"
+        },
+        {
+          "key": "en-US",
+          "value": "Fantasy"
+        },
+        {
+          "key": "ja",
+          "value": "ファンタジー"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Família"
+        },
+        {
+          "key": "en-US",
+          "value": "Family"
+        },
+        {
+          "key": "ja",
+          "value": "ファミリー"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Romance"
+        },
+        {
+          "key": "en-US",
+          "value": "Romance"
+        },
+        {
+          "key": "ja",
+          "value": "ロマンス"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Ação"
+        },
+        {
+          "key": "en-US",
+          "value": "Action"
+        },
+        {
+          "key": "ja",
+          "value": "アクション"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Sheeta",
+      "name": "Keiko Yokozawa",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Pazu",
+      "name": "Mayumi Tanaka",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Muska",
+      "name": "Minori Terada",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Dola",
+      "name": "Kotoe Hatsui",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Uncle Pomme",
+      "name": "Fujio Tokita",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Shogun Mouro",
+      "name": "Ichirō Nagai",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Oyakata",
+      "name": "Hiroshi Ito",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "Okami",
+      "name": "Machiko Washio",
+      "role": "Voice",
+      "order": 7
+    },
+    {
+      "characterName": "Charles",
+      "name": "Takumi Kamiyama",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "Louis",
+      "name": "Yoshito Yasuhara",
+      "role": "Voice",
+      "order": 9
+    },
+    {
+      "characterName": "Henri",
+      "name": "Sukekiyo Kameyama",
+      "role": "Voice",
+      "order": 10
+    },
+    {
+      "characterName": "Underling",
+      "name": "Eken Mine",
+      "role": "Voice",
+      "order": 11
+    },
+    {
+      "characterName": "Madge",
+      "name": "Tarako",
+      "role": "Voice",
+      "order": 12
+    },
+    {
+      "characterName": "Underling",
+      "name": "Masashi Sugawara",
+      "role": "Voice",
+      "order": 13
+    },
+    {
+      "characterName": "Additional Voices",
+      "name": "Reiko Suzuki",
+      "role": "Voice",
+      "order": 14
+    },
+    {
+      "characterName": "Additional Voices",
+      "name": "Toshihiko Seki",
+      "role": "Voice",
+      "order": 15
+    },
+    {
+      "characterName": "Additional Voices",
+      "name": "Hochu Otsuka",
+      "role": "Voice",
+      "order": 16
+    },
+    {
+      "characterName": "Additional Voices",
+      "name": "Megumi Hayashibara",
+      "role": "Voice",
+      "order": 17
+    },
+    {
+      "characterName": "Additional Voices",
+      "name": "Tomomichi Nishimura",
+      "role": "Voice",
+      "order": 18
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Director",
+      "order": 0
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Editor",
+      "order": 1
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Writer",
+      "order": 2
+    },
+    {
+      "name": "Isao Takahata",
+      "role": "Producer",
+      "order": 3
+    },
+    {
+      "name": "Shigeharu Shiba",
+      "role": "Sound Director",
+      "order": 4
+    },
+    {
+      "name": "Joe Hisaishi",
+      "role": "Original Music Composer",
+      "order": 5
+    },
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 6
+    },
+    {
+      "name": "Takeshi Seyama",
+      "role": "Editor",
+      "order": 7
+    },
+    {
+      "name": "Yasuyoshi Tokuma",
+      "role": "Executive Producer",
+      "order": 8
+    },
+    {
+      "name": "Makiko Futaki",
+      "role": "Animation",
+      "order": 9
+    },
+    {
+      "name": "Makiko Futaki",
+      "role": "Key Animation",
+      "order": 10
+    },
+    {
+      "name": "Tooru Hara",
+      "role": "Production Manager",
+      "order": 11
+    },
+    {
+      "name": "Mahiro Maeda",
+      "role": "Key Animation",
+      "order": 12
+    },
+    {
+      "name": "Yoshihiro Kasahara",
+      "role": "Editor",
+      "order": 13
+    },
+    {
+      "name": "Katsuya Kondo",
+      "role": "Key Animation",
+      "order": 14
+    },
+    {
+      "name": "Hirokata Takahashi",
+      "role": "Cinematography",
+      "order": 15
+    },
+    {
+      "name": "Hirotsugu Kawasaki",
+      "role": "Key Animation",
+      "order": 16
+    },
+    {
+      "name": "Eric Garcia",
+      "role": "Production Coordinator",
+      "order": 17
+    },
+    {
+      "name": "Tetsu Kimura",
+      "role": "Assistant Director",
+      "order": 18
+    },
+    {
+      "name": "Shuji Inoue",
+      "role": "Sound Mixer",
+      "order": 19
+    },
+    {
+      "name": "Mutsuo Koseki",
+      "role": "Background Designer",
+      "order": 20
+    },
+    {
+      "name": "Umanosuke Iida",
+      "role": "Assistant Director",
+      "order": 21
+    },
+    {
+      "name": "Mikio Mori",
+      "role": "Dolby Consultant",
+      "order": 22
+    },
+    {
+      "name": "Nizou Yamamoto",
+      "role": "Art Direction",
+      "order": 23
+    },
+    {
+      "name": "Toshio Nozaki",
+      "role": "Art Direction",
+      "order": 24
+    },
+    {
+      "name": "Yoshinori Kanada",
+      "role": "Lead Animator",
+      "order": 25
+    },
+    {
+      "name": "Katsu Hisamura",
+      "role": "Background Designer",
+      "order": 26
+    },
+    {
+      "name": "Hideo Ogata",
+      "role": "Executive Producer",
+      "order": 27
+    },
+    {
+      "name": "Tatsumi Yamashita",
+      "role": "Executive Producer",
+      "order": 28
+    },
+    {
+      "name": "Kazuhide Tomonaga",
+      "role": "Key Animation",
+      "order": 29
+    },
+    {
+      "name": "Osamu Nabeshima",
+      "role": "Key Animation",
+      "order": 30
+    },
+    {
+      "name": "Kazuyuki Kobayashi",
+      "role": "Key Animation",
+      "order": 31
+    },
+    {
+      "name": "Yamako Ishikawa",
+      "role": "Background Designer",
+      "order": 32
+    },
+    {
+      "name": "Kazuhiro Kinoshita",
+      "role": "Background Designer",
+      "order": 33
+    },
+    {
+      "name": "Masaaki Endou",
+      "role": "Animation",
+      "order": 34
+    },
+    {
+      "name": "Masaaki Endou",
+      "role": "Key Animation",
+      "order": 35
+    },
+    {
+      "name": "Megumi Kagawa",
+      "role": "Key Animation",
+      "order": 36
+    },
+    {
+      "name": "Kitarou Kousaka",
+      "role": "Key Animation",
+      "order": 37
+    },
+    {
+      "name": "Shinji Otsuka",
+      "role": "Key Animation",
+      "order": 38
+    },
+    {
+      "name": "Toshio Kawaguchi",
+      "role": "Key Animation",
+      "order": 39
+    },
+    {
+      "name": "Noriko Moritomo",
+      "role": "Key Animation",
+      "order": 40
+    },
+    {
+      "name": "Masako Shinohara",
+      "role": "Key Animation",
+      "order": 41
+    },
+    {
+      "name": "Michiyo Yasuda",
+      "role": "Color Designer",
+      "order": 42
+    },
+    {
+      "name": "Kiyomi Ôta",
+      "role": "Background Designer",
+      "order": 43
+    },
+    {
+      "name": "Atsuko Ôtani",
+      "role": "Key Animation",
+      "order": 44
+    },
+    {
+      "name": "Masaki Yoshizaki",
+      "role": "Background Designer",
+      "order": 45
+    },
+    {
+      "name": "Atsushi Kaji",
+      "role": "Music Programmer",
+      "order": 46
+    },
+    {
+      "name": "Naotake Furusato",
+      "role": "Production Assistant",
+      "order": 47
+    },
+    {
+      "name": "David H. Kramer",
+      "role": "Casting",
+      "order": 48
+    },
+    {
+      "name": "Norihiko Sudo",
+      "role": "Assistant Director",
+      "order": 49
+    },
+    {
+      "name": "Kumiko Iijima",
+      "role": "Background Designer",
+      "order": 50
+    },
+    {
+      "name": "Yasuhiro Nakura",
+      "role": "Key Animation",
+      "order": 51
+    },
+    {
+      "name": "Gō Abe",
+      "role": "Special Effects",
+      "order": 52
+    },
+    {
+      "name": "Michiyo Sakurai",
+      "role": "Key Animation",
+      "order": 53
+    },
+    {
+      "name": "Gô Abe",
+      "role": "Special Effects",
+      "order": 54
+    },
+    {
+      "name": "Masayoshi Okawa",
+      "role": "Music Editor",
+      "order": 55
+    },
+    {
+      "name": "Kazutoshi Sato",
+      "role": "Sound Effects",
+      "order": 56
+    },
+    {
+      "name": "Toyoaki Emura",
+      "role": "Key Animation",
+      "order": 57
+    },
+    {
+      "name": "Tadashi Fukuda",
+      "role": "Key Animation",
+      "order": 58
+    },
+    {
+      "name": "Hironori Ono",
+      "role": "Sound Effects Editor",
+      "order": 59
+    },
+    {
+      "name": "Shinji Teraoka",
+      "role": "Special Effects",
+      "order": 60
+    },
+    {
+      "name": "Yasuko Fukuoka",
+      "role": "Music Programmer",
+      "order": 61
+    },
+    {
+      "name": "Asuka Kaneko",
+      "role": "Musician",
+      "order": 62
+    },
+    {
+      "name": "Shin Kazahara",
+      "role": "Musician",
+      "order": 63
+    },
+    {
+      "name": "Takashi Tsunoda",
+      "role": "Musician",
+      "order": 64
+    },
+    {
+      "name": "Masashi Atami",
+      "role": "Production Assistant",
+      "order": 65
+    },
+    {
+      "name": "Toshitsugu Hara",
+      "role": "Production Assistant",
+      "order": 66
+    },
+    {
+      "name": "Kaoru Mutô",
+      "role": "Production Assistant",
+      "order": 67
+    },
+    {
+      "name": "Hirokazu Kihara",
+      "role": "Production Assistant",
+      "order": 68
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG"
+    }
+  ]
+}
