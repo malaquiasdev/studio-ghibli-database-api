@@ -1,0 +1,246 @@
+{
+  "id": "f5d799d2-a094-4189-945b-ff76edeec1d9",
+  "budget": 0,
+  "revenue": 0,
+  "releaseYear": "1993",
+  "runTime": 72,
+  "type": "movie",
+  "languageKeys": ["ja", "en-US", "pt-BR"],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "海がきこえる"
+    },
+    {
+      "key": "en-US",
+      "value": "Ocean Waves"
+    },
+    {
+      "key": "pt-BR",
+      "value": "Eu Posso Ouvir o Oceano"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "高知の進学校から東京の大学に入学した杜崎拓は、吉祥寺駅のホームで武藤里伽子に似た女性を見かける。その後、はじめての夏休みに同窓会のために故郷・高知へと帰省する道中、拓はその高校時代を思い起こす。季節外れに東京から転校して来た里伽子との出会い、ハワイへの修学旅行、里伽子と2人だけの東京旅行、親友と喧嘩別れした文化祭。ほろ苦い記憶をたどりながら、拓は里伽子の存在を振り返っていく。"
+    },
+    {
+      "key": "en-US",
+      "value": "At Kichijōji Station, Tokyo, Taku Morisaki glimpses a familiar woman on the platform opposite boarding a train. Later, her photo falls from a shelf as he exits his apartment before flying to Kōchi Prefecture. Picking it up, he looks at it briefly before leaving. As the aeroplane takes off he narrates the events that brought her into his life..."
+    },
+    {
+      "key": "pt-BR",
+      "value": "Após o divórcio dos pais de Rikako Muto, uma estudante de Tóquio, ela é transferida para um colégio de Kochi, uma cidade litorânea remota da capital. Além de linda e inteligente, se dedica muito aos estudos e aos desportos. Mas sem saber por quê, não consegue se adaptar à vida social da escola. No mesmo colégio chegam Taku Morisaki e Yutaka Matsuno, que sempre foram melhores amigos na vida, e logo o trio começam a viver um triângulo amoroso."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Drama"
+        },
+        {
+          "key": "en-US",
+          "value": "Drama"
+        },
+        {
+          "key": "ja",
+          "value": "ドラマ"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Romance"
+        },
+        {
+          "key": "en-US",
+          "value": "Romance"
+        },
+        {
+          "key": "ja",
+          "value": "ロマンス"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Taku Morisaki",
+      "name": "Nobuo Tobita",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Yutaka Matsuno",
+      "name": "Toshihiko Seki",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Rikako Mutou",
+      "name": "Youko Sakamoto",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Akiko Shimizu",
+      "name": "Yuri Amano",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Yumi Kohama",
+      "name": "Kae Araki",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Okada",
+      "name": "Jun'ichi Kanemaru",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Taku's Mother",
+      "name": "Ai Satou",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "Girl",
+      "name": "Aya Hisakawa",
+      "role": "Voice",
+      "order": 7
+    },
+    {
+      "characterName": "Minarai",
+      "name": "Tomokazu Seki",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "Tadashi Yamao",
+      "name": "Hikaru Midorikawa",
+      "role": "Voice",
+      "order": 9
+    },
+    {
+      "characterName": "Additional Voices",
+      "name": "Ako Mayama",
+      "role": "Voice",
+      "order": 10
+    },
+    {
+      "characterName": "Additional Voices",
+      "name": "Sumi Shimamoto",
+      "role": "Voice",
+      "order": 11
+    },
+    {
+      "characterName": "Additional Voices",
+      "name": "Reiko Suzuki",
+      "role": "Voice",
+      "order": 12
+    }
+  ],
+  "crew": [
+    {
+      "name": "Atsushi Okui",
+      "role": "Director of Photography",
+      "order": 0
+    },
+    {
+      "name": "Keiko Niwa",
+      "role": "Writer",
+      "order": 1
+    },
+    {
+      "name": "Katsuya Kondo",
+      "role": "Character Designer",
+      "order": 2
+    },
+    {
+      "name": "Nozomu Takahashi",
+      "role": "Executive Producer",
+      "order": 3
+    },
+    {
+      "name": "Naoya Tanaka",
+      "role": "Art Direction",
+      "order": 4
+    },
+    {
+      "name": "Tomomi Mochizuki",
+      "role": "Director",
+      "order": 5
+    },
+    {
+      "name": "Saeko Himuro",
+      "role": "Novel",
+      "order": 6
+    },
+    {
+      "name": "Youko Sakamoto",
+      "role": "Theme Song Performance",
+      "order": 7
+    },
+    {
+      "name": "Shigeru Nagata",
+      "role": "Original Music Composer",
+      "order": 8
+    },
+    {
+      "name": "Michio Yokoo",
+      "role": "Producer",
+      "order": 9
+    },
+    {
+      "name": "Shinichiro Maeda",
+      "role": "Producer",
+      "order": 10
+    },
+    {
+      "name": "Toru Horikoshi",
+      "role": "Producer",
+      "order": 11
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG"
+    }
+  ]
+}
