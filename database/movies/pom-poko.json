@@ -1,0 +1,247 @@
+{
+  "id": "96e0643f-bbb7-4650-a128-d19753c3f919",
+  "budget": 0,
+  "revenue": 0,
+  "releaseYear": "1994",
+  "runTime": 119,
+  "type": "movie",
+  "languageKeys": ["ja", "en-US", "pt-BR"],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "平成狸合戦ぽんぽこ"
+    },
+    {
+      "key": "en-US",
+      "value": "Pom Poko"
+    },
+    {
+      "key": "pt-BR",
+      "value": "PomPoko: A Grande Batalha dos Guaxinins"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "自然の恵み多き東京は多摩丘陵。そこに住むタヌキたちはのんびりとひそやかに暮していた。しかし、宅地造成による自然破壊によって、タヌキたちのエサ場が次第に少なくなっていた。自分たちの住処を守るため、タヌキたちは先祖伝来の“化け学”で人間たちに対抗することにする。"
+    },
+    {
+      "key": "en-US",
+      "value": "The Raccoons of the Tama Hills are being forced from their homes by the rapid development of houses and shopping malls. As it becomes harder to find food and shelter, they decide to band together and fight back. The Raccoons practice and perfect the ancient art of transformation until they are even able to appear as humans in hilarious circumstances."
+    },
+    {
+      "key": "pt-BR",
+      "value": "O crescimento de Tóquio durante os anos 1960 originou uma explosão urbanística nos subúrbios. Com isso, montanhas foram aplanadas e florestas, abatidas. Os tanuki, uma espécie de guaxinins, vêem-se ameaçados pelo desenvolvimento dos humanos: A área habitável reduz-se, bem como os recursos alimentares. A falta de comida conduz a guerras internas, mas a sabedoria dos anciões canaliza a energia e a frustração de todos os tanuki contra o inimigo comum: O Homem."
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Aventura"
+        },
+        {
+          "key": "en-US",
+          "value": "Adventure"
+        },
+        {
+          "key": "ja",
+          "value": "アドベンチャー"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Fantasia"
+        },
+        {
+          "key": "en-US",
+          "value": "Fantasy"
+        },
+        {
+          "key": "ja",
+          "value": "ファンタジー"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Narrator",
+      "name": "Shinchou Kokontei",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Shoukichi",
+      "name": "Makoto Nonomura",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "\"Old Fireball\" Oroku",
+      "name": "Nijiko Kiyokawa",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Gonta",
+      "name": "Shigeru Izumiya",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Tsurukame",
+      "name": "Kosan Yanagiya",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Seizaemon",
+      "name": "Norihei Miki",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Kiyo",
+      "name": "Yuriko Ishida",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "Tamasaburo",
+      "name": "Akira Kamiya",
+      "role": "Voice",
+      "order": 7
+    },
+    {
+      "characterName": "Bunta",
+      "name": "Takehiro Murata",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "Yashimano Hage",
+      "name": "Bunshi Katsura",
+      "role": "Voice",
+      "order": 9
+    },
+    {
+      "characterName": "Inugami Gyobu",
+      "name": "Gannosuke Ashiya",
+      "role": "Voice",
+      "order": 10
+    },
+    {
+      "characterName": "Kincho Daimyojin VI",
+      "name": "Beichou Katsura",
+      "role": "Voice",
+      "order": 11
+    },
+    {
+      "characterName": "Koharu",
+      "name": "Yumi Ichihara",
+      "role": "Voice",
+      "order": 12
+    },
+    {
+      "characterName": "Ryutarou",
+      "name": "Akira Fukuzawa",
+      "role": "Voice",
+      "order": 13
+    },
+    {
+      "characterName": "Ponkichi",
+      "name": "Kobuhei Hayashiya",
+      "role": "Voice",
+      "order": 14
+    },
+    {
+      "characterName": "Hanako",
+      "name": "Shiho Nagai",
+      "role": "Voice",
+      "order": 15
+    },
+    {
+      "characterName": "Sasuke",
+      "name": "Megumi Hayashibara",
+      "role": "Voice",
+      "order": 16
+    },
+    { "characterName": "", "name": "Osamu Kato", "role": "Voice", "order": 17 },
+    {
+      "characterName": "Bunta / Wonderland President (English version, voice)",
+      "name": "Kevin Michael Richardson",
+      "role": "Voice",
+      "order": 18
+    }
+  ],
+  "crew": [
+    { "name": "Hayao Miyazaki", "role": "Story", "order": 0 },
+    { "name": "Isao Takahata", "role": "Screenplay", "order": 1 },
+    { "name": "Isao Takahata", "role": "Director", "order": 2 },
+    { "name": "Toshio Suzuki", "role": "Producer", "order": 3 },
+    { "name": "Atsushi Okui", "role": "Director of Photography", "order": 4 },
+    { "name": "Takeshi Seyama", "role": "Editor", "order": 5 },
+    { "name": "Yasuyoshi Tokuma", "role": "Executive Producer", "order": 6 },
+    { "name": "Nozomu Takahashi", "role": "Production Manager", "order": 7 },
+    { "name": "Seiichiro Ujiie", "role": "Executive Producer", "order": 8 },
+    { "name": "Kenji Miyazawa", "role": "Characters", "order": 9 },
+    { "name": "Yasuo Uragami", "role": "Sound Director", "order": 10 },
+    { "name": "Kazuo Oga", "role": "Production Design", "order": 11 },
+    { "name": "Kazuo Oga", "role": "Art Direction", "order": 12 },
+    { "name": "Kaoru Tanifuji", "role": "Special Effects", "order": 13 },
+    { "name": "Yoshifumi Kondou", "role": "Animation", "order": 14 },
+    { "name": "Masahiko Ōtsuka", "role": "Assistant Director", "order": 15 },
+    { "name": "Yoshiyuki Momose", "role": "Storyboard Designer", "order": 16 },
+    { "name": "Megumi Kagawa", "role": "Animation Supervisor", "order": 17 },
+    { "name": "Shinji Otsuka", "role": "Animation Director", "order": 18 },
+    { "name": "Shinji Otsuka", "role": "Animation Supervisor", "order": 19 },
+    { "name": "Shinji Otsuka", "role": "Storyboard Designer", "order": 20 },
+    { "name": "Shinji Otsuka", "role": "Character Designer", "order": 21 },
+    { "name": "Shin'ichi Matsumi", "role": "Assistant Director", "order": 22 },
+    { "name": "Hiroshi Adachi", "role": "Assistant Editor", "order": 23 },
+    { "name": "Ritsuo Isobe", "role": "Executive Producer", "order": 24 },
+    { "name": "Keiko Mizuta", "role": "Assistant Editor", "order": 25 },
+    { "name": "Mitsuru Kashiwara", "role": "Sound Effects", "order": 26 },
+    { "name": "Setsuko Tamai", "role": "Special Effects", "order": 27 },
+    { "name": "Tomoji Hashizume", "role": "Special Effects", "order": 28 },
+    { "name": "Shang Shang Typhoon", "role": "Music", "order": 29 }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG"
+    }
+  ]
+}
