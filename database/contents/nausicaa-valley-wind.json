@@ -1,0 +1,404 @@
+{
+  "id": "8e41bb68-6f8f-49fe-9626-0e9df38f9e7a",
+  "budget": 1000000,
+  "revenue": 3301446,
+  "releaseYear": "1984",
+  "runTime": 117,
+  "type": "movie",
+  "languageKeys": ["ja", "en-US", "pt-BR"],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "風の谷のナウシカ"
+    },
+    {
+      "key": "en-US",
+      "value": "Nausicaä of the Valley of the Wind"
+    },
+    {
+      "key": "pt-BR",
+      "value": "O Castelo Animado"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "高度な産業文明を破壊させた「火の七日間」呼ばれる大戦争から1000年。人類は、巨大な虫や、毒の森・腐海に脅かされながら生きていた。辺境の小国「風の谷」の族長の娘、ナウシカは、人間同士の争いに巻き込まれていく。"
+    },
+    {
+      "key": "en-US",
+      "value": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth."
+    },
+    {
+      "key": "pt-BR",
+      "value": "Após os Sete Dias de Fogo, uma guerra que destruiu a civilização humana e a maior parte do ecossistema da Terra, surge uma floresta que exala gases venenosos. Apenas insetos e um ser conhecido como Ohmu vivem por lá. Nausicaä, filha do rei do Vale do Vento, tem o estranho poder de conseguir sentir o que a floresta sente e se vê obrigada a sair em uma jornada para tentar evitar outra guerra devastadora."
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Aventura"
+        },
+        {
+          "key": "en-US",
+          "value": "Adventure"
+        },
+        {
+          "key": "ja",
+          "value": "アドベンチャー"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Fantasia"
+        },
+        {
+          "key": "en-US",
+          "value": "Fantasy"
+        },
+        {
+          "key": "ja",
+          "value": "ファンタジー"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Nausicaä",
+      "name": "Sumi Shimamoto",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Mito",
+      "name": "Ichirō Nagai",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Yupa",
+      "name": "Gorō Naya",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Asbel",
+      "name": "Yōji Matsuda",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Kushana",
+      "name": "Yoshiko Sakakibara",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Kurotowa",
+      "name": "Iemasa Kayumi",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Oh-Baba",
+      "name": "Hisako Kyouda",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "Jihl",
+      "name": "Mahito Tsujimura",
+      "role": "Voice",
+      "order": 7
+    },
+    {
+      "characterName": "Lastel",
+      "name": "Mina Tominaga",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "Goru",
+      "name": "Kōhei Miyauchi",
+      "role": "Voice",
+      "order": 9
+    },
+    {
+      "characterName": "Gikkuri",
+      "name": "Jōji Yanami",
+      "role": "Voice",
+      "order": 10
+    },
+    {
+      "characterName": "Niga",
+      "name": "Minoru Yada",
+      "role": "Voice",
+      "order": 11
+    },
+    {
+      "characterName": "Teto / Girl C",
+      "name": "Rihoko Yoshida",
+      "role": "Voice",
+      "order": 12
+    },
+    {
+      "characterName": "Commando",
+      "name": "Tetsuo Mizutori",
+      "role": "Voice",
+      "order": 13
+    },
+    {
+      "characterName": "Girl A",
+      "name": "Masako Sugaya",
+      "role": "Voice",
+      "order": 14
+    },
+    {
+      "characterName": "Girl B",
+      "name": "Takako Sasuga",
+      "role": "Voice",
+      "order": 15
+    },
+    {
+      "characterName": "Boy A",
+      "name": "Chika Sakamoto",
+      "role": "Voice",
+      "order": 16
+    },
+    {
+      "characterName": "Boy B",
+      "name": "Tarako",
+      "role": "Voice",
+      "order": 17
+    },
+    {
+      "characterName": "Mayor of Pejite",
+      "name": "Mugihito",
+      "role": "Voice",
+      "order": 18
+    },
+    {
+      "characterName": "Lastel's Mother",
+      "name": "Akiko Tsuboi",
+      "role": "Voice",
+      "order": 19
+    },
+    {
+      "characterName": "Pejite Citizen",
+      "name": "Takeki Nakamura",
+      "role": "Voice",
+      "order": 20
+    },
+    {
+      "characterName": "Pejite Girl",
+      "name": "Takako Ôta",
+      "role": "Voice",
+      "order": 21
+    },
+    {
+      "characterName": "Pejite Citizen",
+      "name": "Bin Shimada",
+      "role": "Voice",
+      "order": 22
+    },
+    {
+      "characterName": "Torumekian Soldier",
+      "name": "Shinji Nomura",
+      "role": "Voice",
+      "order": 23
+    },
+    {
+      "characterName": "Boy",
+      "name": "Hisako Ayuhara",
+      "role": "Voice",
+      "order": 24
+    },
+    {
+      "characterName": "Torumekian Soldier",
+      "name": "Hochu Otsuka",
+      "role": "Voice",
+      "order": 25
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Screenplay",
+      "order": 0
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Director",
+      "order": 1
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Comic Book",
+      "order": 2
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Character Designer",
+      "order": 3
+    },
+    {
+      "name": "Isao Takahata",
+      "role": "Producer",
+      "order": 4
+    },
+    {
+      "name": "Ned Lott",
+      "role": "Casting",
+      "order": 5
+    },
+    {
+      "name": "Naoki Kaneko",
+      "role": "Editor",
+      "order": 6
+    },
+    {
+      "name": "Tomoko Kida",
+      "role": "Editor",
+      "order": 7
+    },
+    {
+      "name": "Shigeharu Shiba",
+      "role": "Sound Director",
+      "order": 8
+    },
+    {
+      "name": "Joe Hisaishi",
+      "role": "Original Music Composer",
+      "order": 9
+    },
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 10
+    },
+    {
+      "name": "Yasuyoshi Tokuma",
+      "role": "Executive Producer",
+      "order": 11
+    },
+    {
+      "name": "Tooru Hara",
+      "role": "Executive Producer",
+      "order": 12
+    },
+    {
+      "name": "Hideaki Anno",
+      "role": "Animation",
+      "order": 13
+    },
+    {
+      "name": "Kazuyoshi Katayama",
+      "role": "Assistant Director",
+      "order": 14
+    },
+    {
+      "name": "Mitsuki Nakamura",
+      "role": "Art Direction",
+      "order": 15
+    },
+    {
+      "name": "Hiroshi Morie",
+      "role": "Associate Producer",
+      "order": 16
+    },
+    {
+      "name": "Toshio Nozaki",
+      "role": "Background Designer",
+      "order": 17
+    },
+    {
+      "name": "Michio Kondou",
+      "role": "Executive Producer",
+      "order": 18
+    },
+    {
+      "name": "Michiyo Yasuda",
+      "role": "Color Designer",
+      "order": 19
+    },
+    {
+      "name": "Kazuo Komatsubara",
+      "role": "Animation Director",
+      "order": 20
+    },
+    {
+      "name": "Kazuo Komatsubara",
+      "role": "Character Designer",
+      "order": 21
+    },
+    {
+      "name": "Takashi Tanazawa",
+      "role": "Assistant Director",
+      "order": 22
+    },
+    {
+      "name": "Fukuo Suzuki",
+      "role": "Color Designer",
+      "order": 23
+    },
+    {
+      "name": "Shouji Sakai",
+      "role": "Editor",
+      "order": 24
+    },
+    {
+      "name": "Noriyoshi Oohira",
+      "role": "Sound Effects Editor",
+      "order": 25
+    },
+    {
+      "name": "Kunio Kuwahara",
+      "role": "Sound Mixer",
+      "order": 26
+    },
+    {
+      "name": "Kazutoshi Sato",
+      "role": "Sound Effects Editor",
+      "order": 27
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG"
+    }
+  ]
+}
