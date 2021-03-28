@@ -1,0 +1,165 @@
+{
+  "id": "8fd91c5b-df9b-4932-9cdc-738dee05ce4c",
+  "budget": 0,
+  "revenue": 0,
+  "releaseYear": "1999",
+  "runTime": 104,
+  "type": "movie",
+  "languageKeys": ["ja", "en-US", "pt-BR"],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "ホーホケキョとなりの山田くん"
+    },
+    {
+      "key": "en-US",
+      "value": "My Neighbors the Yamadas"
+    },
+    {
+      "key": "pt-BR",
+      "value": "Meus Vizinhos: Os Yamadas"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "いしいひさいち原作による四コマ漫画をベースに、平凡な日本の家族像を様々なエピソードを織りまぜて、ユーモラスに描いた長篇アニメーション。監督・脚色は「平成狸合戦ぽんぽこ」の高畑勲。撮影を「もののけ姫」の奥井敦が担当している。声の出演に朝丘雪路の他、多彩な顔ぶれ。"
+    },
+    {
+      "key": "en-US",
+      "value": "The Yamadas are a typical middle class Japanese family in urban Tokyo and this film shows us a variety of episodes of their lives. With tales that range from the humourous to the heartbreaking, we see this family cope with life's little conflicts, problems and joys in their own way."
+    },
+    {
+      "key": "pt-BR",
+      "value": "O filme mostra o dia-a-dia da família Yamada, que é composta por Takashi (o pai, um trabalhador comum), Matsuko (a mãe, dona de casa), Shige (a sogra), Noboru (o filho adolescente), Nonoko (a filha criança) e Pochi (o cachorro da família). A história é dividida em quadros curtos, cada um focando algum ponto interessante do cotidiano da família, mais ou menos como se vê nas tirinhas de jornal. Trata de problemas que vemos em nossos próprios lares, como a exigência dos pais para que o filho adolescente estude mais, a mãe que não quer ser tratada como uma empregada, o pai que chega cansado demais do trabalho e tem que acordar cedo para uma reunião de negócios, o adolescente passando por crises existenciais, os pensamentos inocentes da criança... Essas coisas que conhecemos muito bem..."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Família"
+        },
+        {
+          "key": "en-US",
+          "value": "Family"
+        },
+        {
+          "key": "ja",
+          "value": "ファミリー"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Yamada Noboru",
+      "name": "Hayato Isohata",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Yamano Shige",
+      "name": "Masako Araki",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Yamada Nonoko",
+      "name": "Naomi Uno",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Yamada Takashi",
+      "name": "Tôru Masuoka",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Yamada Matsuko",
+      "name": "Yukiji Asaoka",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Fujihara Sensei",
+      "name": "Akiko Yano",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "Haiku Reader",
+      "name": "Kosanji Yanagiya",
+      "role": "Voice",
+      "order": 7
+    },
+    {
+      "characterName": "Shige's Friend",
+      "name": "Tamao Nakamura",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "Grandma Kikuchi",
+      "name": "Chôchô Miyako",
+      "role": "Voice",
+      "order": 9
+    }
+  ],
+  "crew": [
+    { "name": "Rick Dempsey", "role": "Executive Producer", "order": 0 },
+    { "name": "Isao Takahata", "role": "Director", "order": 1 },
+    { "name": "Isao Takahata", "role": "Writer", "order": 2 },
+    { "name": "Ned Lott", "role": "Producer", "order": 3 },
+    { "name": "Atsushi Okui", "role": "Director of Photography", "order": 4 },
+    { "name": "Takeshi Seyama", "role": "Editor", "order": 5 },
+    { "name": "Yasuyoshi Tokuma", "role": "Executive Producer", "order": 6 },
+    { "name": "Yōji Takeshige", "role": "Art Direction", "order": 7 },
+    { "name": "Masashi Ando", "role": "Animation", "order": 8 },
+    { "name": "Akiko Yano", "role": "Original Music Composer", "order": 9 },
+    { "name": "Seiichiro Ujiie", "role": "Producer", "order": 10 },
+    { "name": "Naoya Tanaka", "role": "Art Direction", "order": 11 },
+    { "name": "Takashi Shoji", "role": "Producer", "order": 12 },
+    { "name": "Masaaki Yuasa", "role": "Animation", "order": 13 },
+    { "name": "Eric Garcia", "role": "Adaptation", "order": 14 },
+    { "name": "Hisaichi Ishii", "role": "Writer", "order": 15 },
+    { "name": "Leo Chu", "role": "Adaptation", "order": 16 },
+    { "name": "Shinya Ohira", "role": "Animation", "order": 17 },
+    { "name": "Michiyo Yasuda", "role": "Color Designer", "order": 18 },
+    { "name": "Michael Johnson", "role": "Producer", "order": 19 }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG"
+    }
+  ]
+}
