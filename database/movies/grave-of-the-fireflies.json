@@ -1,0 +1,232 @@
+{
+  "id": "f99d01a4-273e-433c-ab28-f496bc675b8d",
+  "budget": 3700000,
+  "revenue": 0,
+  "releaseYear": "1988",
+  "runTime": 89,
+  "type": "movie",
+  "languageKeys": ["ja", "en-US", "pt-BR"],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "火垂るの墓"
+    },
+    {
+      "key": "en-US",
+      "value": "Grave of the Fireflies"
+    },
+    {
+      "key": "pt-BR",
+      "value": "Túmulo dos Vagalumes"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "昭和20年6月9日、神戸は大空襲に見舞われ、清太は心臓の悪い母を先に防空壕へ避難させ、幼い妹節子を連れて後を追う。空襲の後、避難所である学校に着いた清太だったが、そこには、全身にやけどを負い瀕死の母の姿があった。母はそのまま息を引き取り、清太は節子と共に西宮にある叔母の家に間借りするが、次第に清太たちを厄介者扱いするようになる。嫌味を言われ、ご飯も満足に食べさせてもらえない生活に耐え切れなくなった清太は、家出を決意し、節子と２人で池のほとりの横穴での生活を始める"
+    },
+    {
+      "key": "en-US",
+      "value": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive."
+    },
+    {
+      "key": "pt-BR",
+      "value": "O filme relata a história de dois irmãos, Seita e Setsuko, no período da Segunda Guerra Mundial no Japão. O pai deles é convocado para defender o país na guerra, pois faz parte da marinha japonesa e a mãe falece em um bombardeio de aviões norte-americanos. A partir daí, o filme mostra a luta pela sobrevivência das duas crianças em meio à pobreza e miséria que assola o país. Fome, doenças e a falta de generosidade e sensibilidade dos adultos faz deste percurso um dos filmes mais bonitos e comoventes sobre o trágico quadro gerado pela guerra."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Drama"
+        },
+        {
+          "key": "en-US",
+          "value": "Drama"
+        },
+        {
+          "key": "ja",
+          "value": "ドラマ"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Guerra"
+        },
+        {
+          "key": "en-US",
+          "value": "War"
+        },
+        {
+          "key": "ja",
+          "value": "戦争"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Seita",
+      "name": "Tsutomu Tatsumi",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Setsuko",
+      "name": "Ayano Shiraishi",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Mother",
+      "name": "Yoshiko Shinohara",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Aunt",
+      "name": "Akemi Yamaguchi",
+      "role": "Voice",
+      "order": 3
+    }
+  ],
+  "crew": [
+    {
+      "name": "Isao Takahata",
+      "role": "Screenplay",
+      "order": 0
+    },
+    {
+      "name": "Isao Takahata",
+      "role": "Director",
+      "order": 1
+    },
+    {
+      "name": "Takeshi Seyama",
+      "role": "Editor",
+      "order": 2
+    },
+    {
+      "name": "Tooru Hara",
+      "role": "Producer",
+      "order": 3
+    },
+    {
+      "name": "Akiyuki Nosaka",
+      "role": "Novel",
+      "order": 4
+    },
+    {
+      "name": "Michio Mamiya",
+      "role": "Original Music Composer",
+      "order": 5
+    },
+    {
+      "name": "Nobuo Koyama",
+      "role": "Director of Photography",
+      "order": 6
+    },
+    {
+      "name": "Yoshiji Kigami",
+      "role": "Key Animation",
+      "order": 7
+    },
+    {
+      "name": "Yasuo Uragami",
+      "role": "Sound Director",
+      "order": 8
+    },
+    {
+      "name": "Yoshifumi Kondou",
+      "role": "Animation Director",
+      "order": 9
+    },
+    {
+      "name": "Yoshifumi Kondou",
+      "role": "Character Designer",
+      "order": 10
+    },
+    {
+      "name": "Nizou Yamamoto",
+      "role": "Art Direction",
+      "order": 11
+    },
+    {
+      "name": "Toru Hishiyama",
+      "role": "Background Designer",
+      "order": 12
+    },
+    {
+      "name": "Katsu Hisamura",
+      "role": "Assistant Art Director",
+      "order": 13
+    },
+    {
+      "name": "Yoshiyuki Momose",
+      "role": "Layout",
+      "order": 14
+    },
+    {
+      "name": "Michihiro Itou",
+      "role": "Sound Effects",
+      "order": 15
+    },
+    {
+      "name": "Michiyo Yasuda",
+      "role": "Color Designer",
+      "order": 16
+    },
+    {
+      "name": "Kunji Tanifuji",
+      "role": "Special Effects",
+      "order": 17
+    },
+    {
+      "name": "Noriyoshi Oohira",
+      "role": "Sound Effects",
+      "order": 18
+    },
+    {
+      "name": "Hisanori Ooshiro",
+      "role": "Sound Mixer",
+      "order": 19
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "12"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "NR"
+    }
+  ]
+}
