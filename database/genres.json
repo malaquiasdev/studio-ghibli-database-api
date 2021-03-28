@@ -152,6 +152,23 @@
           "value": "ロマンス"
         }
       ]
+    },
+    {
+      "id": 10,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Ação"
+        },
+        {
+          "key": "en-US",
+          "value": "Action"
+        },
+        {
+          "key": "ja",
+          "value": "アクション"
+        }
+      ]
     }
   ]
 }
