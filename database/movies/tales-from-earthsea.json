@@ -1,0 +1,342 @@
+{
+  "id": "f5398580-18b7-45ca-9d47-582cc9f8db4c",
+  "budget": 22000000,
+  "revenue": 68625104,
+  "releaseYear": "2006",
+  "runTime": 115,
+  "type": "movie",
+  "languageKeys": [
+    "ja",
+    "en-US",
+    "pt-BR"
+  ],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "ゲド戦記"
+    },
+    {
+      "key": "en-US",
+      "value": "Tales from Earthsea"
+    },
+    {
+      "key": "pt-BR",
+      "value": "Contos de Terramar"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "多島海世界“アースシー”で、異変が起きていた。竜が人間界に現れて突然共食いをはじめ、すべてのモノの名前を把握しているはずの魔法使いがその名前を忘れ、魔法の力を失ってしまったのだ。エンラッドという王国では、狂気に駆られた王子のアレンが王である父親を刺し、王の剣を奪って国を脱出。偶然砂漠でアレンと出会った“大賢人”ゲド、通称ハイタカは、彼と共に都城“ホート・タウン”へ向かうことになった。しかし、かつては美しい街だった“ホート・タウン”も、麻薬や人買いが横行する荒んだ街に成り果てていた。アレンは街角で人狩りのウサギに襲われそうになっていた少女・テルーを助けるが逆に自分が捕まり、奴隷として売り払われそうになってしまう。再びアレンを救い出したハイタカは、ある国で巫女を務めていた女性・テナーの家に彼を連れて行き、一緒に生活することを決める。"
+    },
+    {
+      "key": "en-US",
+      "value": "Something bizarre has come over the land. The kingdom is deteriorating. People are beginning to act strange... What's even more strange is that people are beginning to see dragons, which shouldn't enter the world of humans. Due to all these bizarre events, Ged, a wandering wizard, is investigating the cause. During his journey, he meets Prince Arren, a young distraught teenage boy. While Arren may look like a shy young teen, he has a severe dark side, which grants him strength, hatred, ruthlessness and has no mercy, especially when it comes to protecting Teru. For the witch Kumo this is a perfect opportunity. She can use the boy's \"fears\" against the very one who would help him, Ged."
+    },
+    {
+      "key": "pt-BR",
+      "value": "Em meio a uma tempestade marítima, os tripulantes de um barco não conseguem controlar o vento e o mar. Enquanto isso, dois dragões saem das nuvens escuras devorando um ao outro. Estes estranhos incidentes levam o mago Ged a investigar o que estaria afetando o equilíbrio das coisas. Em sua jornada, ele encontra o príncipe Arren, que se diz perseguido por uma sombra. Os dois seguem viagem juntos. Por onde passam, encontram sinais de que algo vai mal no mundo."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Fantasia"
+        },
+        {
+          "key": "en-US",
+          "value": "Fantasy"
+        },
+        {
+          "key": "ja",
+          "value": "ファンタジー"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Aventura"
+        },
+        {
+          "key": "en-US",
+          "value": "Adventure"
+        },
+        {
+          "key": "ja",
+          "value": "アドベンチャー"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Arren",
+      "name": "Junichi Okada",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Theru",
+      "name": "Aoi Teshima",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Haitaka",
+      "name": "Bunta Sugawara",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Cob",
+      "name": "Yūko Tanaka",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Hare",
+      "name": "Teruyuki Kagawa",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Tenar",
+      "name": "Jun Fubuki",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Hazia Dealer",
+      "name": "Takashi Naitō",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "The Mistress",
+      "name": "Mitsuko Baisho",
+      "role": "Voice",
+      "order": 7
+    },
+    {
+      "characterName": "The Queen",
+      "name": "Yui Natsukawa",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "The King",
+      "name": "Kaoru Kobayashi",
+      "role": "Voice",
+      "order": 9
+    }
+  ],
+  "crew": [
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 0
+    },
+    {
+      "name": "Takeshi Seyama",
+      "role": "Editor",
+      "order": 1
+    },
+    {
+      "name": "Yōji Takeshige",
+      "role": "Art Direction",
+      "order": 2
+    },
+    {
+      "name": "Takeshi Imamura",
+      "role": "Animation Director",
+      "order": 3
+    },
+    {
+      "name": "Gorō Miyazaki",
+      "role": "Screenplay",
+      "order": 4
+    },
+    {
+      "name": "Gorō Miyazaki",
+      "role": "Director",
+      "order": 5
+    },
+    {
+      "name": "Gorō Miyazaki",
+      "role": "Storyboard Artist",
+      "order": 6
+    },
+    {
+      "name": "Ursula K. Le Guin",
+      "role": "Novel",
+      "order": 7
+    },
+    {
+      "name": "Keiko Niwa",
+      "role": "Screenplay",
+      "order": 8
+    },
+    {
+      "name": "Tomohiko Ishii",
+      "role": "Producer",
+      "order": 9
+    },
+    {
+      "name": "Naoya Fujimaki",
+      "role": "Production Manager",
+      "order": 10
+    },
+    {
+      "name": "Ryoichi Fukuyama",
+      "role": "Production Manager",
+      "order": 11
+    },
+    {
+      "name": "Seiji Okuda",
+      "role": "Production Manager",
+      "order": 12
+    },
+    {
+      "name": "Toshihiko Masuda",
+      "role": "Key Animation",
+      "order": 13
+    },
+    {
+      "name": "Tamiya Terashima",
+      "role": "Original Music Composer",
+      "order": 14
+    },
+    {
+      "name": "Shuji Inoue",
+      "role": "Sound mixer",
+      "order": 15
+    },
+    {
+      "name": "Koji Kasamatsu",
+      "role": "Sound Effects Editor",
+      "order": 16
+    },
+    {
+      "name": "Koji Kasamatsu",
+      "role": "Sound Effects",
+      "order": 17
+    },
+    {
+      "name": "Tsukuru Takagi",
+      "role": "Sound Recordist",
+      "order": 18
+    },
+    {
+      "name": "Kazuhiro Wakabayashi",
+      "role": "Recording Supervision",
+      "order": 19
+    },
+    {
+      "name": "Aoi Teshima",
+      "role": "Theme Song Performance",
+      "order": 20
+    },
+    {
+      "name": "Mikio Mori",
+      "role": "Dolby Consultant",
+      "order": 21
+    },
+    {
+      "name": "Akihiko Yamashita",
+      "role": "Assistant Director",
+      "order": 22
+    },
+    {
+      "name": "Kenji Hachizaki",
+      "role": "Key Animation",
+      "order": 23
+    },
+    {
+      "name": "Takeshi Honda",
+      "role": "Key Animation",
+      "order": 24
+    },
+    {
+      "name": "Atsuko Tanaka",
+      "role": "Key Animation",
+      "order": 25
+    },
+    {
+      "name": "Michiyo Yasuda",
+      "role": "Color Designer",
+      "order": 26
+    },
+    {
+      "name": "Masatsugu Shinozaki",
+      "role": "Musician",
+      "order": 27
+    },
+    {
+      "name": "Chikako Takahashi",
+      "role": "Conductor",
+      "order": 28
+    },
+    {
+      "name": "Shinji Hashimoto",
+      "role": "Key Animation",
+      "order": 29
+    },
+    {
+      "name": "Akio Ichimura",
+      "role": "Production Manager",
+      "order": 30
+    },
+    {
+      "name": "Atsushi Tamura",
+      "role": "Cinematography",
+      "order": 31
+    },
+    {
+      "name": "Hidenori Shibahara",
+      "role": "Cinematography",
+      "order": 32
+    },
+    {
+      "name": "Junji Yabuta",
+      "role": "Cinematography",
+      "order": 33
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "12"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG-13"
+    }
+  ]
+}
