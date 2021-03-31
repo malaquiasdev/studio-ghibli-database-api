@@ -11,8 +11,7 @@
 
 This is an unofficial api. We are made by fan for fan.
 
-To know more about us please go to our [Wiki page](https://github.com/malaquiasdev/studio-ghibli-database-graphql/wiki/01.Introduction
-).
+To know more about us please go to our [Wiki page](https://github.com/malaquiasdev/ghiblidb-graphql/wiki).
 
 ## API Terms of Use
 
@@ -41,8 +40,8 @@ Before you begin, ensure you have met the following requirements:
 - AWS DynamoDB
 
 ## Installing
-1. Clone this repository. `$ git clone https://github.com/malaquiasdev/studio-ghibli-database-graphql.git`
-2. Go to the project folder. `$ cd studio-ghibli-database-graphql`
+1. Clone this repository. `$ git clone https://github.com/malaquiasdev/ghiblidb-graphql.git`
+2. Go to the project folder. `$ cd ghiblidb-graphql`
 3. Copy the **.env.example** file and create an **.env** file with your AWS Credentials.
 
 ## Execute with yarn
@@ -75,4 +74,4 @@ If you want to contact me you can reach me at <mateusmalaquiasdev@outlook.com>.
 
 ## License
 
-This project uses the following license: [MIT](https://github.com/malaquiasdev/studio-ghibli-database-graphql/blob/master/LICENSE).
+This project uses the following license: [MIT](https://github.com/malaquiasdev/ghiblidb-graphql/blob/master/LICENSE).
