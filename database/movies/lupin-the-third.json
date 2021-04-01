@@ -1,0 +1,481 @@
+{
+  "id": "565ff83d-807a-4635-b1da-89f3871fecd9",
+  "budget": 7202188,
+  "revenue": 8194857,
+  "releaseYear": "1979",
+  "runTime": 102,
+  "type": "movie",
+  "languageKeys": [
+    "ja",
+    "en-US",
+    "pt-BR"
+  ],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "ルパン三世 カリオストロの城"
+    },
+    {
+      "key": "en-US",
+      "value": "Lupin the Third: The Castle of Cagliostro"
+    },
+    {
+      "key": "pt-BR",
+      "value": "Lupin III: O Castelo de Cagliostro"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "ヨーロッパの小国カリオストロ公国。ニセ札の噂が絶えないこの国へやって来たルパンは、悪漢に追われるひとりの少女クラリスを助けるが、彼女は再び連れ去られてしまう。実はカリオストロ公国・大公家のひとり娘であったクラリスは、強引に結婚を迫るカリオストロ伯爵によって城に幽閉されていたのだ。ルパンは既に城内に忍び込んでいた不二子の手引きで城に潜入するのだが…。"
+    },
+    {
+      "key": "en-US",
+      "value": "After a successful robbery leaves famed thief Lupin the Third and his partner Jigen with nothing but a large amount of expertly crafted counterfeit bills, he decides to track down the forgers responsible—and steal any other treasures he may find in the Castle of Cagliostro, including the 'damsel in distress' he finds imprisoned there."
+    },
+    {
+      "key": "pt-BR",
+      "value": "Lupan é um ladrão famoso e, após um roubo bem sucedido, percebe que foi enganado e roubou notas falsas. Disposto a encontrar a origem do dinheiro falso, ele descobre que o dinheiro vem de um país distante e esquecido, já famoso pela fabricação de dinheiro falso no mundo todo e encontra Clarisse, a herdeira da Família Real de Cagliostro. Clarisse está em perigo devido ao segredo que sua família esconde."
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Família"
+        },
+        {
+          "key": "en-US",
+          "value": "Family"
+        },
+        {
+          "key": "ja",
+          "value": "ファミリー"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Aventura"
+        },
+        {
+          "key": "en-US",
+          "value": "Adventure"
+        },
+        {
+          "key": "ja",
+          "value": "アドベンチャー"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Comédia"
+        },
+        {
+          "key": "en-US",
+          "value": "Comedy"
+        },
+        {
+          "key": "ja",
+          "value": "コメディ"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Crime"
+        },
+        {
+          "key": "en-US",
+          "value": "Crime"
+        },
+        {
+          "key": "ja",
+          "value": "犯罪"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Arsene Lupin III",
+      "name": "Yasuo Yamada",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Fujiko Mine",
+      "name": "Eiko Masuyama",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Daisuke Jigen",
+      "name": "Kiyoshi Kobayashi",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Inspector Zenigata",
+      "name": "Gorō Naya",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Lady Clarisse de Cagliostro",
+      "name": "Sumi Shimamoto",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Count Cagliostro",
+      "name": "Taro Ishida",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "Japanese Delegate",
+      "name": "Akio Nojima",
+      "role": "Voice",
+      "order": 7
+    },
+    {
+      "characterName": "Archbishop's Driver",
+      "name": "Eken Mine",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "Jodo",
+      "name": "Ichirō Nagai",
+      "role": "Voice",
+      "order": 9
+    },
+    {
+      "characterName": "Soviet Delegate",
+      "name": "Junkichi Yarita",
+      "role": "Voice",
+      "order": 10
+    },
+    {
+      "characterName": "Archbishop",
+      "name": "Kinpei Azusa",
+      "role": "Voice",
+      "order": 11
+    },
+    {
+      "characterName": "Gardener",
+      "name": "Kōhei Miyauchi",
+      "role": "Voice",
+      "order": 12
+    },
+    {
+      "characterName": "German Delegate",
+      "name": "Mikio Terashima",
+      "role": "Voice",
+      "order": 14
+    },
+    {
+      "characterName": "Servant",
+      "name": "Minoru Midorikawa",
+      "role": "Voice",
+      "order": 15
+    },
+    {
+      "characterName": "British Delegate",
+      "name": "Osamu Saka",
+      "role": "Voice",
+      "order": 16
+    },
+    {
+      "characterName": "Saitama Riot Police Captain",
+      "name": "Shigeharu Matsuda",
+      "role": "Voice",
+      "order": 17
+    },
+    {
+      "characterName": "Interpol Chief",
+      "name": "Shozo Hirabayashi",
+      "role": "Voice",
+      "order": 18
+    },
+    {
+      "characterName": "Gustav",
+      "name": "Tadamichi Tsuneizumi",
+      "role": "Voice",
+      "order": 19
+    },
+    {
+      "characterName": "Waitress",
+      "name": "Yoko Yamaoka",
+      "role": "Voice",
+      "order": 20
+    },
+    {
+      "characterName": "Goemon Ishikawa XIII",
+      "name": "Makio Inoue",
+      "role": "Voice",
+      "order": 25
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Screenplay",
+      "order": 0
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Director",
+      "order": 1
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Storyboard Designer",
+      "order": 2
+    },
+    {
+      "name": "Hiromasa Ogura",
+      "role": "Background Designer",
+      "order": 3
+    },
+    {
+      "name": "Maurice Leblanc",
+      "role": "Characters",
+      "order": 4
+    },
+    {
+      "name": "Tetsuo Katayama",
+      "role": "Producer",
+      "order": 5
+    },
+    {
+      "name": "Yutaka Fujioka",
+      "role": "Executive Producer",
+      "order": 6
+    },
+    {
+      "name": "Haruya Yamazaki",
+      "role": "Screenplay",
+      "order": 7
+    },
+    {
+      "name": "Kazuhiko Katō",
+      "role": "Novel",
+      "order": 8
+    },
+    {
+      "name": "Masatoshi Tsurubuchi",
+      "role": "Editor",
+      "order": 9
+    },
+    {
+      "name": "Yūji Ōno",
+      "role": "Original Music Composer",
+      "order": 10
+    },
+    {
+      "name": "Hirokata Takahashi",
+      "role": "Director of Photography",
+      "order": 11
+    },
+    {
+      "name": "Shichirō Kobayashi",
+      "role": "Art Direction",
+      "order": 12
+    },
+    {
+      "name": "Shigetsugu Yoshida",
+      "role": "Assistant Director",
+      "order": 13
+    },
+    {
+      "name": "Hiroko Kondô",
+      "role": "Color Designer",
+      "order": 14
+    },
+    {
+      "name": "Tsutomu Ishigaki",
+      "role": "Background Designer",
+      "order": 15
+    },
+    {
+      "name": "Shizuo Kurahashi",
+      "role": "Sound Effects Editor",
+      "order": 16
+    },
+    {
+      "name": "Yûko Fujie",
+      "role": "Background Designer",
+      "order": 17
+    },
+    {
+      "name": "Hiroshi Ohno",
+      "role": "Background Designer",
+      "order": 18
+    },
+    {
+      "name": "Yasuo Ōtsuka",
+      "role": "Animation Director",
+      "order": 19
+    },
+    {
+      "name": "Yasuo Ōtsuka",
+      "role": "Character Designer",
+      "order": 20
+    },
+    {
+      "name": "Nizou Yamamoto",
+      "role": "Background Designer",
+      "order": 21
+    },
+    {
+      "name": "Nobuo Tomizawa",
+      "role": "Key Animation",
+      "order": 22
+    },
+    {
+      "name": "Satoshi Matsuoka",
+      "role": "Background Designer",
+      "order": 23
+    },
+    {
+      "name": "Kazuhide Tomonaga",
+      "role": "Key Animation",
+      "order": 24
+    },
+    {
+      "name": "Katsushi Aoki",
+      "role": "Background Designer",
+      "order": 25
+    },
+    {
+      "name": "Toshiharu Mizutani",
+      "role": "Background Designer",
+      "order": 26
+    },
+    {
+      "name": "Atsuko Tanaka",
+      "role": "Key Animation",
+      "order": 27
+    },
+    {
+      "name": "Masako Shinohara",
+      "role": "Key Animation",
+      "order": 28
+    },
+    {
+      "name": "Tsukasa Tannai",
+      "role": "Key Animation",
+      "order": 29
+    },
+    {
+      "name": "Satoshi Kato",
+      "role": "Sound Recordist",
+      "order": 30
+    },
+    {
+      "name": "Seiji Suzuki",
+      "role": "Music Coordinator",
+      "order": 31
+    },
+    {
+      "name": "Kazuko Takahashi",
+      "role": "Negative Cutter",
+      "order": 32
+    },
+    {
+      "name": "Miyuki Kudo",
+      "role": "Background Designer",
+      "order": 33
+    },
+    {
+      "name": "Nobumasa Shinkawa",
+      "role": "Key Animation",
+      "order": 34
+    },
+    {
+      "name": "Hideo Kawauchi",
+      "role": "Key Animation",
+      "order": 35
+    },
+    {
+      "name": "Hideyasu Iizuka",
+      "role": "Sound Mixer",
+      "order": 36
+    },
+    {
+      "name": "Takayasu Fujii",
+      "role": "Title Designer",
+      "order": 37
+    },
+    {
+      "name": "Jôji Manabe",
+      "role": "Key Animation",
+      "order": 38
+    },
+    {
+      "name": "Koichi Maruyama",
+      "role": "Key Animation",
+      "order": 39
+    },
+    {
+      "name": "Toshio Yamauchi",
+      "role": "Key Animation",
+      "order": 40
+    },
+    {
+      "name": "Yumiko Hayashi",
+      "role": "Background Designer",
+      "order": 41
+    },
+    {
+      "name": "Jinzaburo Kaiho",
+      "role": "Background Designer",
+      "order": 42
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "12"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG"
+    }
+  ]
+}
