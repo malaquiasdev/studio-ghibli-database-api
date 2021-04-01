@@ -1,0 +1,258 @@
+{
+  "id": "c2b52a17-5ea6-4932-abd9-d03bff17c836",
+  "budget": 0,
+  "revenue": 0,
+  "releaseYear": "2021",
+  "runTime": 82,
+  "type": "movie",
+  "languageKeys": [
+    "ja",
+    "en-US",
+    "pt-BR"
+  ],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "アーヤと魔女"
+    },
+    {
+      "key": "en-US",
+      "value": "Earwig and the Witch"
+    },
+    {
+      "key": "pt-BR",
+      "value": "Aya e a Bruxa"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "舞台は、1990年代のイギリス。\r 主人公は10歳の少女、アーヤ。赤ん坊の頃から孤児として育ったアーヤは、誰もが自分の思いどおりにしてくれる孤児院での生活がとても快適だった。\r だから、誰かに貰われたいなんて、一度だって思ったことが無かった。\r ところがある日、突然やってきた変てこな二人組、派手な女と長身の男に引き取られることになってしまう。"
+    },
+    {
+      "key": "en-US",
+      "value": "A headstrong orphan discovers a world of spells and potions while living with a selfish witch."
+    },
+    {
+      "key": "pt-BR",
+      "value": "Earwig vive em um orfanato – e até gosta disso, até ser adotada por uma bruxa e ser levada para uma casa assombrada. Entretanto, em vez de ficar horrorizada, a esperta garota se mostra determinada em se transformar a mestra de sua nova situação."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Fantasia"
+        },
+        {
+          "key": "en-US",
+          "value": "Fantasy"
+        },
+        {
+          "key": "ja",
+          "value": "ファンタジー"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Família"
+        },
+        {
+          "key": "en-US",
+          "value": "Family"
+        },
+        {
+          "key": "ja",
+          "value": "ファミリー"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Āya",
+      "name": "Kokoro Hirasawa",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Bella Yaga",
+      "name": "Shinobu Terajima",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Thomas",
+      "name": "Gaku Hamada",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Āya's Mother",
+      "name": "Sherina Munaf",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "The Mandrake",
+      "name": "Etsushi Toyokawa",
+      "role": "Voice",
+      "order": 4
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Story Developer",
+      "order": 0
+    },
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 1
+    },
+    {
+      "name": "Gorō Miyazaki",
+      "role": "Screenplay",
+      "order": 2
+    },
+    {
+      "name": "Gorō Miyazaki",
+      "role": "Director",
+      "order": 3
+    },
+    {
+      "name": "Keiko Niwa",
+      "role": "Writer",
+      "order": 4
+    },
+    {
+      "name": "Diana Wynne Jones",
+      "role": "Novel",
+      "order": 5
+    },
+    {
+      "name": "Koji Hoshino",
+      "role": "Executive Producer",
+      "order": 6
+    },
+    {
+      "name": "Katsuya Kondo",
+      "role": "Character Designer",
+      "order": 7
+    },
+    {
+      "name": "Koji Kasamatsu",
+      "role": "Sound Director",
+      "order": 8
+    },
+    {
+      "name": "Sherina Munaf",
+      "role": "Vocals",
+      "order": 9
+    },
+    {
+      "name": "SHISHIDO KAVKA",
+      "role": "Musician",
+      "order": 10
+    },
+    {
+      "name": "Satoshi Takebe",
+      "role": "Original Music Composer",
+      "order": 11
+    },
+    {
+      "name": "Satoshi Takebe",
+      "role": "Keyboard Programmer",
+      "order": 12
+    },
+    {
+      "name": "Eriko Kimura",
+      "role": "Recording Supervision",
+      "order": 13
+    },
+    {
+      "name": "Yukinori Nakamura",
+      "role": "CG Supervisor",
+      "order": 14
+    },
+    {
+      "name": "Isao Yoshikuni",
+      "role": "Executive Producer",
+      "order": 15
+    },
+    {
+      "name": "Emi Gunji",
+      "role": "Writer",
+      "order": 16
+    },
+    {
+      "name": "Yuhki Takeuchi",
+      "role": "Background Designer",
+      "order": 17
+    },
+    {
+      "name": "Keisuke Tsuchihashi",
+      "role": "Executive Producer",
+      "order": 18
+    },
+    {
+      "name": "Hiroki Kamemoto",
+      "role": "Musician",
+      "order": 19
+    },
+    {
+      "name": "Kiyokazu Takano",
+      "role": "Musician",
+      "order": 20
+    },
+    {
+      "name": "Tan Seri",
+      "role": "Animation Director",
+      "order": 21
+    },
+    {
+      "name": "Miho Satake",
+      "role": "Characters",
+      "order": 22
+    },
+    {
+      "name": "Miho Satake",
+      "role": "Scenario Writer",
+      "order": 23
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG"
+    }
+  ]
+}
