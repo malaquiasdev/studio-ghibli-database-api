@@ -1,0 +1,216 @@
+{
+  "id": "3525aa4d-8af7-4aef-9935-ab25d3779400",
+  "budget": 0,
+  "revenue": 0,
+  "releaseYear": "1968",
+  "runTime": 82,
+  "type": "movie",
+  "languageKeys": [
+    "ja",
+    "en-US",
+    "pt-BR"
+  ],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "太陽の王子 ホルスの大冒険"
+    },
+    {
+      "key": "en-US",
+      "value": "Horus: Prince of the Sun"
+    },
+    {
+      "key": "pt-BR",
+      "value": "Taiyou no Ouji: Horus no Daibouken"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "海辺に父と二人で住むホルスは、岩男のモーグの肩に刺さっていた二本の剣を手に入れた。 その剣は太陽の剣と呼ばれる名剣で、その剣を鍛え上げ、使いこなせるようになった時、ホルスは太陽の王子 とよばようとモーグは言う。 父を失ったホルスは、一切合切を焼くと、父の遺言に従い人々のいる北の村に向かってコロとともに舟出した 。再びこの地に帰ることはない。 途中ホルスは悪魔グルンワルドに弟になれと誘われるが断って、崖から落とされてしまう。ホルスは 倒れたまま流氷にのって村に流れ着いた。ホルスは村の一員として受入れられるかに思えたが、グルンワルドのたくらみで村に送り込まれた一人の 少女ヒルダのために、村人達の不信を買い、とうとう村を追い出されてしまう。悪魔が勝つかに見えた。 しかしヒルダの心の奥底には、密かに人間らしさへの憧れが兆していた。悪魔の攻撃が始まった。ホルスは 人々を励まし、力をあわせて太陽の剣を鍛え上げ、ついに悪魔を倒した。ヒルダも仲間に受け入れられる。"
+    },
+    {
+      "key": "en-US",
+      "value": "Horus, a kid living in an unnamed Scandinavian/Eastern Europe culture of the Iron Age, recovers the Sword of the Sun from the rock giant Maug and learns from his dying father that he must return to his ancestral territory. In the process, he defends a village from the attacks of Grunwald, a warlord/ice demon and befriends the enigmatic Hilda, a lonely and beautiful girl who sings haunting songs (and who hides a terrible secret)."
+    },
+    {
+      "key": "pt-BR",
+      "value": "Situado na Idade do Ferro na Escandinávia, o filme abre com a Hórus lutando contra uma matilha de lobos cinzentos, e acidentalmente acorda um gigante de pedra antigo, chamado Mogue. Hórus consegue puxar um \"espinho\" do ombro do gigante, que parece ser uma espada enferrujada e antiga. O gigante proclama ser esta a \"Espada do Sol\", dizendo também que quando a espada for devidamente reforjada, ele virá para Hórus, que será então chamado o \"Principe do Sol\". O pai de Hórus, no leito de morte, revela que a família veio de uma aldeia costeira do norte, que foi devastada pelo perverso bruxo Grunwald, deixando-os como únicos sobreviventes. Antes de morrer, o pai de Hórus incumbe o filho a regressar à sua terra natal e vingar-se da vila."
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Aventura"
+        },
+        {
+          "key": "en-US",
+          "value": "Adventure"
+        },
+        {
+          "key": "ja",
+          "value": "アドベンチャー"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Drama"
+        },
+        {
+          "key": "en-US",
+          "value": "Drama"
+        },
+        {
+          "key": "ja",
+          "value": "ドラマ"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Fantasia"
+        },
+        {
+          "key": "en-US",
+          "value": "Fantasy"
+        },
+        {
+          "key": "ja",
+          "value": "ファンタジー"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Coro the Bear",
+      "name": "Yukari Asai",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Grunwald the Demon of Ice",
+      "name": "Mikijiro Hira",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Hilda",
+      "name": "Etsuko Ichihara",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Village Leader",
+      "name": "Masao Mishima",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Hols",
+      "name": "Hisako Ookata",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Ganko",
+      "name": "Eijirō Tōno",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "Paul / Moog the Rock Giant",
+      "name": "Tadashi Yokouchi",
+      "role": "Voice",
+      "order": 10
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Animation",
+      "order": 0
+    },
+    {
+      "name": "Isao Takahata",
+      "role": "Director",
+      "order": 1
+    },
+    {
+      "name": "Michio Mamiya",
+      "role": "Original Music Composer",
+      "order": 2
+    },
+    {
+      "name": "Yasuo Ōtsuka",
+      "role": "Animation Director",
+      "order": 3
+    },
+    {
+      "name": "Hiroshi Ookawa",
+      "role": "Executive Producer",
+      "order": 4
+    },
+    {
+      "name": "Kazuo Fukazawa",
+      "role": "Writer",
+      "order": 5
+    },
+    {
+      "name": "Jiro Yoshimura",
+      "role": "Cinematography",
+      "order": 6
+    },
+    {
+      "name": "Mataji Urata",
+      "role": "Art Direction",
+      "order": 7
+    },
+    {
+      "name": "Masajirô Seki",
+      "role": "Idea",
+      "order": 8
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "G"
+    }
+  ]
+}
