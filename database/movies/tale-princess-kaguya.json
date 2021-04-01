@@ -1,0 +1,955 @@
+{
+  "id": "47ef462c-9561-408e-84fe-24a780800ff3",
+  "budget": 49300000,
+  "revenue": 24186232,
+  "releaseYear": "2013",
+  "runTime": 137,
+  "type": "movie",
+  "languageKeys": [
+    "ja",
+    "en-US",
+    "pt-BR"
+  ],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "かぐや姫の物語"
+    },
+    {
+      "key": "en-US",
+      "value": "The Tale of the Princess Kaguya"
+    },
+    {
+      "key": "pt-BR",
+      "value": "O Conto da Princesa Kaguya"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "今は昔、竹取の翁が見つけた光り輝く竹の中からかわいらしい女の子が現れ、翁は媼と共に大切に育てることに。女の子は瞬く間に美しい娘に成長しかぐや姫と名付けられ、うわさを聞き付けた男たちが求婚してくるようになる。彼らに無理難題を突き付け次々と振ったかぐや姫は、やがて月を見ては物思いにふけるようになり……。"
+    },
+    {
+      "key": "en-US",
+      "value": "Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthralls all who encounter her - but ultimately she must confront her fate, the punishment for her crime."
+    },
+    {
+      "key": "pt-BR",
+      "value": "Esta animação é baseada no conto popular japonês “O Corte do Bambu”. Kaguya era um minúsculo bebê quando foi encontrada dentro de um tronco de bambu brilhante. Passado o tempo, ela se transforma em uma bela jovem que passa a ser cobiçada por cinco nobres, dentre eles, o próprio Imperador. Mas nenhum deles é o que ela realmente quer. A moça envia seus pretendentes em tarefas aparentemente impossíveis para tentar evitar o casamento com um estranho que não ama. Mas Kaguya terá que enfrentar seu destino e punição por suas escolhas."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Drama"
+        },
+        {
+          "key": "en-US",
+          "value": "Drama"
+        },
+        {
+          "key": "ja",
+          "value": "ドラマ"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Fantasia"
+        },
+        {
+          "key": "en-US",
+          "value": "Fantasy"
+        },
+        {
+          "key": "ja",
+          "value": "ファンタジー"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Princess Kaguya",
+      "name": "Aki Asakura",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Sutemaru",
+      "name": "Kengo Kora",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "The Bamboo Cutter's Wife",
+      "name": "Nobuko Miyamoto",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Lady Sagami",
+      "name": "Atsuko Takahata",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Menowarawa",
+      "name": "Tomoko Tabata",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "The Minister of Culture",
+      "name": "Hidetoshi Nishijima",
+      "role": "Voice",
+      "order": 14
+    },
+    {
+      "characterName": "Ishitsukuri no Miko",
+      "name": "Takaya Kamikawa",
+      "role": "Voice",
+      "order": 29
+    },
+    {
+      "characterName": "Sumiyaki no Roujin",
+      "name": "Tatsuya Nakadai",
+      "role": "Voice",
+      "order": 30
+    },
+    {
+      "characterName": "Mikado",
+      "name": "Shichinosuke Nakamura",
+      "role": "Voice",
+      "order": 31
+    },
+    {
+      "characterName": "Okina",
+      "name": "Takeo Chii",
+      "role": "Voice",
+      "order": 32
+    },
+    {
+      "characterName": "Kitanokata",
+      "name": "Yukiji Asaoka",
+      "role": "Voice",
+      "order": 33
+    },
+    {
+      "characterName": "Kuramochi no Miko",
+      "name": "Isao Hashizume",
+      "role": "Voice",
+      "order": 34
+    },
+    {
+      "characterName": "Abe no Udaijin",
+      "name": "Hikaru Ijûin",
+      "role": "Voice",
+      "order": 35
+    },
+    {
+      "characterName": "Ootomo no Dainagon",
+      "name": "Ryûdô Uzaki",
+      "role": "Voice",
+      "order": 36
+    },
+    {
+      "characterName": "Middle Counselor Isonokami",
+      "name": "Tamaki Kojo",
+      "role": "Voice",
+      "order": 37
+    },
+    {
+      "characterName": "Okina / Additional Dialogue",
+      "name": "Yuji Miyake",
+      "role": "Voice",
+      "order": 38
+    },
+    {
+      "characterName": "Young Kaguya",
+      "name": "Mirai Uchida",
+      "role": "Voice",
+      "order": 39
+    },
+    {
+      "characterName": "aristocrat",
+      "name": "Hiroyuki Yamamoto",
+      "role": "Voice",
+      "order": 40
+    }
+  ],
+  "crew": [
+    {
+      "name": "Isao Takahata",
+      "role": "Screenplay",
+      "order": 0
+    },
+    {
+      "name": "Isao Takahata",
+      "role": "Director",
+      "order": 1
+    },
+    {
+      "name": "Isao Takahata",
+      "role": "Story",
+      "order": 2
+    },
+    {
+      "name": "Joe Hisaishi",
+      "role": "Original Music Composer",
+      "order": 3
+    },
+    {
+      "name": "Frank Marshall",
+      "role": "Executive Producer",
+      "order": 4
+    },
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 5
+    },
+    {
+      "name": "Atsushi Okui",
+      "role": "Animation",
+      "order": 6
+    },
+    {
+      "name": "Kuniyuki Ishii",
+      "role": "Animation",
+      "order": 7
+    },
+    {
+      "name": "Masashi Ando",
+      "role": "Animation",
+      "order": 8
+    },
+    {
+      "name": "Holly Dorff",
+      "role": "ADR Voice Casting",
+      "order": 9
+    },
+    {
+      "name": "Koji Hoshino",
+      "role": "Executive Producer",
+      "order": 10
+    },
+    {
+      "name": "Takashi Kawaguchi",
+      "role": "Animation",
+      "order": 11
+    },
+    {
+      "name": "Hiroyuki Morita",
+      "role": "Animation",
+      "order": 12
+    },
+    {
+      "name": "Seiichiro Ujiie",
+      "role": "Producer",
+      "order": 13
+    },
+    {
+      "name": "Keisuke Nakamura",
+      "role": "Director of Photography",
+      "order": 14
+    },
+    {
+      "name": "Kumiko Kawana",
+      "role": "Animation",
+      "order": 15
+    },
+    {
+      "name": "Kazuo Oga",
+      "role": "Art Direction",
+      "order": 16
+    },
+    {
+      "name": "Kazumi Kobayashi",
+      "role": "Public Relations",
+      "order": 17
+    },
+    {
+      "name": "Jamie Simone",
+      "role": "ADR Supervisor",
+      "order": 18
+    },
+    {
+      "name": "Geoffrey Wexler",
+      "role": "Producer",
+      "order": 19
+    },
+    {
+      "name": "Riko Sakaguchi",
+      "role": "Screenplay",
+      "order": 20
+    },
+    {
+      "name": "Toshihiko Kojima",
+      "role": "Editor",
+      "order": 21
+    },
+    {
+      "name": "Yoshiaki Nishimura",
+      "role": "Producer",
+      "order": 22
+    },
+    {
+      "name": "Mark Ettel",
+      "role": "Sound Re-Recording Mixer",
+      "order": 23
+    },
+    {
+      "name": "Takashi Saito",
+      "role": "Animation",
+      "order": 24
+    },
+    {
+      "name": "Pierre Brouard",
+      "role": "Dialogue Editor",
+      "order": 25
+    },
+    {
+      "name": "Shôgo Furuya",
+      "role": "Animation",
+      "order": 26
+    },
+    {
+      "name": "Hideki Hamazu",
+      "role": "Animation",
+      "order": 27
+    },
+    {
+      "name": "Shunsuke Hirota",
+      "role": "Animation",
+      "order": 28
+    },
+    {
+      "name": "Megumi Kagawa",
+      "role": "Animation",
+      "order": 29
+    },
+    {
+      "name": "Shinji Otsuka",
+      "role": "Animation",
+      "order": 30
+    },
+    {
+      "name": "Toshio Kawaguchi",
+      "role": "Animation",
+      "order": 31
+    },
+    {
+      "name": "Ken'ichi Konishi",
+      "role": "Animation Director",
+      "order": 32
+    },
+    {
+      "name": "Masaya Saitō",
+      "role": "Modeling",
+      "order": 33
+    },
+    {
+      "name": "Shinsaku Sasaki",
+      "role": "Storyboard Assistant",
+      "order": 34
+    },
+    {
+      "name": "Norio Matsumoto",
+      "role": "Animation",
+      "order": 35
+    },
+    {
+      "name": "Emiko Okui",
+      "role": "Animation",
+      "order": 36
+    },
+    {
+      "name": "Yumi Fujiwara",
+      "role": "Animation",
+      "order": 37
+    },
+    {
+      "name": "Satomi Hatano",
+      "role": "Animation",
+      "order": 38
+    },
+    {
+      "name": "Osamu Tanabe",
+      "role": "Character Designer",
+      "order": 39
+    },
+    {
+      "name": "Daizen Komatsuda",
+      "role": "Animation",
+      "order": 40
+    },
+    {
+      "name": "Joshua Jason",
+      "role": "Publicist",
+      "order": 41
+    },
+    {
+      "name": "Kazutaka Ozaki",
+      "role": "Animation",
+      "order": 42
+    },
+    {
+      "name": "Shigeo Akahori",
+      "role": "Animation",
+      "order": 43
+    },
+    {
+      "name": "Hitomi Yamase",
+      "role": "Animation",
+      "order": 44
+    },
+    {
+      "name": "Rieko Umemura",
+      "role": "Animation",
+      "order": 45
+    },
+    {
+      "name": "Satoshi Inoue",
+      "role": "Animation",
+      "order": 46
+    },
+    {
+      "name": "Emi Kamiishi",
+      "role": "Animation",
+      "order": 47
+    },
+    {
+      "name": "Ei Inoue",
+      "role": "Animation",
+      "order": 48
+    },
+    {
+      "name": "Norihiko Miyoshi",
+      "role": "Animation",
+      "order": 49
+    },
+    {
+      "name": "Taiki Egusa",
+      "role": "Animation",
+      "order": 50
+    },
+    {
+      "name": "Maki Omoto",
+      "role": "Animation",
+      "order": 51
+    },
+    {
+      "name": "Tomomi Kamiya",
+      "role": "Animation",
+      "order": 52
+    },
+    {
+      "name": "Franklin Jones III",
+      "role": "Sound Designer",
+      "order": 53
+    },
+    {
+      "name": "Akiko Yamaguchi",
+      "role": "Animation",
+      "order": 54
+    },
+    {
+      "name": "Shigeru Kimishima",
+      "role": "Animation",
+      "order": 55
+    },
+    {
+      "name": "Ikuno Yagi",
+      "role": "Animation",
+      "order": 56
+    },
+    {
+      "name": "Atsuko Itō",
+      "role": "Animation",
+      "order": 57
+    },
+    {
+      "name": "Rie Kitazawa",
+      "role": "Animation",
+      "order": 58
+    },
+    {
+      "name": "Yukari Hashimoto",
+      "role": "Animation",
+      "order": 59
+    },
+    {
+      "name": "Shinji Hashimoto",
+      "role": "Animation",
+      "order": 60
+    },
+    {
+      "name": "Shinji Hashimoto",
+      "role": "Storyboard Assistant",
+      "order": 61
+    },
+    {
+      "name": "Takayuki Hamada",
+      "role": "Animation",
+      "order": 62
+    },
+    {
+      "name": "Takuya Saitō",
+      "role": "Animation",
+      "order": 63
+    },
+    {
+      "name": "Shōko Nishigaki",
+      "role": "Animation",
+      "order": 64
+    },
+    {
+      "name": "Suminobu Hamada",
+      "role": "Music Editor",
+      "order": 65
+    },
+    {
+      "name": "Akio Ichimura",
+      "role": "Production Accountant",
+      "order": 66
+    },
+    {
+      "name": "Junya Saito",
+      "role": "Animation",
+      "order": 67
+    },
+    {
+      "name": "Chihiro Tsukue",
+      "role": "Public Relations",
+      "order": 68
+    },
+    {
+      "name": "Nozomu Ito",
+      "role": "Public Relations",
+      "order": 69
+    },
+    {
+      "name": "Keiko Itogawa",
+      "role": "Animation",
+      "order": 70
+    },
+    {
+      "name": "Masako Sato",
+      "role": "Animation",
+      "order": 71
+    },
+    {
+      "name": "Masako Sato",
+      "role": "Storyboard Assistant",
+      "order": 72
+    },
+    {
+      "name": "Ayako Hata",
+      "role": "Animation",
+      "order": 73
+    },
+    {
+      "name": "Tatsuzou Nishida",
+      "role": "Animation",
+      "order": 74
+    },
+    {
+      "name": "Atsushi Tamura",
+      "role": "Animation",
+      "order": 75
+    },
+    {
+      "name": "Tomoko Tani",
+      "role": "Animation",
+      "order": 76
+    },
+    {
+      "name": "Chiyomi Tsukamoto",
+      "role": "Animation",
+      "order": 77
+    },
+    {
+      "name": "Takayuki Gotan",
+      "role": "Animation",
+      "order": 78
+    },
+    {
+      "name": "Yusaku Harada",
+      "role": "Animation",
+      "order": 79
+    },
+    {
+      "name": "Yuka Matsumura",
+      "role": "Animation",
+      "order": 80
+    },
+    {
+      "name": "Natsuko Inohara",
+      "role": "Animation",
+      "order": 81
+    },
+    {
+      "name": "Yoshihiro Oosugi",
+      "role": "Animation",
+      "order": 82
+    },
+    {
+      "name": "Akiko Shimizu",
+      "role": "Animation",
+      "order": 83
+    },
+    {
+      "name": "Naoko Sunahara",
+      "role": "Animation",
+      "order": 84
+    },
+    {
+      "name": "Natsumi Watanabe",
+      "role": "Animation",
+      "order": 85
+    },
+    {
+      "name": "Misato Aida",
+      "role": "Animation",
+      "order": 86
+    },
+    {
+      "name": "Miyuki Akamatsu",
+      "role": "Animation",
+      "order": 87
+    },
+    {
+      "name": "Rie Furuki",
+      "role": "Animation",
+      "order": 88
+    },
+    {
+      "name": "Yoshimi Hashizume",
+      "role": "Animation",
+      "order": 89
+    },
+    {
+      "name": "Kaori Hayashi",
+      "role": "Animation",
+      "order": 90
+    },
+    {
+      "name": "Yuna Iizuka",
+      "role": "Animation",
+      "order": 91
+    },
+    {
+      "name": "Masafumi Inoue",
+      "role": "Animation",
+      "order": 92
+    },
+    {
+      "name": "Hiroaki Ishii",
+      "role": "Animation",
+      "order": 93
+    },
+    {
+      "name": "Tadashi Itô",
+      "role": "Animation",
+      "order": 94
+    },
+    {
+      "name": "Hayao Iwasawa",
+      "role": "Animation",
+      "order": 95
+    },
+    {
+      "name": "Yosuke Jinbo",
+      "role": "Animation",
+      "order": 96
+    },
+    {
+      "name": "Masao Kajima",
+      "role": "Animation",
+      "order": 97
+    },
+    {
+      "name": "Shinpei Kamada",
+      "role": "Animation",
+      "order": 98
+    },
+    {
+      "name": "Kaori Kamata",
+      "role": "Animation",
+      "order": 99
+    },
+    {
+      "name": "Kazuko Karube",
+      "role": "Animation",
+      "order": 100
+    },
+    {
+      "name": "Hitomi Kashihara",
+      "role": "Animation",
+      "order": 101
+    },
+    {
+      "name": "Akemi Katô",
+      "role": "Animation",
+      "order": 102
+    },
+    {
+      "name": "Ayako Kitamura",
+      "role": "Animation",
+      "order": 103
+    },
+    {
+      "name": "Miki Kobayashi",
+      "role": "Animation",
+      "order": 104
+    },
+    {
+      "name": "Yutaka Komatsu",
+      "role": "Animation",
+      "order": 105
+    },
+    {
+      "name": "Yukari Kunô",
+      "role": "Animation",
+      "order": 106
+    },
+    {
+      "name": "Hideko Matsushima",
+      "role": "Animation",
+      "order": 107
+    },
+    {
+      "name": "Kumiko Mizoguchi",
+      "role": "Animation",
+      "order": 108
+    },
+    {
+      "name": "Naomi Mori",
+      "role": "Animation",
+      "order": 109
+    },
+    {
+      "name": "Takeshi Nakamura",
+      "role": "Animation",
+      "order": 110
+    },
+    {
+      "name": "Terumi Narita",
+      "role": "Animation",
+      "order": 111
+    },
+    {
+      "name": "Tomoya Niimi",
+      "role": "Animation",
+      "order": 112
+    },
+    {
+      "name": "Yôhei Nishiwaki",
+      "role": "Animation",
+      "order": 113
+    },
+    {
+      "name": "Michiko Saito",
+      "role": "Animation",
+      "order": 114
+    },
+    {
+      "name": "Tsubasa Saitô",
+      "role": "Animation",
+      "order": 115
+    },
+    {
+      "name": "Miwa Sasaki",
+      "role": "Animation",
+      "order": 116
+    },
+    {
+      "name": "Naoko Sasaki",
+      "role": "Animation",
+      "order": 117
+    },
+    {
+      "name": "Sanae Seno",
+      "role": "Animation",
+      "order": 118
+    },
+    {
+      "name": "Yoichi Senzui",
+      "role": "Animation",
+      "order": 119
+    },
+    {
+      "name": "Hidenori Shibahara",
+      "role": "Animation",
+      "order": 120
+    },
+    {
+      "name": "Yoshimi Shibata",
+      "role": "Animation",
+      "order": 121
+    },
+    {
+      "name": "Katsuhiko Shirato",
+      "role": "Animation",
+      "order": 122
+    },
+    {
+      "name": "Asami Sodeyama",
+      "role": "Animation",
+      "order": 123
+    },
+    {
+      "name": "Kanako Takamasu",
+      "role": "Animation",
+      "order": 124
+    },
+    {
+      "name": "Nana Takei",
+      "role": "Animation",
+      "order": 125
+    },
+    {
+      "name": "Atsuko Takeuchi",
+      "role": "Animation",
+      "order": 126
+    },
+    {
+      "name": "Yukie Tamura",
+      "role": "Animation",
+      "order": 127
+    },
+    {
+      "name": "Tomoko Toki",
+      "role": "Animation",
+      "order": 128
+    },
+    {
+      "name": "Miari Toyoshima",
+      "role": "Animation",
+      "order": 129
+    },
+    {
+      "name": "Emi Ueishi",
+      "role": "Animation",
+      "order": 130
+    },
+    {
+      "name": "Miki Umezawa",
+      "role": "Animation",
+      "order": 131
+    },
+    {
+      "name": "Yôko Wakabayashi",
+      "role": "Animation",
+      "order": 132
+    },
+    {
+      "name": "Junji Yabuta",
+      "role": "Animation",
+      "order": 133
+    },
+    {
+      "name": "Erina Yamamoto",
+      "role": "Animation",
+      "order": 134
+    },
+    {
+      "name": "Maki Yamamoto",
+      "role": "Animation",
+      "order": 135
+    },
+    {
+      "name": "Sonoe Yoshida",
+      "role": "Animation",
+      "order": 136
+    },
+    {
+      "name": "Shinami Yoshikawa",
+      "role": "Animation",
+      "order": 137
+    },
+    {
+      "name": "Eri Yoshiki",
+      "role": "Animation",
+      "order": 138
+    },
+    {
+      "name": "Masayoshi Furukawa",
+      "role": "Musician",
+      "order": 139
+    },
+    {
+      "name": "Ikutarô Kakehashi",
+      "role": "Musician",
+      "order": 140
+    },
+    {
+      "name": "Makoto Hashida",
+      "role": "Public Relations",
+      "order": 141
+    },
+    {
+      "name": "Takayasu Ito",
+      "role": "Production Accountant",
+      "order": 142
+    },
+    {
+      "name": "Setsuko Kurihara",
+      "role": "Public Relations",
+      "order": 143
+    },
+    {
+      "name": "Mayumi Naitô",
+      "role": "Public Relations",
+      "order": 144
+    },
+    {
+      "name": "Yumiko Nishimura",
+      "role": "Public Relations",
+      "order": 145
+    },
+    {
+      "name": "Tomofumi Otsuka",
+      "role": "Production Accountant",
+      "order": 146
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG"
+    }
+  ]
+}
