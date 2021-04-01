@@ -1,0 +1,389 @@
+{
+  "id": "645a78d9-d107-4128-9af0-361a9b4cc36d",
+  "budget": 22000000,
+  "revenue": 61037844,
+  "releaseYear": "2011",
+  "runTime": 91,
+  "type": "movie",
+  "languageKeys": [
+    "ja",
+    "en-US",
+    "pt-BR"
+  ],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "コクリコ坂から"
+    },
+    {
+      "key": "en-US",
+      "value": "From Up on Poppy Hill"
+    },
+    {
+      "key": "pt-BR",
+      "value": "Da Colina Kokuriko"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "明治に建てられた高校の部室別館「カルチェラタン」。伝統ある館は老朽化から取り壊しが決まってしまう。愛着を持ち取り壊し撤回を目論む学生たちのリーダー的存在である新聞部　風間 俊と小松崎 海は出会い想いを寄せていくが、ひょんなことから二人は兄妹であることがわかってしまう。揺れ動く二人の成長と共に取り壊し騒動が進んでゆく中で、俊の意外な生い立ちが明らかになっていく。"
+    },
+    {
+      "key": "en-US",
+      "value": "A group of Yokohama students fight to save their school's clubhouse from the wrecking ball during preparations for the 1964 Tokyo Olympic Games. While working there, Umi and Shun gradually become attracted to each other but have to face a sudden trial. Even so, they keep going without fleeing the difficulties of reality."
+    },
+    {
+      "key": "pt-BR",
+      "value": "Uma garota chamada Komatsuzaki vive em uma cidade portuária na década de 1960 e é obrigada a assumir as rédeas de sua vida após o desaparecimento do pai. O roteiro é focado no amadurecimento da garota, lembrando muito o roteiro de \"A Viagem de Chihiro\". Adaptado do mangá homônimo de Chizuru Takahashi e Tetsuro Sayama."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Drama"
+        },
+        {
+          "key": "en-US",
+          "value": "Drama"
+        },
+        {
+          "key": "ja",
+          "value": "ドラマ"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Umi Matsuzaki",
+      "name": "Masami Nagasawa",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Shun Kazama / Yuichiro Sawamura",
+      "name": "Junichi Okada",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Hana Matsuzaki",
+      "name": "Keiko Takeshita",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Miki Hokuto",
+      "name": "Yuriko Ishida",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Sachiko Hirokôji",
+      "name": "Rumi Hiiragi",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Ryoko Matsuzaki",
+      "name": "Jun Fubuki",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Yoshio Onodera",
+      "name": "Takashi Naitō",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "Shirô Mizunuma / Hiroshi Tachibana",
+      "name": "Shunsuke Kazama",
+      "role": "Voice",
+      "order": 7
+    },
+    {
+      "characterName": "Akio Kazama",
+      "name": "Nao Ōmori",
+      "role": "Voice",
+      "order": 8
+    },
+    {
+      "characterName": "Tokumaru Rijichô",
+      "name": "Teruyuki Kagawa",
+      "role": "Voice",
+      "order": 9
+    },
+    {
+      "characterName": "Sora Matsuzaki",
+      "name": "Haruka Shiraishi",
+      "role": "Voice",
+      "order": 10
+    },
+    {
+      "characterName": "Riku Matsuzaki",
+      "name": "Tsubasa Kobayashi",
+      "role": "Voice",
+      "order": 11
+    },
+    {
+      "characterName": "Yuko",
+      "name": "Aoi Teshima",
+      "role": "Voice",
+      "order": 12
+    },
+    {
+      "characterName": "World History Teacher",
+      "name": "Gorō Miyazaki",
+      "role": "Voice",
+      "order": 13
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Screenplay",
+      "order": 0
+    },
+    {
+      "name": "Toshio Suzuki",
+      "role": "Producer",
+      "order": 1
+    },
+    {
+      "name": "Atsushi Okui",
+      "role": "Director of Photography",
+      "order": 2
+    },
+    {
+      "name": "Takeshi Seyama",
+      "role": "Editor",
+      "order": 3
+    },
+    {
+      "name": "Makiko Futaki",
+      "role": "Key Animation",
+      "order": 4
+    },
+    {
+      "name": "Takeshi Imamura",
+      "role": "Supervising Animator",
+      "order": 5
+    },
+    {
+      "name": "Gorō Miyazaki",
+      "role": "Director",
+      "order": 6
+    },
+    {
+      "name": "Keiko Niwa",
+      "role": "Screenplay",
+      "order": 7
+    },
+    {
+      "name": "Noboru Yoshida",
+      "role": "Art Direction",
+      "order": 8
+    },
+    {
+      "name": "Katsuya Kondo",
+      "role": "Animation Director",
+      "order": 9
+    },
+    {
+      "name": "Katsuya Kondo",
+      "role": "Character Designer",
+      "order": 10
+    },
+    {
+      "name": "Koji Kasamatsu",
+      "role": "Sound",
+      "order": 11
+    },
+    {
+      "name": "Hiromasa Yonebayashi",
+      "role": "Key Animation",
+      "order": 12
+    },
+    {
+      "name": "Chizuru Takahashi",
+      "role": "Producer",
+      "order": 13
+    },
+    {
+      "name": "Chizuru Takahashi",
+      "role": "Comic Book",
+      "order": 14
+    },
+    {
+      "name": "Tetsurô Sayama",
+      "role": "Producer",
+      "order": 15
+    },
+    {
+      "name": "Tetsurô Sayama",
+      "role": "Story",
+      "order": 16
+    },
+    {
+      "name": "Tetsurô Sayama",
+      "role": "Comic Book",
+      "order": 17
+    },
+    {
+      "name": "Akihiko Yamashita",
+      "role": "Animation Director",
+      "order": 18
+    },
+    {
+      "name": "Hiroyuki Aoyama",
+      "role": "Key Animation",
+      "order": 19
+    },
+    {
+      "name": "Takashi Hashimoto",
+      "role": "Key Animation",
+      "order": 20
+    },
+    {
+      "name": "Pierre Brouard",
+      "role": "Dialogue Editor",
+      "order": 21
+    },
+    {
+      "name": "Atsushi Yamagata",
+      "role": "Animation Director",
+      "order": 22
+    },
+    {
+      "name": "Taichi Furumata",
+      "role": "Key Animation",
+      "order": 23
+    },
+    {
+      "name": "Hideki Hamazu",
+      "role": "Key Animation",
+      "order": 24
+    },
+    {
+      "name": "Shunsuke Hirota",
+      "role": "Supervising Animator",
+      "order": 25
+    },
+    {
+      "name": "Takeshi Honda",
+      "role": "Key Animation",
+      "order": 26
+    },
+    {
+      "name": "Megumi Kagawa",
+      "role": "Key Animation",
+      "order": 27
+    },
+    {
+      "name": "Kitarou Kousaka",
+      "role": "Animation Director",
+      "order": 28
+    },
+    {
+      "name": "Shinji Otsuka",
+      "role": "Key Animation",
+      "order": 29
+    },
+    {
+      "name": "Sachiko Sugino",
+      "role": "Key Animation",
+      "order": 30
+    },
+    {
+      "name": "Hirômi Yamakawa",
+      "role": "Key Animation",
+      "order": 31
+    },
+    {
+      "name": "Atsuko Tanaka",
+      "role": "Key Animation",
+      "order": 32
+    },
+    {
+      "name": "Shigeru Fujita",
+      "role": "Key Animation",
+      "order": 33
+    },
+    {
+      "name": "Satoshi Takebe",
+      "role": "Music",
+      "order": 34
+    },
+    {
+      "name": "Eriko Kimura",
+      "role": "Sound Recordist",
+      "order": 35
+    },
+    {
+      "name": "Yohei Takamatsu",
+      "role": "Art Direction",
+      "order": 36
+    },
+    {
+      "name": "Ei Inoue",
+      "role": "Key Animation",
+      "order": 37
+    },
+    {
+      "name": "Satoko Nakamura",
+      "role": "Assistant Art Director",
+      "order": 38
+    },
+    {
+      "name": "Takashi Omori",
+      "role": "Art Direction",
+      "order": 39
+    },
+    {
+      "name": "Nobuo Kawakami",
+      "role": "Executive Producer",
+      "order": 40
+    },
+    {
+      "name": "Kamon Oba",
+      "role": "Art Direction",
+      "order": 41
+    }
+  ],
+  "ratings": [
+    {
+      "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    },
+    {
+      "key": "Motion Picture Association of America",
+      "value": "PG"
+    }
+  ]
+}
