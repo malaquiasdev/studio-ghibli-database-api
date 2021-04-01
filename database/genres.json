@@ -186,6 +186,23 @@
           "value": "犯罪"
         }
       ]
+    },
+    {
+      "id": 12,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Música"
+        },
+        {
+          "key": "en-US",
+          "value": "Music"
+        },
+        {
+          "key": "ja",
+          "value": "音楽"
+        }
+      ]
     }
   ]
 }
