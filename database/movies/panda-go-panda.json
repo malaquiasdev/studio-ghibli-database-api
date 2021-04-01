@@ -1,0 +1,177 @@
+{
+  "id": "6767c1cc-6917-4a97-afc9-d3ccb67c285b",
+  "budget": 0,
+  "revenue": 0,
+  "releaseYear": "1973",
+  "runTime": 38,
+  "type": "movie",
+  "languageKeys": [
+    "ja",
+    "en-US",
+    "pt-BR"
+  ],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "パンダコパンダ 雨ふりサーカスの巻"
+    },
+    {
+      "key": "en-US",
+      "value": "Panda! Go Panda!: Rainy Day Circus"
+    },
+    {
+      "key": "pt-BR",
+      "value": "As Aventuras de Panda e Seus Amigos"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": ""
+    },
+    {
+      "key": "en-US",
+      "value": "The family consisting of two pandas and one girl lives happily when suddenly a little tiger appears at their home. It arrives that the circus had come to their town. All of a sudden starts the pouring rain but it can't stop them."
+    },
+    {
+      "key": "pt-BR",
+      "value": "A alegre Mimiko tem uma família muito incomum para uma garotinha – um urso panda como papai e o filhote deste, Panny, que a chama de mamãe. Quando Panny segue Mimiko até a escola, tenta fingir que é um ursinho de pelúcia para não colocar a menina em apuros. Mas, apesar dos esforços para se comportar, Panny causa confusão na cozinha e passa a ser perseguido. Afinal, todos querem um fofo pandinha para brincar."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Comédia"
+        },
+        {
+          "key": "en-US",
+          "value": "Comedy"
+        },
+        {
+          "key": "ja",
+          "value": "コメディ"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Família"
+        },
+        {
+          "key": "en-US",
+          "value": "Family"
+        },
+        {
+          "key": "ja",
+          "value": "ファミリー"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Mimiko",
+      "name": "Kazuko Sugiyama",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Papanda",
+      "name": "Kazuo Kumakura",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Pan-chan",
+      "name": "Yûko Maruyama",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Le tigre",
+      "name": "Yoshiko Ohta",
+      "role": "Voice",
+      "order": 3
+    }
+  ],
+  "crew": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Screenplay",
+      "order": 0
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Writer",
+      "order": 1
+    },
+    {
+      "name": "Isao Takahata",
+      "role": "Director",
+      "order": 2
+    },
+    {
+      "name": "Shichirō Kobayashi",
+      "role": "Art Direction",
+      "order": 3
+    },
+    {
+      "name": "Kazuo Oga",
+      "role": "Background Designer",
+      "order": 4
+    },
+    {
+      "name": "Yoshifumi Kondou",
+      "role": "Art Designer",
+      "order": 5
+    },
+    {
+      "name": "Yasuo Ōtsuka",
+      "role": "Animation Director",
+      "order": 6
+    },
+    {
+      "name": "Masahiko Satoh",
+      "role": "Original Music Composer",
+      "order": 7
+    },
+    {
+      "name": "Michiyo Yasuda",
+      "role": "Painter",
+      "order": 8
+    },
+    {
+      "name": "Yōichi Kotabe",
+      "role": "Animation Director",
+      "order": 9
+    }
+  ],
+  "ratings": []
+}
