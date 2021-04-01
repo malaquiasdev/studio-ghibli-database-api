@@ -1,0 +1,212 @@
+{
+  "id": "d62c98ff-369d-4731-b134-3f218cf944fc",
+  "budget": 0,
+  "revenue": 0,
+  "releaseYear": "1981",
+  "runTime": 105,
+  "type": "movie",
+  "languageKeys": [
+    "ja",
+    "en-US",
+    "pt-BR"
+  ],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "じゃりン子チエ 劇場版"
+    },
+    {
+      "key": "en-US",
+      "value": "Chie the Brat"
+    },
+    {
+      "key": "pt-BR",
+      "value": "Jarinko Chie"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "バクチ好きの父親、テツに代わり自宅のホルモン屋を切り盛りしている逞しい大阪の女子小学生の竹本チエ。そんなチエは時々テツと別居中の母ヨシ江と父に秘密で会っており縁日での休みを満喫するが、その現場をテツに見られてしまい…。"
+    },
+    {
+      "key": "en-US",
+      "value": "Chie Takemoto is a dependable girl who struggles to help her troublesome father run a small tavern in Osaka. Unbeknown to her dad, she occasionally visits her mother who left him not too long ago. She plans on trying to reunite them, but not until her father gets a job."
+    },
+    {
+      "key": "pt-BR",
+      "value": "A história do longa acontece em um dos momentos mais difíceis da família. Yoshie tomou uma dura decisão para tentar consertar seu esposo bagunceiro: ela fugiu de casa e só planeja retornar quando Tetsu estiver pelo menos trabalhando e se comportando como um pai digno. Chie não gosta de ficar longe da mãe, mas concordou com o plano. No entanto, os problemas aumentaram com a ausência da mãe, e ela agora tem que se desdobrar para sustentar a casa e cuidar do rebelde Tetsu."
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Família"
+        },
+        {
+          "key": "en-US",
+          "value": "Family"
+        },
+        {
+          "key": "ja",
+          "value": "ファミリー"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Comédia"
+        },
+        {
+          "key": "en-US",
+          "value": "Comedy"
+        },
+        {
+          "key": "ja",
+          "value": "コメディ"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Drama"
+        },
+        {
+          "key": "en-US",
+          "value": "Drama"
+        },
+        {
+          "key": "ja",
+          "value": "ドラマ"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Takemoto Chie",
+      "name": "Chinatsu Nakayama",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Takemoto Tetsu",
+      "name": "Norio Nishikawa",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Kotetsu",
+      "name": "Kiyoshi Nishikawa",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Antonio Jr.",
+      "name": "Yasushi Yokoyama",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Masaru",
+      "name": "Shinsuke Shimada",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Shigeru",
+      "name": "Shinsuke Shimada",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Maruyama Mitsuru",
+      "name": "Yoshio Kamigata",
+      "role": "Voice",
+      "order": 6
+    }
+  ],
+  "crew": [
+    {
+      "name": "Isao Takahata",
+      "role": "Director",
+      "order": 0
+    },
+    {
+      "name": "Isao Takahata",
+      "role": "Writer",
+      "order": 1
+    },
+    {
+      "name": "Tetsuo Katayama",
+      "role": "Producer",
+      "order": 2
+    },
+    {
+      "name": "Hirokata Takahashi",
+      "role": "Director of Photography",
+      "order": 3
+    },
+    {
+      "name": "Katsu Hoshi",
+      "role": "Music",
+      "order": 4
+    },
+    {
+      "name": "Hidenori Taga",
+      "role": "Producer",
+      "order": 5
+    },
+    {
+      "name": "Noboru Shiroyama",
+      "role": "Writer",
+      "order": 6
+    },
+    {
+      "name": "Yōichi Kotabe",
+      "role": "Animation Director",
+      "order": 7
+    },
+    {
+      "name": "Yasumi Mikamoto",
+      "role": "Assistant Director",
+      "order": 8
+    },
+    {
+      "name": "Satoshi Kato",
+      "role": "Sound",
+      "order": 9
+    }
+  ],
+  "ratings": []
+}
