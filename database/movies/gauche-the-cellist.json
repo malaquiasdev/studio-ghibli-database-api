@@ -1,0 +1,211 @@
+{
+  "id": "9b131279-7f72-4fa0-bb3a-b256f4d791b9",
+  "budget": 0,
+  "revenue": 0,
+  "releaseYear": "1982",
+  "runTime": 63,
+  "type": "movie",
+  "languageKeys": [
+    "ja",
+    "en-US",
+    "pt-BR"
+  ],
+  "originalLanguage": {
+    "iso6391": "ja",
+    "name": "Japanese"
+  },
+  "titles": [
+    {
+      "key": "ja",
+      "value": "セロ弾きのゴーシュ"
+    },
+    {
+      "key": "en-US",
+      "value": "Gauche the Cellist"
+    },
+    {
+      "key": "pt-BR",
+      "value": "Cello Hiki no Gauche"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "ja",
+      "value": "「セロ弾きのゴーシュ」とは、誰もが知っている宮沢賢治の名作童話を原作とし、べートーヴェンの「田園交響曲」にのせて詩情豊かに描き出した劇場用長篇アニメーションです。"
+    },
+    {
+      "key": "en-US",
+      "value": "Gauche is a diligent but mediocre cellist who plays for a small town orchestra and the local cinema in the early 20th century. He struggles during rehearsals and is often berated by his conductor during preparations for an upcoming performance of Beethoven's Sixth Symphony (the Pastoral Symphony). Over the course of four nights, Gauche is visited at his mill house home by talking animals as he is practicing."
+    },
+    {
+      "key": "pt-BR",
+      "value": "Gauche é um violoncelista profissional. Durante os ensaios para uma apresentação, ele é repreendido pelo maestro porque sua música não é boa o suficiente. Seu tempo está acabando e ele parece não ter \"sensação\" para a música. Gauche retorna à sua casa no interior sozinho e começa a praticar. Em seguida, um gato tenta o fazer compreender o significado profundo da música. A importância da prática é demonstrada por um cuco, o ritmo por um texugo e a ternura por um rato. Em quatro dias ele aprende o verdadeiro significado e está pronto para a sua apresentação."
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Animação"
+        },
+        {
+          "key": "en-US",
+          "value": "Animation"
+        },
+        {
+          "key": "ja",
+          "value": "アニメーション"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Música"
+        },
+        {
+          "key": "en-US",
+          "value": "Music"
+        },
+        {
+          "key": "ja",
+          "value": "音楽"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "list": [
+        {
+          "key": "pt-BR",
+          "value": "Fantasia"
+        },
+        {
+          "key": "en-US",
+          "value": "Fantasy"
+        },
+        {
+          "key": "ja",
+          "value": "ファンタジー"
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterName": "Gauche",
+      "name": "Hideki Sasaki",
+      "role": "Voice",
+      "order": 0
+    },
+    {
+      "characterName": "Conductor",
+      "name": "Masashi Amenomori",
+      "role": "Voice",
+      "order": 1
+    },
+    {
+      "characterName": "Cat",
+      "name": "Fuyumi Shiraishi",
+      "role": "Voice",
+      "order": 2
+    },
+    {
+      "characterName": "Bird",
+      "name": "Kaneta Kimotsuki",
+      "role": "Voice",
+      "order": 3
+    },
+    {
+      "characterName": "Tanuki",
+      "name": "Kazue Takahashi",
+      "role": "Voice",
+      "order": 4
+    },
+    {
+      "characterName": "Mother Mouse",
+      "name": "Akiko Takamura",
+      "role": "Voice",
+      "order": 5
+    },
+    {
+      "characterName": "Child Mouse",
+      "name": "Keiko Yokozawa",
+      "role": "Voice",
+      "order": 6
+    },
+    {
+      "characterName": "Concertmaster",
+      "name": "Ryūji Saikachi",
+      "role": "Voice",
+      "order": 7
+    }
+  ],
+  "crew": [
+    {
+      "name": "Isao Takahata",
+      "role": "Screenplay",
+      "order": 0
+    },
+    {
+      "name": "Isao Takahata",
+      "role": "Director",
+      "order": 1
+    },
+    {
+      "name": "Michio Mamiya",
+      "role": "Original Music Composer",
+      "order": 2
+    },
+    {
+      "name": "Kenji Miyazawa",
+      "role": "Author",
+      "order": 3
+    },
+    {
+      "name": "Kenji Miyazawa",
+      "role": "Short Story",
+      "order": 4
+    },
+    {
+      "name": "Katsuyoshi Kobayashi",
+      "role": "Recording Supervision",
+      "order": 5
+    },
+    {
+      "name": "Yasuo Uragami",
+      "role": "Sound Director",
+      "order": 6
+    },
+    {
+      "name": "Takamura Mukuo",
+      "role": "Art Direction",
+      "order": 7
+    },
+    {
+      "name": "Shunji Saida",
+      "role": "Animation Director",
+      "order": 8
+    },
+    {
+      "name": "Shunji Saida",
+      "role": "Character Designer",
+      "order": 9
+    },
+    {
+      "name": "Koichi Murata",
+      "role": "Executive Producer",
+      "order": 10
+    },
+    {
+      "name": "Toshiaki Okaseri",
+      "role": "Director of Photography",
+      "order": 11
+    }
+  ],
+  "ratings": []
+}
