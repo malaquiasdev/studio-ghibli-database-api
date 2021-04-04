@@ -1,0 +1,525 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`# Components - DynamoDB - querys - findMovies should return a filled array with movies 1`] = `
+Array [
+  Object {
+    "budget": 1000000,
+    "cast": Array [
+      Object {
+        "characterName": "Nausicaä",
+        "name": "Sumi Shimamoto",
+        "order": 0,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Mito",
+        "name": "Ichirō Nagai",
+        "order": 1,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Yupa",
+        "name": "Gorō Naya",
+        "order": 2,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Asbel",
+        "name": "Yōji Matsuda",
+        "order": 3,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Kushana",
+        "name": "Yoshiko Sakakibara",
+        "order": 4,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Kurotowa",
+        "name": "Iemasa Kayumi",
+        "order": 5,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Oh-Baba",
+        "name": "Hisako Kyouda",
+        "order": 6,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Jihl",
+        "name": "Mahito Tsujimura",
+        "order": 7,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Lastel",
+        "name": "Mina Tominaga",
+        "order": 8,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Goru",
+        "name": "Kōhei Miyauchi",
+        "order": 9,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Gikkuri",
+        "name": "Jōji Yanami",
+        "order": 10,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Niga",
+        "name": "Minoru Yada",
+        "order": 11,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Teto / Girl C",
+        "name": "Rihoko Yoshida",
+        "order": 12,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Commando",
+        "name": "Tetsuo Mizutori",
+        "order": 13,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Girl A",
+        "name": "Masako Sugaya",
+        "order": 14,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Girl B",
+        "name": "Takako Sasuga",
+        "order": 15,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Boy A",
+        "name": "Chika Sakamoto",
+        "order": 16,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Boy B",
+        "name": "Tarako",
+        "order": 17,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Mayor of Pejite",
+        "name": "Mugihito",
+        "order": 18,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Lastel's Mother",
+        "name": "Akiko Tsuboi",
+        "order": 19,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Pejite Citizen",
+        "name": "Takeki Nakamura",
+        "order": 20,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Pejite Girl",
+        "name": "Takako Ôta",
+        "order": 21,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Pejite Citizen",
+        "name": "Bin Shimada",
+        "order": 22,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Torumekian Soldier",
+        "name": "Shinji Nomura",
+        "order": 23,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Boy",
+        "name": "Hisako Ayuhara",
+        "order": 24,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Torumekian Soldier",
+        "name": "Hochu Otsuka",
+        "order": 25,
+        "role": "Voice",
+      },
+    ],
+    "contentId": "8e41bb68-6f8f-49fe-9626-0e9df38f9e7a",
+    "crew": Array [
+      Object {
+        "name": "Hayao Miyazaki",
+        "order": 0,
+        "role": "Screenplay",
+      },
+      Object {
+        "name": "Hayao Miyazaki",
+        "order": 1,
+        "role": "Director",
+      },
+      Object {
+        "name": "Hayao Miyazaki",
+        "order": 2,
+        "role": "Comic Book",
+      },
+      Object {
+        "name": "Hayao Miyazaki",
+        "order": 3,
+        "role": "Character Designer",
+      },
+      Object {
+        "name": "Isao Takahata",
+        "order": 4,
+        "role": "Producer",
+      },
+      Object {
+        "name": "Ned Lott",
+        "order": 5,
+        "role": "Casting",
+      },
+      Object {
+        "name": "Naoki Kaneko",
+        "order": 6,
+        "role": "Editor",
+      },
+      Object {
+        "name": "Tomoko Kida",
+        "order": 7,
+        "role": "Editor",
+      },
+      Object {
+        "name": "Shigeharu Shiba",
+        "order": 8,
+        "role": "Sound Director",
+      },
+      Object {
+        "name": "Joe Hisaishi",
+        "order": 9,
+        "role": "Original Music Composer",
+      },
+      Object {
+        "name": "Toshio Suzuki",
+        "order": 10,
+        "role": "Producer",
+      },
+      Object {
+        "name": "Yasuyoshi Tokuma",
+        "order": 11,
+        "role": "Executive Producer",
+      },
+      Object {
+        "name": "Tooru Hara",
+        "order": 12,
+        "role": "Executive Producer",
+      },
+      Object {
+        "name": "Hideaki Anno",
+        "order": 13,
+        "role": "Animation",
+      },
+      Object {
+        "name": "Kazuyoshi Katayama",
+        "order": 14,
+        "role": "Assistant Director",
+      },
+      Object {
+        "name": "Mitsuki Nakamura",
+        "order": 15,
+        "role": "Art Direction",
+      },
+      Object {
+        "name": "Hiroshi Morie",
+        "order": 16,
+        "role": "Associate Producer",
+      },
+      Object {
+        "name": "Toshio Nozaki",
+        "order": 17,
+        "role": "Background Designer",
+      },
+      Object {
+        "name": "Michio Kondou",
+        "order": 18,
+        "role": "Executive Producer",
+      },
+      Object {
+        "name": "Michiyo Yasuda",
+        "order": 19,
+        "role": "Color Designer",
+      },
+      Object {
+        "name": "Kazuo Komatsubara",
+        "order": 20,
+        "role": "Animation Director",
+      },
+      Object {
+        "name": "Kazuo Komatsubara",
+        "order": 21,
+        "role": "Character Designer",
+      },
+      Object {
+        "name": "Takashi Tanazawa",
+        "order": 22,
+        "role": "Assistant Director",
+      },
+      Object {
+        "name": "Fukuo Suzuki",
+        "order": 23,
+        "role": "Color Designer",
+      },
+      Object {
+        "name": "Shouji Sakai",
+        "order": 24,
+        "role": "Editor",
+      },
+      Object {
+        "name": "Noriyoshi Oohira",
+        "order": 25,
+        "role": "Sound Effects Editor",
+      },
+      Object {
+        "name": "Kunio Kuwahara",
+        "order": 26,
+        "role": "Sound Mixer",
+      },
+      Object {
+        "name": "Kazutoshi Sato",
+        "order": 27,
+        "role": "Sound Effects Editor",
+      },
+    ],
+    "description": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+    "genres": Array [
+      "Adventure",
+      "Animation",
+      "Fantasy",
+    ],
+    "id": "059fe84e-e1d3-480d-a224-ab27442b2b53",
+    "language": "en-US",
+    "originalLanguage": Object {
+      "iso6391": "ja",
+      "name": "Japanese",
+    },
+    "ratings": Array [
+      Object {
+        "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+        "value": "L",
+      },
+      Object {
+        "key": "Motion Picture Association of America",
+        "value": "PG",
+      },
+    ],
+    "releaseYear": "1984",
+    "revenue": 3301446,
+    "runTime": 117,
+    "title": "Nausicaä of the Valley of the Wind",
+    "type": "movie",
+  },
+  Object {
+    "budget": 0,
+    "cast": Array [
+      Object {
+        "characterName": "Yamada Noboru",
+        "name": "Hayato Isohata",
+        "order": 1,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Yamano Shige",
+        "name": "Masako Araki",
+        "order": 2,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Yamada Nonoko",
+        "name": "Naomi Uno",
+        "order": 3,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Yamada Takashi",
+        "name": "Tôru Masuoka",
+        "order": 4,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Yamada Matsuko",
+        "name": "Yukiji Asaoka",
+        "order": 5,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Fujihara Sensei",
+        "name": "Akiko Yano",
+        "order": 6,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Haiku Reader",
+        "name": "Kosanji Yanagiya",
+        "order": 7,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Shige's Friend",
+        "name": "Tamao Nakamura",
+        "order": 8,
+        "role": "Voice",
+      },
+      Object {
+        "characterName": "Grandma Kikuchi",
+        "name": "Chôchô Miyako",
+        "order": 9,
+        "role": "Voice",
+      },
+    ],
+    "contentId": "8fd91c5b-df9b-4932-9cdc-738dee05ce4c",
+    "crew": Array [
+      Object {
+        "name": "Rick Dempsey",
+        "order": 0,
+        "role": "Executive Producer",
+      },
+      Object {
+        "name": "Isao Takahata",
+        "order": 1,
+        "role": "Director",
+      },
+      Object {
+        "name": "Isao Takahata",
+        "order": 2,
+        "role": "Writer",
+      },
+      Object {
+        "name": "Ned Lott",
+        "order": 3,
+        "role": "Producer",
+      },
+      Object {
+        "name": "Atsushi Okui",
+        "order": 4,
+        "role": "Director of Photography",
+      },
+      Object {
+        "name": "Takeshi Seyama",
+        "order": 5,
+        "role": "Editor",
+      },
+      Object {
+        "name": "Yasuyoshi Tokuma",
+        "order": 6,
+        "role": "Executive Producer",
+      },
+      Object {
+        "name": "Yōji Takeshige",
+        "order": 7,
+        "role": "Art Direction",
+      },
+      Object {
+        "name": "Masashi Ando",
+        "order": 8,
+        "role": "Animation",
+      },
+      Object {
+        "name": "Akiko Yano",
+        "order": 9,
+        "role": "Original Music Composer",
+      },
+      Object {
+        "name": "Seiichiro Ujiie",
+        "order": 10,
+        "role": "Producer",
+      },
+      Object {
+        "name": "Naoya Tanaka",
+        "order": 11,
+        "role": "Art Direction",
+      },
+      Object {
+        "name": "Takashi Shoji",
+        "order": 12,
+        "role": "Producer",
+      },
+      Object {
+        "name": "Masaaki Yuasa",
+        "order": 13,
+        "role": "Animation",
+      },
+      Object {
+        "name": "Eric Garcia",
+        "order": 14,
+        "role": "Adaptation",
+      },
+      Object {
+        "name": "Hisaichi Ishii",
+        "order": 15,
+        "role": "Writer",
+      },
+      Object {
+        "name": "Leo Chu",
+        "order": 16,
+        "role": "Adaptation",
+      },
+      Object {
+        "name": "Shinya Ohira",
+        "order": 17,
+        "role": "Animation",
+      },
+      Object {
+        "name": "Michiyo Yasuda",
+        "order": 18,
+        "role": "Color Designer",
+      },
+      Object {
+        "name": "Michael Johnson",
+        "order": 19,
+        "role": "Producer",
+      },
+    ],
+    "description": "The Yamadas are a typical middle class Japanese family in urban Tokyo and this film shows us a variety of episodes of their lives. With tales that range from the humourous to the heartbreaking, we see this family cope with life's little conflicts, problems and joys in their own way.",
+    "genres": Array [
+      "Animation",
+      "Family",
+    ],
+    "id": "de5b71b9-8f7b-409e-88b4-d2988325b862",
+    "language": "en-US",
+    "originalLanguage": Object {
+      "iso6391": "ja",
+      "name": "Japanese",
+    },
+    "ratings": Array [
+      Object {
+        "key": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+        "value": "L",
+      },
+      Object {
+        "key": "Motion Picture Association of America",
+        "value": "PG",
+      },
+    ],
+    "releaseYear": "1999",
+    "revenue": 0,
+    "runTime": 104,
+    "title": "My Neighbors the Yamadas",
+    "type": "movie",
+  },
+]
+`;
