@@ -1,4 +1,4 @@
-const { dynamoDBClient } = require('../utils/create-dynamodb-instance');
+const { dynamoDBClient } = require('../utils/aws-dynamodb');
 
 async function dynamoDBSaveItem(tableName, data) {
   const params = {

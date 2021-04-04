@@ -1,8 +1,4 @@
-const AWS = require('aws-sdk');
-
-function unmarshall(data) {
-  return AWS.DynamoDB.Converter.unmarshall(data);
-}
+const { unmarshall } = require('./aws-dynamodb');
 
 function convertArray(data) {
   return data.map((item) => unmarshall(item));

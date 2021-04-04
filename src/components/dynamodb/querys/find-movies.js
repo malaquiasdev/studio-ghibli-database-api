@@ -1,4 +1,4 @@
-const { dynamoDB } = require('../utils/create-dynamodb-instance');
+const { dynamoDB } = require('../utils/aws-dynamodb');
 const convertRecordsToObject = require('../utils/convert-records-to-object');
 
 async function findMovies({ tableName, language }) {
