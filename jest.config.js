@@ -7,7 +7,11 @@ module.exports = {
   clearMocks: true,
   resetMocks: false,
   collectCoverage: true,
-  collectCoverageFrom: ['<rootDir>/src/**/*.js'],
+  collectCoverageFrom: [
+    '<rootDir>/src/**/*.js',
+    '!<rootDir>/src/**/handler.js',
+    '!<rootDir>/src/**/config.js',
+  ],
   coverageDirectory: './build/cov',
   coverageReporters: ['lcov'],
   coverageThreshold: {
