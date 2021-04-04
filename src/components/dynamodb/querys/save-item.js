@@ -1,13 +1,20 @@
 const { dynamoDBClient } = require('../utils/aws-dynamodb');
+const { logError } = require('../../logger');
 
-async function dynamoDBSaveItem(tableName, data) {
+async function saveNewItem(tableName, data) {
   const params = {
     TableName: tableName,
     Item: {
       ...data,
     },
   };
-  return dynamoDBClient.put(params).promise();
+  try {
+    await dynamoDBClient.put(params).promise();
+    return data;
+  } catch (error) {
+    logError({ message: error.message, params: { error } });
+    throw error;
+  }
 }
 
-module.exports = dynamoDBSaveItem;
+module.exports = saveNewItem;
