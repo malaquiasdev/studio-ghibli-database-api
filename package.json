@@ -11,7 +11,7 @@
     "lint": "eslint --ext .ts src",
     "test": "jest -u test",
     "test:coverage": "jest --silent --coverage --logHeapUsage test",
-    "test:coveralls": "jest --silent --coverage && cat ./coverage/lcov.info | coveralls"
+    "test:coveralls": "jest --silent --coverage && coveralls < build/cov/lcov.info"
   },
   "repository": {
     "type": "git",
@@ -32,6 +32,7 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
+    "coveralls": "^3.1.0",
     "eslint": "^7.15.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^7.0.0",
