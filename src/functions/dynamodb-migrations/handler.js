@@ -2,7 +2,8 @@
 /* eslint-disable no-await-in-loop */
 require('dotenv').config();
 const logger = require('pino')();
-const saveItem = require('../../components/dynamodb/querys/save-item');
+const uuid = require('uuid');
+const saveNewItem = require('../../components/dynamodb/querys/save-item');
 const config = require('./config');
 const loadContents = require('./load-contents');
 const separateContentByLanguage = require('./separete-content-by-language');
@@ -13,7 +14,10 @@ async function executeContentsMigrations() {
     const rawContents = await loadContents();
     const contents = separateContentByLanguage(rawContents);
     for (const content of contents) {
-      await saveItem(config.moviesTableName, content);
+      await saveNewItem(config.moviesTableName, {
+        id: uuid.v4(),
+        ...content,
+      });
     }
     logger.info(`End - the executeContentsMigrations function`);
   } catch (error) {

@@ -1,8 +1,7 @@
-const AWS = require('aws-sdk');
+const { dynamoDBClient } = require('../utils/aws-dynamodb');
+const { logError } = require('../../logger');
 
-const dynaClient = new AWS.DynamoDB.DocumentClient();
-
-async function dynamoDBSaveItem(tableName, data) {
+async function saveNewItem(tableName, data) {
   const params = {
     TableName: tableName,
     Item: {
@@ -10,11 +9,12 @@ async function dynamoDBSaveItem(tableName, data) {
     },
   };
   try {
-    await dynaClient.put(params).promise();
+    await dynamoDBClient.put(params).promise();
     return data;
   } catch (error) {
+    logError({ message: error.message, params: { error } });
     throw error;
   }
 }
 
-module.exports = dynamoDBSaveItem;
+module.exports = saveNewItem;

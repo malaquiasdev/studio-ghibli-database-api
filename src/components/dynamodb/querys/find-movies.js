@@ -1,7 +1,5 @@
-const AWS = require('aws-sdk');
+const { dynamoDB } = require('../utils/aws-dynamodb');
 const convertRecordsToObject = require('../utils/convert-records-to-object');
-
-const dynamoDB = new AWS.DynamoDB();
 
 async function findMovies({ tableName, language }) {
   const statement = `SELECT * FROM "${tableName}" WHERE "language" = '${language}'`;

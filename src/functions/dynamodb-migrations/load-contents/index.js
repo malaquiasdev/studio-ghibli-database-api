@@ -4,7 +4,7 @@ const fs = require('fs').promises;
 
 async function loadContents() {
   try {
-    const dirname = path.join(__dirname, '../../../database/movies/');
+    const dirname = path.join(__dirname, '../../../../database/movies/');
     const filenames = await fs.readdir(dirname);
     const filesPromise = filenames.map((filename) => {
       return fs.readFile(dirname + filename, 'utf-8');
