@@ -10,7 +10,8 @@
     "dev": "SLS_DEBUG=* && node ./node_modules/.bin/serverless offline",
     "lint": "eslint --ext .ts src",
     "test": "jest -u test",
-    "test:coverage": "jest --silent --coverage --logHeapUsage test"
+    "test:coverage": "jest --silent --coverage --logHeapUsage test",
+    "test:coveralls": "jest --silent --coverage && cat ./coverage/lcov.info | coveralls"
   },
   "repository": {
     "type": "git",
