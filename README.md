@@ -1,7 +1,7 @@
 # GHIBLIDB
 
 [![Build Status](https://travis-ci.com/malaquiasdev/studio-ghibli-service.svg?branch=master)](https://travis-ci.com/malaquiasdev/studio-ghibli-service)
-[![Coverage Status](https://coveralls.io/repos/github/malaquiasdev/studio-ghibli-service/badge.svg?branch=master)](https://coveralls.io/github/malaquiasdev/studio-ghibli-service?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/malaquiasdev/ghiblidb-graphql/badge.svg?branch=master)](https://coveralls.io/github/malaquiasdev/ghiblidb-graphql?branch=master)
 
 <p align="left">
   <img width="832" height="auto" src=".github/logo.png"/>
@@ -57,7 +57,7 @@ Before you begin, ensure you have met the following requirements:
 5. Run the linter suite: `$ yarn lint`
 6. Fix the test and linter errors if exists.
 7. Commit your changes: `$ git commit -m '<commit_message>'`
-8. Push to the original branch: `$ git push origin studio-ghibli-database-api/<branch_name>`
+8. Push to the original branch: `$ git push origin ghiblidb-graphql/<branch_name>`
 9. Create the pull request.
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
