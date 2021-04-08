@@ -1,5 +1,5 @@
 async function findMoviesQuery(_, { language = 'en-US' }, { dataSources }) {
-  return dataSources.findMovies({
+  return dataSources.findMoviesByLanguage({
     tableName: dataSources.config.moviesTableName,
     language,
   });
