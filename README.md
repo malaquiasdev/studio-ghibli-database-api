@@ -1,6 +1,6 @@
 # GHIBLIDB
 
-[![Build Status](https://travis-ci.com/malaquiasdev/studio-ghibli-service.svg?branch=master)](https://travis-ci.com/malaquiasdev/studio-ghibli-service)
+[![Build Status](https://travis-ci.com/malaquiasdev/ghiblidb-graphql.svg?branch=master)](https://travis-ci.com/malaquiasdev/ghiblidb-graphql)
 [![Coverage Status](https://coveralls.io/repos/github/malaquiasdev/ghiblidb-graphql/badge.svg?branch=master)](https://coveralls.io/github/malaquiasdev/ghiblidb-graphql?branch=master)
 
 <p align="left">
