@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`# Components - DynamoDB - querys - findMovies should return a filled array with movies 1`] = `
+exports[`# Components - DynamoDB - querys - findMoviesByLanguage should return a filled array with movies 1`] = `
 Array [
   Object {
     "budget": 1000000,

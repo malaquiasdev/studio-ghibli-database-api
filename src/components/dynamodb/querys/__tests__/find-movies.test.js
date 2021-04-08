@@ -1,13 +1,13 @@
 const { dynamoDB } = require('../../utils/aws-dynamodb');
-const findMovies = require('../find-movies');
+const findMoviesByLanguage = require('../find-movies-by-language');
 const dynamoDBMoviesItemsMock = require('./__mocks__/movies.mock.json');
 
-describe('# Components - DynamoDB - querys - findMovies', () => {
+describe('# Components - DynamoDB - querys - findMoviesByLanguage', () => {
   it('should return a filled array with movies', async () => {
     jest.spyOn(dynamoDB, 'executeStatement').mockReturnValueOnce({
       promise: jest.fn().mockResolvedValueOnce(dynamoDBMoviesItemsMock),
     });
-    const movies = await findMovies({
+    const movies = await findMoviesByLanguage({
       tableName: 'moviesTable',
       language: 'en-US',
     });
@@ -18,7 +18,7 @@ describe('# Components - DynamoDB - querys - findMovies', () => {
     jest.spyOn(dynamoDB, 'executeStatement').mockReturnValueOnce({
       promise: jest.fn().mockResolvedValueOnce({ Items: [] }),
     });
-    const movies = await findMovies({
+    const movies = await findMoviesByLanguage({
       tableName: 'moviesTable',
       language: 'en-US',
     });
