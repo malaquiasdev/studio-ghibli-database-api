@@ -66,7 +66,6 @@ Array [
         "role": "Voice",
       },
     ],
-    "contentId": "143201ea-1513-486c-b4fa-1bed9a115859",
     "crew": Array [
       Object {
         "name": "Tensai Okamura",
@@ -337,6 +336,7 @@ Array [
     ],
     "releaseYear": "1988",
     "revenue": 45000000,
+    "rootId": "MV03222",
     "runTime": 86,
     "title": "となりのトトロ",
     "type": "movie",
@@ -405,7 +405,6 @@ Array [
         "role": "Voice",
       },
     ],
-    "contentId": "143201ea-1513-486c-b4fa-1bed9a115859",
     "crew": Array [
       Object {
         "name": "Tensai Okamura",
@@ -676,6 +675,7 @@ Array [
     ],
     "releaseYear": "1988",
     "revenue": 45000000,
+    "rootId": "MV03222",
     "runTime": 86,
     "title": "My Neighbor Totoro",
     "type": "movie",
@@ -744,7 +744,6 @@ Array [
         "role": "Voice",
       },
     ],
-    "contentId": "143201ea-1513-486c-b4fa-1bed9a115859",
     "crew": Array [
       Object {
         "name": "Tensai Okamura",
@@ -1015,6 +1014,7 @@ Array [
     ],
     "releaseYear": "1988",
     "revenue": 45000000,
+    "rootId": "MV03222",
     "runTime": 86,
     "title": "Meu Amigo Totoro",
     "type": "movie",

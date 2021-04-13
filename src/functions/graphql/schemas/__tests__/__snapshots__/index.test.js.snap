@@ -224,6 +224,30 @@ Object {
         },
         Object {
           "arguments": Array [],
+          "description": Object {
+            "block": true,
+            "kind": "StringValue",
+            "value": "This is a connector key of the movie, used to relate all language versions with the same movie",
+          },
+          "directives": Array [],
+          "kind": "FieldDefinition",
+          "name": Object {
+            "kind": "Name",
+            "value": "rootId",
+          },
+          "type": Object {
+            "kind": "NonNullType",
+            "type": Object {
+              "kind": "NamedType",
+              "name": Object {
+                "kind": "Name",
+                "value": "String",
+              },
+            },
+          },
+        },
+        Object {
+          "arguments": Array [],
           "description": undefined,
           "directives": Array [],
           "kind": "FieldDefinition",
@@ -858,7 +882,7 @@ Object {
   ],
   "kind": "Document",
   "loc": Object {
-    "end": 1228,
+    "end": 1363,
     "start": 0,
   },
 }
