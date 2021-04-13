@@ -73,6 +73,92 @@ Object {
             },
           },
         },
+        Object {
+          "arguments": Array [
+            Object {
+              "defaultValue": undefined,
+              "description": undefined,
+              "directives": Array [],
+              "kind": "InputValueDefinition",
+              "name": Object {
+                "kind": "Name",
+                "value": "id",
+              },
+              "type": Object {
+                "kind": "NonNullType",
+                "type": Object {
+                  "kind": "NamedType",
+                  "name": Object {
+                    "kind": "Name",
+                    "value": "String",
+                  },
+                },
+              },
+            },
+            Object {
+              "defaultValue": undefined,
+              "description": undefined,
+              "directives": Array [],
+              "kind": "InputValueDefinition",
+              "name": Object {
+                "kind": "Name",
+                "value": "language",
+              },
+              "type": Object {
+                "kind": "NamedType",
+                "name": Object {
+                  "kind": "Name",
+                  "value": "AllowedLanguage",
+                },
+              },
+            },
+          ],
+          "description": Object {
+            "block": false,
+            "kind": "StringValue",
+            "value": "Get full metadata from a movie using querys",
+          },
+          "directives": Array [
+            Object {
+              "arguments": Array [
+                Object {
+                  "kind": "Argument",
+                  "name": Object {
+                    "kind": "Name",
+                    "value": "maxAge",
+                  },
+                  "value": Object {
+                    "kind": "IntValue",
+                    "value": "500",
+                  },
+                },
+              ],
+              "kind": "Directive",
+              "name": Object {
+                "kind": "Name",
+                "value": "cacheControl",
+              },
+            },
+          ],
+          "kind": "FieldDefinition",
+          "name": Object {
+            "kind": "Name",
+            "value": "movie",
+          },
+          "type": Object {
+            "kind": "NonNullType",
+            "type": Object {
+              "kind": "ListType",
+              "type": Object {
+                "kind": "NamedType",
+                "name": Object {
+                  "kind": "Name",
+                  "value": "Movie",
+                },
+              },
+            },
+          },
+        },
       ],
       "interfaces": Array [],
       "kind": "ObjectTypeDefinition",
@@ -124,7 +210,7 @@ Object {
           "description": Object {
             "block": false,
             "kind": "StringValue",
-            "value": "English (United States)",
+            "value": "English (United States) - Default",
           },
           "directives": Array [],
           "kind": "EnumValueDefinition",
@@ -882,7 +968,7 @@ Object {
   ],
   "kind": "Document",
   "loc": Object {
-    "end": 1363,
+    "end": 1510,
     "start": 0,
   },
 }
