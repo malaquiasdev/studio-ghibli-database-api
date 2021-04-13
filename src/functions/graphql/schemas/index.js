@@ -5,6 +5,8 @@ const typeDefs = gql`
   type Query {
     "Get full metadata from all the movies"
     movies(language: AllowedLanguage): [Movie]! @cacheControl(maxAge: 500)
+    "Get full metadata from a movie using querys"
+    movie(id: String!, language: AllowedLanguage): [Movie]! @cacheControl(maxAge: 500)
   }
 
   "A ISO 639-1 value to display translated data for the fields that support it. Default value is en-US"
@@ -13,7 +15,7 @@ const typeDefs = gql`
     JA
     "Portuguese (Brazil)"
     PT_BR
-    "English (United States)"
+    "English (United States) - Default"
     EN_US
   }
 

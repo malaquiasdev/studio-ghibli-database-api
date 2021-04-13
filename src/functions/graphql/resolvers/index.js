@@ -1,4 +1,5 @@
 const findMoviesQuery = require('./find-movies-query');
+const findMovieQuery = require('./find-movie-query');
 
 const resolser = {
   AllowedLanguage: {
@@ -14,6 +15,7 @@ const resolser = {
   },
   Query: {
     movies: findMoviesQuery,
+    movie: findMovieQuery,
   },
 };
 

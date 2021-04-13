@@ -319,6 +319,7 @@ Array [
       "ファミリー",
       "ファンタジー",
     ],
+    "id": "MV03222",
     "language": "ja",
     "originalLanguage": Object {
       "iso6391": "ja",
@@ -336,7 +337,6 @@ Array [
     ],
     "releaseYear": "1988",
     "revenue": 45000000,
-    "rootId": "MV03222",
     "runTime": 86,
     "title": "となりのトトロ",
     "type": "movie",
@@ -658,6 +658,7 @@ Array [
       "Family",
       "Fantasy",
     ],
+    "id": "MV03222",
     "language": "en-US",
     "originalLanguage": Object {
       "iso6391": "ja",
@@ -675,7 +676,6 @@ Array [
     ],
     "releaseYear": "1988",
     "revenue": 45000000,
-    "rootId": "MV03222",
     "runTime": 86,
     "title": "My Neighbor Totoro",
     "type": "movie",
@@ -997,6 +997,7 @@ Array [
       "Família",
       "Fantasia",
     ],
+    "id": "MV03222",
     "language": "pt-BR",
     "originalLanguage": Object {
       "iso6391": "ja",
@@ -1014,7 +1015,6 @@ Array [
     ],
     "releaseYear": "1988",
     "revenue": 45000000,
-    "rootId": "MV03222",
     "runTime": 86,
     "title": "Meu Amigo Totoro",
     "type": "movie",
