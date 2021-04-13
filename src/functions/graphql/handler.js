@@ -3,6 +3,7 @@ const config = require('./config');
 const typeDefs = require('./schemas');
 const resolvers = require('./resolvers');
 const findMoviesByLanguage = require('../../components/dynamodb/querys/find-movies-by-language');
+const findMovieByIdAndLanguage = require('../../components/dynamodb/querys/find-movie-by-id-language');
 
 require('dotenv/config');
 
@@ -16,6 +17,7 @@ const server = new ApolloServer({
     return {
       config,
       findMoviesByLanguage,
+      findMovieByIdAndLanguage,
     };
   },
 });

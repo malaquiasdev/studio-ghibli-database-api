@@ -6,26 +6,17 @@ Resources:
       AttributeDefinitions:
         - AttributeName: id
           AttributeType: S
-        - AttributeName: rootId
-          AttributeType: S
         - AttributeName: language
           AttributeType: S
       KeySchema:
         - AttributeName: id
           KeyType: HASH
+        - AttributeName: language
+          KeyType: RANGE
       ProvisionedThroughput:
         ReadCapacityUnits: ${self:custom.tableThroughput}
         WriteCapacityUnits: ${self:custom.tableThroughput}
       GlobalSecondaryIndexes:
-        - IndexName: rootId
-          KeySchema:
-            - AttributeName: rootId
-              KeyType: HASH
-          Projection:
-            ProjectionType: ALL
-          ProvisionedThroughput:
-            ReadCapacityUnits: ${self:custom.tableThroughput}
-            WriteCapacityUnits: ${self:custom.tableThroughput}
         - IndexName: language
           KeySchema:
             - AttributeName: language
