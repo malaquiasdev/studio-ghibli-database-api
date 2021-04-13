@@ -1,0 +1,885 @@
+{
+    "Items": [
+        {
+            "id": {
+                "S": "MV03222"
+            },
+            "language": {
+                "S": "en-US"
+            },
+            "originalLanguage": {
+                "M": {
+                    "name": {
+                        "S": "Japanese"
+                    },
+                    "iso6391": {
+                        "S": "ja"
+                    }
+                }
+            },
+            "budget": {
+                "N": "3700000"
+            },
+            "releaseYear": {
+                "S": "1988"
+            },
+            "runTime": {
+                "N": "86"
+            },
+            "revenue": {
+                "N": "45000000"
+            },
+            "ratings": {
+                "L": [
+                    {
+                        "M": {
+                            "value": {
+                                "S": "L"
+                            },
+                            "key": {
+                                "S": "Departamento de Justiça, Classificação, Títulos e Qualificação"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "value": {
+                                "S": "G"
+                            },
+                            "key": {
+                                "S": "Motion Picture Association of America"
+                            }
+                        }
+                    }
+                ]
+            },
+            "description": {
+                "S": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her."
+            },
+            "cast": {
+                "L": [
+                    {
+                        "M": {
+                            "characterName": {
+                                "S": "Satsuki"
+                            },
+                            "name": {
+                                "S": "Noriko Hidaka"
+                            },
+                            "role": {
+                                "S": "Voice"
+                            },
+                            "order": {
+                                "N": "0"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "characterName": {
+                                "S": "Hitoshi Takagi"
+                            },
+                            "name": {
+                                "S": "Totoro"
+                            },
+                            "role": {
+                                "S": "Voice"
+                            },
+                            "order": {
+                                "N": "1"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "characterName": {
+                                "S": "Mei"
+                            },
+                            "name": {
+                                "S": "Chika Sakamoto"
+                            },
+                            "role": {
+                                "S": "Voice"
+                            },
+                            "order": {
+                                "N": "2"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "characterName": {
+                                "S": "Tatsuo Kusakabe"
+                            },
+                            "name": {
+                                "S": "Shigesato Itoi"
+                            },
+                            "role": {
+                                "S": "Voice"
+                            },
+                            "order": {
+                                "N": "3"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "characterName": {
+                                "S": "Yasuko Kusakabe"
+                            },
+                            "name": {
+                                "S": "Sumi Shimamoto"
+                            },
+                            "role": {
+                                "S": "Voice"
+                            },
+                            "order": {
+                                "N": "4"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "characterName": {
+                                "S": "Kanta no obâsan"
+                            },
+                            "name": {
+                                "S": "Tanie Kitabayashi"
+                            },
+                            "role": {
+                                "S": "Voice"
+                            },
+                            "order": {
+                                "N": "5"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "characterName": {
+                                "S": "Kanta no otôsan"
+                            },
+                            "name": {
+                                "S": "Masashi Hirose"
+                            },
+                            "role": {
+                                "S": "Voice"
+                            },
+                            "order": {
+                                "N": "6"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "characterName": {
+                                "S": "Kanta no okâsan"
+                            },
+                            "name": {
+                                "S": "Yûko Maruyama"
+                            },
+                            "role": {
+                                "S": "Voice"
+                            },
+                            "order": {
+                                "N": "7"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "characterName": {
+                                "S": "Kusakari-Otoko"
+                            },
+                            "name": {
+                                "S": "Shigeru Chiba"
+                            },
+                            "role": {
+                                "S": "Voice"
+                            },
+                            "order": {
+                                "N": "8"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "characterName": {
+                                "S": "Kanta"
+                            },
+                            "name": {
+                                "S": "Toshiyuki Amagasa"
+                            },
+                            "role": {
+                                "S": "Voice"
+                            },
+                            "order": {
+                                "N": "9"
+                            }
+                        }
+                    }
+                ]
+            },
+            "genres": {
+                "L": [
+                    {
+                        "S": "Animation"
+                    },
+                    {
+                        "S": "Family"
+                    },
+                    {
+                        "S": "Fantasy"
+                    }
+                ]
+            },
+            "crew": {
+                "L": [
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Tensai Okamura"
+                            },
+                            "role": {
+                                "S": "Animation"
+                            },
+                            "order": {
+                                "N": "0"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Hayao Miyazaki"
+                            },
+                            "role": {
+                                "S": "Director"
+                            },
+                            "order": {
+                                "N": "1"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Hayao Miyazaki"
+                            },
+                            "role": {
+                                "S": "Writer"
+                            },
+                            "order": {
+                                "N": "2"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Rick Dempsey"
+                            },
+                            "role": {
+                                "S": "Executive Producer"
+                            },
+                            "order": {
+                                "N": "3"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Mark Henley"
+                            },
+                            "role": {
+                                "S": "Director of Photography"
+                            },
+                            "order": {
+                                "N": "4"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Ned Lott"
+                            },
+                            "role": {
+                                "S": "Producer"
+                            },
+                            "order": {
+                                "N": "5"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Ned Lott"
+                            },
+                            "role": {
+                                "S": "Casting"
+                            },
+                            "order": {
+                                "N": "6"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Joe Hisaishi"
+                            },
+                            "role": {
+                                "S": "Original Music Composer"
+                            },
+                            "order": {
+                                "N": "7"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Toshio Suzuki"
+                            },
+                            "role": {
+                                "S": "Producer"
+                            },
+                            "order": {
+                                "N": "8"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Takeshi Seyama"
+                            },
+                            "role": {
+                                "S": "Editor"
+                            },
+                            "order": {
+                                "N": "9"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Yasuyoshi Tokuma"
+                            },
+                            "role": {
+                                "S": "Executive Producer"
+                            },
+                            "order": {
+                                "N": "10"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Yōji Takeshige"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "11"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Makiko Futaki"
+                            },
+                            "role": {
+                                "S": "Animation"
+                            },
+                            "order": {
+                                "N": "12"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Hisao Shirai"
+                            },
+                            "role": {
+                                "S": "Director of Photography"
+                            },
+                            "order": {
+                                "N": "13"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Tooru Hara"
+                            },
+                            "role": {
+                                "S": "Producer"
+                            },
+                            "order": {
+                                "N": "14"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Shinji Kimura"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "15"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Katsuya Kondo"
+                            },
+                            "role": {
+                                "S": "Animation"
+                            },
+                            "order": {
+                                "N": "16"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Eiko Tanaka"
+                            },
+                            "role": {
+                                "S": "Line Producer"
+                            },
+                            "order": {
+                                "N": "17"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Sunao Katabuchi"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "18"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Kazuo Oga"
+                            },
+                            "role": {
+                                "S": "Art Direction"
+                            },
+                            "order": {
+                                "N": "19"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Toshio Nozaki"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "20"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Yoshinori Kanada"
+                            },
+                            "role": {
+                                "S": "Animation"
+                            },
+                            "order": {
+                                "N": "21"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Hidetoshi Kaneko"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "22"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Masaaki Endou"
+                            },
+                            "role": {
+                                "S": "Animation"
+                            },
+                            "order": {
+                                "N": "23"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Shinji Otsuka"
+                            },
+                            "role": {
+                                "S": "Animation"
+                            },
+                            "order": {
+                                "N": "24"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Hirômi Yamakawa"
+                            },
+                            "role": {
+                                "S": "Animation"
+                            },
+                            "order": {
+                                "N": "25"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Toshio Kawaguchi"
+                            },
+                            "role": {
+                                "S": "Animation"
+                            },
+                            "order": {
+                                "N": "26"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Masako Shinohara"
+                            },
+                            "role": {
+                                "S": "Animation"
+                            },
+                            "order": {
+                                "N": "27"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Hitomi Tateno"
+                            },
+                            "role": {
+                                "S": "Animation Manager"
+                            },
+                            "order": {
+                                "N": "28"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Michiyo Yasuda"
+                            },
+                            "role": {
+                                "S": "Painter"
+                            },
+                            "order": {
+                                "N": "29"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Kiyomi Ôta"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "30"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Junko Ina"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "31"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Komasa"
+                            },
+                            "role": {
+                                "S": "Animation"
+                            },
+                            "order": {
+                                "N": "32"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Tsuyoshi Matsumuro"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "33"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Hajime Matsuoka"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "34"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Yuko Matsuura"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "35"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Nobuhiro Otsuka"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "36"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Yoshiharu Sato"
+                            },
+                            "role": {
+                                "S": "Animation Supervisor"
+                            },
+                            "order": {
+                                "N": "37"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Makoto Shiraishi"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "38"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Kiyoko Sugawara"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "39"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Yasuko Tachiki"
+                            },
+                            "role": {
+                                "S": "Animation Manager"
+                            },
+                            "order": {
+                                "N": "40"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Hideko Tagawa"
+                            },
+                            "role": {
+                                "S": "Animation"
+                            },
+                            "order": {
+                                "N": "41"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Keiko Tamura"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "42"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Makoto Tanaka"
+                            },
+                            "role": {
+                                "S": "Animation"
+                            },
+                            "order": {
+                                "N": "43"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Sadahiko Tanaka"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "44"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Tsukasa Tannai"
+                            },
+                            "role": {
+                                "S": "Animation"
+                            },
+                            "order": {
+                                "N": "45"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Masaki Yoshizaki"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "46"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Tetsuya Endō"
+                            },
+                            "role": {
+                                "S": "Assistant Director"
+                            },
+                            "order": {
+                                "N": "47"
+                            }
+                        }
+                    },
+                    {
+                        "M": {
+                            "name": {
+                                "S": "Akira Yamakawa"
+                            },
+                            "role": {
+                                "S": "Background Designer"
+                            },
+                            "order": {
+                                "N": "48"
+                            }
+                        }
+                    }
+                ]
+            },
+            "type": {
+                "S": "movie"
+            },
+            "title": {
+                "S": "My Neighbor Totoro"
+            }
+        }
+    ]
+}
