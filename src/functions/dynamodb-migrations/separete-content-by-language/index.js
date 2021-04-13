@@ -10,7 +10,7 @@ function separateContentByLanguage(rawContents = []) {
       const { languageKeys } = content;
       for (const language of languageKeys) {
         const newContent = {
-          rootId: content.id,
+          id: content.id,
           budget: content.budget,
           revenue: content.revenue,
           releaseYear: content.releaseYear,
