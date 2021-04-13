@@ -6,7 +6,7 @@ Resources:
       AttributeDefinitions:
         - AttributeName: id
           AttributeType: S
-        - AttributeName: contentId
+        - AttributeName: rootId
           AttributeType: S
         - AttributeName: language
           AttributeType: S
@@ -17,9 +17,9 @@ Resources:
         ReadCapacityUnits: ${self:custom.tableThroughput}
         WriteCapacityUnits: ${self:custom.tableThroughput}
       GlobalSecondaryIndexes:
-        - IndexName: contentId
+        - IndexName: rootId
           KeySchema:
-            - AttributeName: contentId
+            - AttributeName: rootId
               KeyType: HASH
           Projection:
             ProjectionType: ALL

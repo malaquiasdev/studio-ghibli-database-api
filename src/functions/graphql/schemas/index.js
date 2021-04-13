@@ -30,6 +30,10 @@ const typeDefs = gql`
 
   type Movie {
     id: String!
+    """
+    This is a connector key of the movie, used to relate all language versions with the same movie
+    """
+    rootId: String!
     title: String!
     budget: Int
     description: String!
